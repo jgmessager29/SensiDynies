@@ -96,10 +96,10 @@ async def on_member_remove(member):
     async for entry in guild.audit_logs(limit=5, action=discord.AuditLogAction.kick):
         if entry.target.id == member.id and member.id not in recent_kicks:
             recent_kicks.add(member.id)
-            await send_log_embed("**Expulsion**", f"⚠️ **{member}** a été expulsé par {entry.user}.", color=discord.Color.pink())
+            await send_log_embed("**Départ**", f"🛫 **{member}** a quitté le serveur volontairement.", color=discord.Color.pink())
             return
-    await send_log_embed("**Départ**", f"🛫 **{member}** a quitté le serveur volontairement.", color=discord.Color.pink())
-
+    await send_log_embed("**Expulsion**", f"⚠️ **{member}** a été expulsé par {entry.user}.", color=discord.Color.pink())
+    
 @bot.event
 async def on_member_ban(guild, user):
     if user.id not in recent_bans:
