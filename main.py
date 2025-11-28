@@ -47,7 +47,7 @@ async def block_prefix(ctx):
     return True
     
 # ----------------------------------------
-# Mini serveur Flask pour Render
+# MINI SERVEUR FLASK POUR RENDER
 # ----------------------------------------
 app = Flask('')
 
@@ -81,38 +81,38 @@ async def on_ready():
     print("Statut du bot défini avec succès !")
 
 # ----------------------------------------
-# CONFIGURATION DU SALON DE LOGS
+# CONFIGURATION DES SALON DE LOGS
 # ----------------------------------------
 LOG_CHANNEL_ID = 1443209968865116271
 IN_CHANNEL_ID = 1440448854347616290
-
-# ----------------------------------------
-# FONCTION D'ENVOI D'EMBED LOGS
-# ----------------------------------------
-async def send_log_embed(title, description, color=discord.Color.pink()):
-    channel = bot.get_channel(LOG_CHANNEL_ID)
-    if channel:
-        embed = discord.Embed(title=title, description=description, color=color)
-        await channel.send(embed=embed)
-
-# ----------------------------------------
-# EVENTS : JOIN / LEAVE / BAN / KICK
-# ----------------------------------------
-
 recent_kicks = set()
 recent_bans = set()
 
+# ----------------------------------------
+# FONCTION D'ENVOI D'EMBED LOGS AVEC CHOIX DE SALON
+# ----------------------------------------
+async def send_embed_to_channels(title, description, color=discord.Color.pink(), channels=None):
+#   Envoie un embed dans un salon donné. Si channel_id n'est pas précisé, utilise LOG_CHANNEL_ID par défaut.
+ if channels is None:
+        channels = [LOG_CHANNEL_ID]
+    for cid in channels:
+        channel = bot.get_channel(cid)
+        if channel:
+            embed = discord.Embed(title=title, description=description, color=color)
+            await channel.send(embed=embed)
+
+# ----------------------------------------
+# EVENT : Membre rejoint
+# ----------------------------------------
 @bot.event
 async def on_member_join(member):
     # ---- LOGS ----
-    log_channel = member.guild.get_channel(LOG_CHANNEL_ID)
-    if log_channel:
-        embed_log = discord.Embed(
-            title="Arrivée",
-            description=f"🛬 {member.mention} a rejoint le serveur !",
-            color=discord.Color.pink()
-        )
-        await log_channel.send(embed=embed_log)
+    await send_embed_to_channels(
+        title="Arrivée",
+        description=f"🛬 {member.mention} a rejoint le serveur !",
+        color=discord.Color.pink(),
+        channels=[LOG_CHANNEL_ID]  # salon de log par défaut
+    )
 
     # ---- SALON DE BIENVENUE ----
     welcome_channel = member.guild.get_channel(IN_CHANNEL_ID)
@@ -132,66 +132,86 @@ async def on_member_join(member):
             text="Bot SensiDynies et Discord créés par Joguy, CEO Trisked : https://www.trisked.fr"
         )
         await welcome_channel.send(embed=embed_welcome)
-        
+
+# ----------------------------------------
+# EVENT : Membre quitte / kick
+# ----------------------------------------
 @bot.event
 async def on_member_remove(member):
     guild = member.guild
     async for entry in guild.audit_logs(limit=10, action=discord.AuditLogAction.kick):
         if entry.target.id == member.id and member.id not in recent_kicks:
             recent_kicks.add(member.id)
-            await send_log_embed("**Départ**", f"🛫 **{member}** a quitté le serveur volontairement.", color=discord.Color.pink())
+            await send_embed_to_channels(
+                title="**Départ**",
+                description=f"🛫 **{member}** a quitté le serveur volontairement.",
+                color=discord.Color.pink(),
+                channels=[LOG_CHANNEL_ID]  # salon de log
+            )
             return
-    await send_log_embed("**Expulsion**", f"⚠️ **{member}** a été expulsé par {entry.user}.", color=discord.Color.pink())
-    
+    await send_embed_to_channels(
+        title="**Expulsion**",
+        description=f"⚠️ **{member}** a été expulsé par {entry.user}.",
+        color=discord.Color.pink(),
+        channels=[LOG_CHANNEL_ID]
+    )
+
+# ----------------------------------------
+# EVENT : Bannissement
+# ----------------------------------------
 @bot.event
 async def on_member_ban(guild, user):
     if user.id not in recent_bans:
         recent_bans.add(user.id)
         async for entry in guild.audit_logs(limit=5, action=discord.AuditLogAction.ban):
             if entry.target.id == user.id:
-                await send_log_embed("**Bannissement**", f"⛔ **{user}** a été banni par {entry.user}.", color=discord.Color.pink())
+                await send_embed_to_channels(
+                    title="**Bannissement**",
+                    description=f"⛔ **{user}** a été banni par {entry.user}.",
+                    color=discord.Color.pink(),
+                    channels=[LOG_CHANNEL_ID]
+                )
                 return
-        await send_log_embed("**Bannissement**", f"⛔ **{user}** a été banni du serveur.", color=discord.Color.pink())
+        await send_embed_to_channels(
+            title="**Bannissement**",
+            description=f"⛔ **{user}** a été banni du serveur.",
+            color=discord.Color.pink(),
+            channels=[LOG_CHANNEL_ID]
+        )
 
+# ----------------------------------------
+# EVENT : Changement de pseudo
+# ----------------------------------------
 @bot.event
 async def on_member_update(before, after):
     if before.display_name != after.display_name and not before.bot:
-        await send_log_embed("**Changement de pseudo**", f"✏️ **{before}** a changé de pseudo en **{after.display_name}**", color=discord.Color.pink())
+        await send_embed_to_channels(
+            title="**Changement de pseudo**",
+            description=f"✏️ **{before}** a changé de pseudo en **{after.display_name}**",
+            color=discord.Color.pink(),
+            channels=[LOG_CHANNEL_ID]
+        )
 
+# ----------------------------------------
+# EVENT : Changement de présence (bot)
+# ----------------------------------------
 @bot.event
 async def on_presence_update(before, after):
-    if after.bot:
-        if before.status != after.status:
-            if str(after.status) == "online":
-                await send_log_embed(title="Bot connecté", description=f"{after} est maintenant en ligne", color=discord.Color.pink())
-            elif str(after.status) == "offline":
-                await send_log_embed(title="Bot déconnecté", description=f"{after} est maintenant hors ligne", color=discord.Color.pink())
-
-# ----------------------------------------
-# MESSAGE DE BIENVENUE
-# ----------------------------------------
-@bot.event
-async def on_member_join(member):
-    # Salon de bienvenue
-    welcome_channel = member.guild.get_channel(1440448854347616290)
-    if welcome_channel:
-        member_number = len(member.guild.members)
-        # Ping du membre
-        await welcome_channel.send(f"{member.mention}")
-        # Embed de bienvenue
-        embed = discord.Embed(
-            title=f"🌿 Bienvenue {member.display_name} 🌿",
-            description=(
-                f"**Tu es le {member_number}ème membre à rejoindre le serveur !**\n\n"
-                "Ici, tu trouveras un espace sûr pour échanger et partager.\n\n"
-            ),
-            color=discord.Color.pink()
-        )
-        embed.set_footer(
-            text="Bot SensiDynies et Discord créés par Joguy, CEO Trisked : https://www.trisked.fr"
-        )
-        await welcome_channel.send(embed=embed)
-
+    if after.bot and before.status != after.status:
+        if str(after.status) == "online":
+            await send_embed_to_channels(
+                title="Bot connecté",
+                description=f"{after} est maintenant en ligne",
+                color=discord.Color.pink(),
+                channels=[LOG_CHANNEL_ID]
+            )
+        elif str(after.status) == "offline":
+            await send_embed_to_channels(
+                title="Bot déconnecté",
+                description=f"{after} est maintenant hors ligne",
+                color=discord.Color.pink(),
+                channels=[LOG_CHANNEL_ID]
+            )
 # ----------------------------------------
 # RÉACTIONS AUTOMATIQUES AUX MESSAGES
 # ----------------------------------------
