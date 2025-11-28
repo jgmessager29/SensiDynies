@@ -90,18 +90,22 @@ async def send_log_embed(title, description, color=discord.Color.pink()):
 
 recent_kicks = set()
 recent_bans = set()
+recent_entry = set()
 
 @bot.event
 async def on_member_join(member):
+    if member.id in recent_entry:
+        return  # On ignore les doublons
+    recent_entry.add(member.id)
+
     channel = member.guild.get_channel(LOG_CHANNEL_ID)
     if channel:
-        embed = discord.Embed(
-            title="**Arrivée**",
-            description=f"🛬 **{member}** a rejoint le serveur !",
-            color=discord.Color.pink()
-        )
-        await channel.send(embed=embed)
+        await send_log_embed("**Arrivée**", f"🛬 **{member}** a rejoint le serveur !", color=discord.Color.pink())
 
+    # On peut retirer l'ID après un certain délai si besoin
+    await asyncio.sleep(60)  # 60 secondes par exemple
+    recent_entry.discard(member.id)
+        
 @bot.event
 async def on_member_remove(member):
     guild = member.guild
