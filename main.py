@@ -450,7 +450,7 @@ async def effacer(ctx, amount: int):
     # --- AJOUT DU LOG ---
         await send_log_embed(
             title="**!effacer **",
-            description=f"⚠️ {ctx.author} a effacé {amount} messages dans #{ctx.channel.name}",
+            description=f"⚠️ {ctx.author} a effacé {amount} messages dans <#{ctx.channel.id}>",
             color=discord.Color.pink()
          )
 # FIN - Suppression des messages
