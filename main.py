@@ -36,15 +36,27 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 bot.remove_command("help")
 
 # ----------------------------------------
-# Bloquer le préfixe "/"
+# RÉACTIONS AUX MESSAGES ET BLOQUER PREFIXE "/"
 # ----------------------------------------
-@bot.check
-async def block_prefix(ctx):
-    if ctx.message.content.startswith("/"):
-        await ctx.send("❌ Les commandes avec ce préfixe sont désactivées pour le moment.")
-        return False  # Bloque l'exécution
-    return True
-    
+@bot.event
+async def on_message(message):
+    if message.author == bot.user:
+        return
+
+    # Bloquer tous les messages qui commencent par "/"
+    if message.content.startswith("/"):
+        await message.channel.send("❌ Les commandes avec ce préfixe sont désactivées pour le moment.")
+        return  # Stop l'exécution ici
+
+    # Reactions automatiques (exemple)
+    if "sensidynies" in message.content.lower():
+        await message.add_reaction("🛸")
+    if "fibromyalgie" in message.content.lower():
+        await message.add_reaction("🫂")
+
+    # Traiter les commandes normales
+    await bot.process_commands(message)
+
 # ----------------------------------------
 # STATUT DU BOT AU LANCEMENT
 # ----------------------------------------
@@ -193,18 +205,6 @@ async def on_presence_update(before, after):
                 color=discord.Color.pink(),
                 channels=[LOG_CHANNEL_ID]
             )
-# ----------------------------------------
-# RÉACTIONS AUTOMATIQUES AUX MESSAGES
-# ----------------------------------------
-@bot.event
-async def on_message(message):
-    if message.author == bot.user:
-        return
-    if "sensidynies" in message.content.lower():
-        await message.add_reaction("🛸")
-    if "fibromyalgie" in message.content.lower():
-        await message.add_reaction("🫂")
-    await bot.process_commands(message)
 
 # ----------------------------------------
 # CHARGEMENT FICHIERS DES COMMANDES
