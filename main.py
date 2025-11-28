@@ -297,6 +297,7 @@ async def aide(ctx, cmd_name=None):
         cat1 = "**Assistance**\n"
         cat1 += "`!aide [commande]` : Affiche la commande et sa description.\n"
         cat1 += "`!dico` : Recherche les définitions médicales.\n"
+        cat1 += "`!invite` : Lien d'invitation au serveur.\n"
         cat1 += "`!perdu` : Liste des salons pour se repérer.\n"
         embed.add_field(name="\u200b", value=cat1, inline=False)
 
@@ -425,6 +426,13 @@ async def info(ctx):
     await ctx.send(embed=embed)
 
 # ----------------------------------------
+# COMMANDE !invite (texte simple)
+# ----------------------------------------
+@bot.command(name="invite")
+async def invite_cmd(ctx):
+    await ctx.send(f"https://discord.gg/az9MUPYSEk")
+
+# ----------------------------------------
 # COMMANDE !perdu
 # ----------------------------------------
 @bot.command(name="perdu")
@@ -452,7 +460,7 @@ async def perdu_cmd(ctx):
             "→ Zone modération : suivi, gestion du serveur et configuration des bots.\n"
         ),
         color=discord.Color.pink()
-    )
+    )  
     await ctx.send(embed=embed)
 
 # ----------------------------------------
