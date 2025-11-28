@@ -2038,3 +2038,488 @@ pore: Minuscule orifice cutané d'une glande sudoripare.
 poreux: Qui présente des pores, perméable.
 porphyrie: Maladie métabolique héréditaire affectant la synthèse de l'hème.
 port: Action de porter, ou position du corps.
+portabilité: Possibilité de transférer ses droits de sécurité sociale.
+portable: Qui peut être porté ou déplacé facilement, notamment appareil médical.
+portage: Transport d'un patient ou présence asymptomatique d'un germe.
+portail: Entrée principale d'un établissement de santé.
+portant: Qui soutient le poids, ou en bonne santé.
+portatif: Facilement transportable.
+porte: Ouverture permettant l'accès à un local.
+porte d'entrée: Point d'introduction d'un agent infectieux dans l'organisme.
+portée: Distance maximale d'action, ou ensemble de nouveau-nés d'un animal.
+porte-germes: Personne hébergeant un agent pathogène sans symptômes.
+porter: Soutenir un poids, ou être atteint d'une maladie.
+porteur: Personne transportant ou hébergeant un agent pathogène.
+porteur sain: Individu hébergeant un germe pathogène sans présenter de symptômes.
+portion: Partie d'un tout, notamment alimentaire.
+porto-cave: Relatif à la veine porte et à la veine cave.
+portrait: Description détaillée ou représentation.
+pose: Installation d'un dispositif médical, ou position maintenue.
+posé: Calme, réfléchi dans le comportement.
+poser: Installer un dispositif ou formuler une question.
+positif: Résultat indiquant la présence de ce qui est recherché.
+position: Situation du corps dans l'espace.
+position latérale de sécurité: Position de mise en sécurité d'une personne inconsciente.
+positionnement: Action de placer dans une position appropriée.
+positionner: Placer dans une position déterminée.
+posologie: Dose et rythme d'administration d'un médicament.
+possession: État de détention ou délire de possession en psychiatrie.
+possibilité: Caractère de ce qui peut se réaliser.
+possible: Qui peut se produire ou être réalisé.
+post-: Préfixe signifiant après.
+postérieur: Situé en arrière, vers l'arrière du corps.
+postérité: Descendance, générations futures.
+posthume: Qui survient après la mort.
+postiche: Faux, artificiel, notamment cheveux.
+postillon: Gouttelette de salive projetée en parlant.
+post-mortem: Après la mort, notamment examen autopsique.
+postnatal: Qui suit immédiatement la naissance.
+post-opératoire: Qui suit une intervention chirurgicale.
+postpartum: Période suivant l'accouchement.
+postprandial: Qui survient après un repas.
+post-traumatique: Qui fait suite à un traumatisme physique ou psychologique.
+postulat: Principe admis sans démonstration.
+posture: Position du corps, attitude corporelle.
+postural: Relatif à la posture.
+potable: Qui peut être bu sans danger pour la santé.
+potage: Soupe, aliment liquide.
+potassium: Minéral essentiel à la fonction cardiaque et musculaire.
+potence: Support vertical, ou capacité fonctionnelle.
+potentialisation: Augmentation de l'effet d'un médicament par un autre.
+potentiel: Capacité latente, ou différence de charge électrique.
+potentiel d'action: Signal électrique transmis par les neurones.
+potentialité: Capacité virtuelle à se développer.
+potion: Préparation liquide médicamenteuse à boire.
+pouce: Premier doigt de la main, le plus court et épais.
+poudre: Substance solide finement divisée.
+poudrière: Récipient pour poudre, ou situation explosive.
+poumon: Organe pair de la respiration situé dans le thorax.
+poumon artificiel: Dispositif d'assistance respiratoire.
+poupée: Jouet ou articulation du poignet.
+pouponnière: Service de soins aux nouveau-nés en maternité.
+pourcentage: Proportion exprimée sur cent.
+pourriture: Décomposition putride de tissus.
+poursuite: Continuation ou mouvement oculaire de suivi.
+pousse: Croissance d'un tissu, ou épisode aigu d'une maladie.
+poussée: Aggravation temporaire d'une maladie chronique.
+poussée dentaire: Apparition des dents à travers la gencive.
+poussée hypertensive: Élévation brutale de la tension artérielle.
+pousser: Exercer une force, ou croître.
+poussière: Fines particules en suspension pouvant être inhalées.
+poussif: Qui respire difficilement, essoufflé.
+poutre: Élément de soutien structural.
+pouvoir: Capacité d'agir ou autorité légale.
+pouvoir pathogène: Capacité d'un micro-organisme à causer une maladie.
+PPS: Plan personnalisé de santé, projet de soins individualisé.
+pratique: Exercice d'une profession ou application concrète.
+praticien: Professionnel exerçant une activité médicale ou paramédicale.
+praticienne: Professionnelle exerçant une activité médicale ou paramédicale.
+pratiquant: Qui exerce régulièrement une activité.
+pratiquer: Exercer une profession ou réaliser un acte médical.
+pré-: Préfixe signifiant avant.
+préadmission: Formalités administratives avant hospitalisation.
+préalable: Qui précède et conditionne.
+préambule: Introduction préliminaire.
+préanesthésie: Phase précédant l'anesthésie.
+préavis: Information donnée à l'avance.
+précaire: Instable, fragile.
+précarité: État de fragilité sociale et économique affectant la santé.
+précaution: Mesure de prudence pour éviter un risque.
+précédent: Qui vient avant dans le temps.
+précession: Mouvement de rotation, notamment en IRM.
+précepte: Règle de conduite.
+précieux: De grande valeur, rare.
+précipice: Escarpement dangereux.
+précipitation: Hâte excessive ou formation d'un dépôt solide.
+précipité: Dépôt solide formé dans une solution.
+précipiter: Accélérer ou former un précipité.
+précis: Exact, déterminé avec rigueur.
+préciser: Rendre plus exact, détailler.
+précision: Exactitude d'une mesure ou information.
+précoce: Qui survient tôt, avant le moment habituel.
+précocité: Caractère de ce qui apparaît précocement.
+précognition: Connaissance anticipée d'un événement.
+préconception: Période précédant la conception d'un enfant.
+préconiser: Recommander fortement.
+précordial: Situé devant le cœur, région thoracique antérieure.
+précordialgies: Douleurs de la région précordiale.
+précurseur: Substance dont dérive une autre par transformation.
+prédateur: Organisme se nourrissant d'autres organismes.
+prédécès: Décès survenant avant celui d'une autre personne.
+prédécesseur: Personne ayant occupé un poste avant une autre.
+prédestination: Détermination préalable du destin.
+prédiabète: État précédant le diabète avec glycémie limite.
+prédicateur: Personne prêchant des valeurs.
+prédication: Action de prêcher.
+prédiction: Annonce d'un événement futur.
+prédilection: Préférence marquée.
+prédisposant: Qui favorise l'apparition d'une maladie.
+prédisposition: Susceptibilité accrue à développer une pathologie.
+prédominance: Caractère de ce qui domine.
+prédominant: Qui prédomine, principal.
+prééclampsie: Complication grave de la grossesse avec hypertension et protéinurie.
+préemballé: Conditionné à l'avance.
+préexistant: Qui existe déjà avant un événement donné.
+préfectoral: Relatif au préfet ou à la préfecture.
+préfecture: Administration départementale.
+préférence: Choix privilégié entre plusieurs options.
+préférentiel: Qui bénéficie d'une priorité.
+préférer: Choisir de préférence.
+préfrontal: Relatif à la partie antérieure du lobe frontal.
+prégnance: Caractère de ce qui s'impose fortement.
+prégnant: Qui s'impose avec force.
+préhension: Action de saisir avec la main.
+préhistoire: Période avant l'apparition de l'écriture.
+préhospitalier: Qui précède l'arrivée à l'hôpital, soins d'urgence sur place.
+préimplantatoire: Avant l'implantation de l'embryon dans l'utérus.
+préjudice: Dommage subi causant un tort.
+préjudiciable: Qui cause un préjudice.
+préjugé: Opinion préconçue sans fondement.
+prélart: Toile cirée imperméable.
+prélasser: Se reposer confortablement.
+prélat: Dignitaire religieux de haut rang.
+prélèvement: Action de prendre un échantillon biologique pour analyse.
+prélèvement sanguin: Prise de sang pour analyses biologiques.
+prélever: Extraire un échantillon pour examen.
+préliminaire: Qui précède et prépare l'essentiel.
+prématuré: Né avant le terme normal de la grossesse, avant 37 semaines.
+prématurité: Naissance avant le terme de 37 semaines de grossesse.
+prémédication: Administration de médicaments avant anesthésie ou intervention.
+préméditation: Action réfléchie et planifiée à l'avance.
+prémenstruel: Qui précède les menstruations.
+prémices: Premiers signes annonciateurs.
+premier: Qui précède tous les autres.
+premier secours: Soins d'urgence immédiats avant prise en charge médicale.
+premiers soins: Gestes de secours initiaux en cas d'accident ou malaise.
+première intention: Traitement ou cicatrisation initiale sans complication.
+prémisse: Proposition servant de base à un raisonnement.
+prémolaire: Dent située entre canine et molaire.
+prémonitoire: Qui annonce un événement à venir.
+prémunir: Protéger par avance contre un risque.
+prémunition: Protection préalable contre une maladie.
+prénatal: Qui précède la naissance, pendant la grossesse.
+prénom: Nom personnel donné à la naissance.
+préoccupant: Qui suscite de l'inquiétude.
+préoccupation: Souci, inquiétude concernant un problème de santé.
+préopératoire: Qui précède une intervention chirurgicale.
+préparation: Action de préparer ou substance pharmaceutique préparée.
+préparation magistrale: Médicament préparé spécifiquement par le pharmacien.
+préparatoire: Qui prépare à quelque chose.
+préparer: Mettre en état d'être utilisé ou affronter une épreuve.
+prépondérance: Supériorité d'importance.
+prépondérant: Qui a plus d'importance que le reste.
+préposé: Personne affectée à une fonction.
+prépuce: Repli cutané recouvrant le gland du pénis.
+préretraite: Cessation d'activité avant l'âge légal de la retraite.
+prérequis: Condition nécessaire préalable.
+prérogative: Privilège attaché à une fonction.
+présage: Signe annonciateur d'un événement futur.
+presbyacousie: Diminution de l'audition liée au vieillissement.
+presbytie: Difficulté à voir de près apparaissant avec l'âge.
+prescripteur: Professionnel habilité à prescrire des médicaments.
+prescription: Ordonnance médicale ou recommandation thérapeutique.
+prescrire: Ordonner un traitement ou examen médical.
+préséance: Priorité de rang ou d'honneur.
+présence: Fait d'être présent, notamment au chevet du patient.
+présent: Qui est là actuellement.
+présentable: Qui peut être montré, aspect correct.
+présentateur: Personne qui présente.
+présentation: Position du fœtus dans l'utérus avant l'accouchement.
+présenter: Montrer, exposer ou manifester des symptômes.
+présentéisme: Présence au travail malgré la maladie.
+préservatif: Protection contraceptive et préventive des IST, condom.
+préservation: Protection contre une détérioration.
+préserver: Protéger, maintenir en bon état.
+présidence: Fonction de président.
+président: Personne dirigeant une institution.
+présider: Diriger une réunion ou institution.
+présomptif: Supposé, probable avant confirmation.
+présomption: Supposition fondée sur des indices.
+presque: Quasi, à peu près.
+pressant: Urgent, qui nécessite une action rapide.
+presse: Dispositif exerçant une pression, ou médias d'information.
+pressentiment: Intuition d'un événement futur.
+presser: Exercer une pression ou accélérer.
+pression: Force exercée sur une surface, notamment artérielle.
+pression artérielle: Force exercée par le sang sur les parois des artères.
+pression intraoculaire: Pression du liquide à l'intérieur de l'œil.
+prestation: Service fourni, notamment par la sécurité sociale.
+prestidigitateur: Illusionniste réalisant des tours de magie.
+prestige: Rayonnement, autorité morale.
+présumé: Supposé sans certitude absolue.
+présumer: Supposer par conjecture.
+présupposé: Hypothèse admise au préalable.
+présure: Enzyme coagulant le lait.
+prêt: Préparé, disposé à agir.
+prétendant: Qui affirme avoir droit à quelque chose.
+prétendre: Affirmer, soutenir.
+prétendu: Soi-disant, supposé sans certitude.
+prétention: Ambition ou affirmation contestable.
+prêter: Mettre temporairement à disposition.
+prétexte: Raison invoquée pour dissimuler le véritable motif.
+prétest: Test réalisé avant le test définitif.
+prétibial: Situé devant le tibia.
+prétraitement: Traitement préalable préparatoire.
+prêtre: Ministre du culte catholique.
+preuve: Élément démontrant la vérité d'un fait.
+prévalence: Proportion de personnes atteintes d'une maladie à un moment donné.
+prévalent: Qui prédomine, fréquent.
+prévenance: Attention délicate envers autrui.
+prévenant: Attentionné, plein de sollicitude.
+prévenir: Avertir à l'avance ou empêcher de se produire.
+préventif: Qui vise à prévenir l'apparition d'une maladie.
+prévention: Ensemble des mesures évitant l'apparition des maladies.
+prévention primaire: Prévention avant l'apparition de la maladie.
+prévention secondaire: Dépistage précoce d'une maladie débutante.
+prévention tertiaire: Prévention des complications d'une maladie établie.
+préventive: Qui a pour but de prévenir.
+préventologie: Science de la prévention en santé.
+préventologue: Spécialiste de la prévention en santé.
+prévenu: Personne mise en examen.
+prévision: Anticipation d'un événement futur.
+prévisionniste: Spécialiste des prévisions.
+prévoir: Anticiper un événement futur.
+prévoyance: Précaution pour l'avenir, assurance complémentaire.
+prévoyant: Qui prend des précautions pour l'avenir.
+priapisme: Érection prolongée et douloureuse non liée au désir.
+prière: Demande respectueuse ou invocation religieuse.
+primaire: Premier, fondamental, ou soins de première ligne.
+primat: Ordre de mammifères dont fait partie l'homme.
+primatologie: Étude scientifique des primates.
+primauté: Caractère de ce qui est premier.
+prime: Gratification ou allocation supplémentaire.
+primer: L'emporter sur, avoir la priorité.
+primeur: Nouveauté, produit de saison précoce.
+primipare: Femme accouchant pour la première fois.
+primitif: Premier, originel, ou rudimentaire.
+primo-infection: Premier contact infectieux avec un agent pathogène.
+primordial: De première importance, essentiel.
+prince: Titre de noblesse élevé.
+principal: Le plus important, essentiel.
+principe: Règle fondamentale ou substance active d'un médicament.
+principe actif: Molécule responsable de l'effet thérapeutique d'un médicament.
+printanier: Relatif au printemps.
+printemps: Saison entre hiver et été.
+prion: Agent infectieux protéique sans ADN causant maladies neurodégénératives.
+prioritaire: Qui a la priorité, urgent.
+priorité: Caractère de ce qui doit être traité en premier.
+pris: Occupé ou saisi par.
+prise: Action de saisir ou administration de médicament.
+prise de sang: Prélèvement sanguin pour analyses biologiques.
+prise en charge: Ensemble des soins et accompagnement d'un patient.
+prison: Établissement pénitentiaire, milieu carcéral.
+prisonnier: Personne détenue en prison.
+privation: Absence ou suppression de quelque chose de nécessaire.
+privatisation: Transfert d'un secteur public au privé.
+privé: Personnel, intime, ou établissement non public.
+priver: Ôter, enlever quelque chose à quelqu'un.
+privilège: Avantage particulier accordé à certains.
+privilégié: Qui bénéficie d'avantages particuliers.
+prix: Valeur monétaire ou récompense.
+probabilité: Chance qu'un événement se produise.
+probable: Vraisemblable, qui a des chances de se produire.
+probant: Qui apporte la preuve, convaincant.
+probatoire: Qui sert à éprouver, à tester.
+probe: Intègre, honnête.
+probité: Honnêteté, intégrité morale.
+problématique: Qui pose problème, incertain.
+problème: Difficulté, question à résoudre.
+procédé: Méthode, technique utilisée.
+procéder: Agir d'une certaine manière, réaliser.
+procédure: Ensemble de règles à suivre pour accomplir un acte.
+procès: Action en justice.
+processus: Enchaînement de phénomènes ou mécanisme pathologique.
+procès-verbal: Compte-rendu officiel écrit.
+prochain: Qui vient immédiatement après, suivant.
+proche: À faible distance ou lien familial étroit.
+procidence: Descente anormale d'un organe hors de sa position.
+proclamation: Annonce publique solennelle.
+proclamer: Annoncer publiquement et solennellement.
+procréation: Reproduction, conception d'un enfant.
+procréation médicalement assistée: Techniques médicales aidant à la conception.
+proctalgie: Douleur anale ou rectale.
+procte: Anus, orifice terminal du tube digestif.
+proctite: Inflammation de la muqueuse rectale.
+proctologie: Spécialité médicale de l'anus et du rectum.
+proctologue: Médecin spécialisé dans les maladies ano-rectales.
+proctoscope: Instrument pour examiner le rectum.
+proctoscopie: Examen endoscopique du rectum.
+procurer: Fournir, apporter.
+procureur: Magistrat représentant le ministère public.
+prodige: Événement extraordinaire, personne exceptionnelle.
+prodigieux: Extraordinaire, remarquable.
+prodigue: Qui dépense excessivement.
+prodiguer: Donner généreusement, notamment des soins.
+prodrome: Symptôme annonciateur d'une maladie.
+prodromique: Relatif à la phase précédant l'apparition complète d'une maladie.
+producteur: Qui produit, notamment hormone ou cellule.
+productif: Qui produit, notamment toux avec expectorations.
+production: Action de produire ou ce qui est produit.
+productivité: Capacité de production, rendement.
+produire: Créer, fabriquer, ou causer un effet.
+produit: Résultat d'une production ou substance.
+produit de contraste: Substance opacifiant les organes en imagerie médicale.
+produit sanguin: Composant du sang utilisé en transfusion.
+proéminence: Saillie, relief anatomique.
+proéminent: Qui fait saillie, en relief.
+profane: Non initié, personne sans compétence médicale.
+proférer: Prononcer, émettre des paroles.
+professeur: Enseignant de haut niveau, notamment hospitalo-universitaire.
+profession: Métier, activité professionnelle.
+profession libérale: Activité indépendante intellectuelle, dont professions de santé.
+professionnel: Relatif à la profession ou personne exerçant un métier.
+professionnelle: Personne exerçant un métier.
+profil: Aspect latéral ou ensemble de caractéristiques.
+profit: Bénéfice, avantage retiré.
+profitable: Qui apporte un bénéfice.
+profiter: Tirer avantage, bénéficier.
+profond: Situé loin de la surface ou intense.
+profondeur: Distance de la surface au fond.
+profus: Abondant, notamment sueur ou hémorragie.
+profusion: Grande abondance.
+progéniture: Descendants, enfants.
+progestatif: Hormone sexuelle féminine ou médicament de synthèse.
+progestérone: Hormone sexuelle féminine préparant l'utérus à la grossesse.
+progéria: Vieillissement prématuré pathologique.
+progiciel: Logiciel informatique professionnel.
+prognathisme: Projection en avant des mâchoires.
+programmation: Planification d'activités ou processus informatique.
+programme: Plan d'actions organisées dans le temps.
+programmer: Planifier, organiser dans le temps.
+progrès: Évolution positive, amélioration.
+progresser: Avancer, évoluer positivement.
+progressif: Qui avance graduellement.
+progression: Avancée graduelle, évolution.
+progressiste: Favorable au progrès.
+progressive: Qui évolue graduellement.
+prohiber: Interdire formellement.
+prohibitif: Qui empêche, interdit ou très coûteux.
+prohibition: Interdiction légale formelle.
+proie: Victime d'un prédateur ou d'une maladie.
+projecteur: Appareil émettant un faisceau lumineux.
+projectile: Objet lancé ou projeté pouvant causer des blessures.
+projection: Action de projeter ou mécanisme de défense psychologique.
+projet: Plan d'action à réaliser.
+projet de soins: Plan thérapeutique individualisé pour un patient.
+projet thérapeutique: Ensemble coordonné des objectifs de soins pour un patient.
+projeter: Lancer en avant ou avoir l'intention de faire.
+prolabé: Qui est sorti de sa position normale, prolapsus.
+prolactine: Hormone stimulant la production de lait maternel.
+prolapsus: Descente anormale d'un organe hors de sa position.
+prolétaire: Travailleur pauvre sans propriété.
+prolétariat: Classe sociale des prolétaires.
+prolifération: Multiplication rapide de cellules.
+prolifératif: Qui se multiplie rapidement.
+proliférer: Se multiplier rapidement.
+prolifique: Qui produit beaucoup, fécond.
+prolixe: Trop long, verbeux.
+prologue: Introduction préliminaire.
+prolongation: Action de prolonger dans le temps.
+prolongé: Qui dure plus longtemps que la normale.
+prolongement: Suite, continuation dans l'espace ou le temps.
+prolonger: Étendre dans le temps ou l'espace.
+promenade: Action de se promener, marche de santé.
+promener: Marcher pour le plaisir ou l'exercice.
+promesse: Engagement à faire quelque chose.
+prometteur: Qui laisse espérer de bons résultats.
+promettre: S'engager à faire quelque chose.
+prominente: Qui fait saillie, en relief.
+promiscuité: Proximité excessive favorisant contaminations.
+promontoire: Saillie anatomique en relief.
+promoteur: Initiateur d'un projet, notamment d'essai clinique.
+promotion: Avancement ou ensemble de personnes d'une même année.
+promotion de la santé: Ensemble d'actions favorisant un mode de vie sain.
+promouvoir: Favoriser le développement de quelque chose.
+prompt: Rapide, immédiat.
+promptitude: Rapidité d'action ou de réaction.
+promulgation: Publication officielle d'une loi.
+promulguer: Publier officiellement une loi.
+pronateur: Muscle permettant la pronation de l'avant-bras.
+pronation: Mouvement de rotation de la main paume vers le bas.
+prône: Sermon religieux.
+prôner: Recommander vivement, vanter.
+pronom: Mot remplaçant un nom.
+prononcer: Articuler des paroles ou émettre un jugement.
+prononciation: Manière d'articuler les sons.
+pronostic: Prévision de l'évolution d'une maladie.
+pronostiquer: Prévoir l'évolution probable.
+propagande: Diffusion d'idées pour influencer l'opinion.
+propagation: Extension progressive, diffusion.
+propager: Étendre, diffuser, notamment une infection.
+propension: Tendance naturelle à quelque chose.
+prophase: Première phase de la division cellulaire.
+prophylactique: Relatif à la prophylaxie, préventif.
+prophylaxie: Ensemble des mesures préventives contre les maladies.
+propice: Favorable, qui convient bien.
+proportion: Rapport entre des quantités, dimension relative.
+proportionné: Adapté, en rapport harmonieux.
+proportionnel: Qui varie selon un rapport constant.
+proportionnellement: De manière proportionnelle.
+proportionner: Établir un rapport harmonieux.
+propos: Paroles prononcées ou intention.
+proposer: Soumettre à l'acceptation, suggérer.
+proposition: Offre, suggestion soumise à acceptation.
+propre: Net, hygiénique, ou qui appartient en particulier.
+propreté: État de ce qui est propre, hygiène.
+propriétaire: Personne possédant un bien.
+propriété: Caractéristique ou droit de posséder.
+proprioception: Perception de la position du corps dans l'espace.
+proprioceptif: Relatif à la proprioception.
+propriocepteur: Récepteur sensoriel de la position et du mouvement.
+propulsif: Qui propulse en avant.
+propulsion: Action de pousser en avant.
+propylthiouracile: Médicament antithyroïdien.
+prorata: Proportion, part proportionnelle.
+prorogation: Prolongation d'un délai.
+proroger: Prolonger un délai.
+prosaïque: Banal, sans poésie.
+prosateur: Écrivain en prose.
+proscription: Interdiction formelle.
+proscrire: Interdire formellement.
+prose: Langage ordinaire non versifié.
+prosecteur: Médecin réalisant les dissections anatomiques.
+prosélyte: Personne récemment convertie, nouveau partisan.
+prosélytisme: Zèle pour recruter de nouveaux adeptes.
+prospect: Client potentiel, ou notice d'information.
+prospectif: Tourné vers l'avenir, étude suivant dans le temps.
+prospection: Recherche systématique.
+prospectus: Document publicitaire ou notice d'information.
+prospère: Florissant, en bonne santé économique.
+prospérer: Se développer favorablement.
+prospérité: État de réussite, de bonne santé.
+prostate: Glande masculine entourant l'urètre sous la vessie.
+prostatectomie: Ablation chirurgicale de la prostate.
+prostatique: Relatif à la prostate.
+prostatisme: Ensemble de troubles liés à la prostate.
+prostatite: Inflammation de la prostate.
+prosternation: Action de se prosterner.
+prosterner: S'incliner profondément en signe de respect.
+prothèse: Dispositif remplaçant un organe ou membre manquant.
+prothèse auditive: Appareil amplificant les sons, aide auditive.
+prothèse dentaire: Dispositif remplaçant des dents manquantes.
+prothèse de hanche: Implant remplaçant l'articulation de la hanche.
+prothésiste: Professionnel fabriquant des prothèses.
+prothésiste dentaire: Professionnel fabriquant les prothèses dentaires.
+prothétique: Relatif aux prothèses.
+prothrombine: Facteur de coagulation précurseur de la thrombine.
+protocole: Ensemble de règles à suivre pour un traitement ou essai.
+protocole thérapeutique: Plan détaillé d'un traitement standardisé.
+proton: Particule élémentaire chargée positivement.
+protonthérapie: Radiothérapie par faisceau de protons.
+protoplasma: Substance vivante constituant les cellules.
+prototype: Modèle original servant de référence.
+protozoaire: Micro-organisme unicellulaire parasite.
+protozoose: Maladie causée par un protozoaire.
+protracteur: Muscle étalant ou avançant une partie du corps.
+protubérance: Saillie, relief anatomique.
+protubérant: Qui fait saillie.
+proue: Avant d'un navire.
+prouesse: Exploit remarquable.
+prouver: Démontrer la vérité de quelque chose.
+provenance: Origine, lieu d'où vient quelque chose.
+provençal: Relatif à la Provence.
+provenir: Avoir pour origine, venir de.
+proverbe: Sentence populaire exprimant une vérité.
+proverbial: Devenu célèbre, bien connu.
+providence: Protection divine ou personne secourable.
+providentiel: Qui arrive à point nommé, opportun.
