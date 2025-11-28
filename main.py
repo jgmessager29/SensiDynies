@@ -452,7 +452,7 @@ async def effacer(ctx, amount: int):
             title="**!effacer **",
             description=f"⚠️ {ctx.author} a effacé {amount} messages dans #{ctx.channel.name}",
             color=discord.Color.pink()
-
+         )
 # FIN - Suppression des messages
 
 # ----------------------------------------
