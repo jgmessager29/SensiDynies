@@ -93,8 +93,14 @@ recent_bans = set()
 
 @bot.event
 async def on_member_join(member):
-    print(f"Nouveau membre détecté : {member}")
-    await send_log_embed("**Arrivée**", f"🛬 **{member}** a rejoint le serveur !", color=discord.Color.pink())
+    channel = member.guild.get_channel(LOG_CHANNEL_ID)
+    if channel:
+        embed = discord.Embed(
+            title="**Arrivée**",
+            description=f"🛬 **{member}** a rejoint le serveur !",
+            color=discord.Color.pink()
+        )
+        await channel.send(embed=embed)
 
 @bot.event
 async def on_member_remove(member):
