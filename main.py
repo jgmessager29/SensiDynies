@@ -414,7 +414,7 @@ async def reglement_cmd(ctx):
             "🚸    Les modérateurs veillent au bien-être de tous. Respecte leurs décisions.\n\n"
 
             "**10. Partage du serveur**\n"
-            "🔗    Merci de partager le lien : 'https://discord.gg/az9MUPYSEk'\n\n"
+            "🔗    Merci de partager le lien : **https://discord.gg/az9MUPYSEk**\n\n"
 
             "**11. Acceptation du règlement**\n"
             "✅    En rejoignant, tu acceptes ces règles. Non-respect = avertissements ou exclusion."
