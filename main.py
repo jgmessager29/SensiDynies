@@ -15,24 +15,43 @@ from discord.ext import commands
 # Pour charger les variables d'environnement depuis .env
 from dotenv import load_dotenv       
 
-# Charger les variables d'environnement depuis le fichier .env
+# Flask pour garder le bot actif sur Render
+from flask import Flask
+from threading import Thread
+
+# Charger les variables d'environnement depuis le fichier .env (local)
 load_dotenv()
+
+# Token Discord depuis variable d'environnement Render
+TOKEN = os.environ.get("TOKEN")
 
 # ----------------------------------------
 # CONFIGURATION DU BOT
 # ----------------------------------------
-# Intents est la demande par défaut au bot
-intents = discord.Intents.default() 
+intents = discord.Intents.default()
+intents.message_content = True
+intents.members = True
 
-# Permet de lire le contenu des messages
-intents.message_content = True       
-
-# Permet de détecter les membres qui rejoignent le serveur
-intents.members = True 
-
-# Création du bot avec le préfixe "!"
 bot = commands.Bot(command_prefix="!", intents=intents)  
-bot.remove_command("help")  # <- Supprime la commande help intégrée
+bot.remove_command("help")
+
+# ----------------------------------------
+# Mini serveur Flask pour Render
+# ----------------------------------------
+app = Flask('')
+
+@app.route('/')
+def home():
+    return "Dynies en ligne !"
+
+@app.route('/healthz')
+def health():
+    return "OK"
+
+def run():
+    app.run(host="0.0.0.0", port=10000)
+
+Thread(target=run).start()
 
 # ----------------------------------------
 # HELP PERSONNALISE EN FRANCAIS (!aide)
@@ -405,19 +424,13 @@ async def on_command_error(ctx, error):
 # ----------------------------------------
 # LANCEMENT DU BOT
 # ----------------------------------------
-# Point d'entrée du script
 if __name__ == "__main__": 
 
-# Vérifie si la variable 'token' est vide ou inexistante. 
-    token = os.getenv("DISCORD_BOT_TOKEN")  
+    # Récupère le token depuis Render (Environment Variable)
+    token = os.getenv("TOKEN")  # <--- nom exact utilisé sur Render
+
     if not token:
-
-# Si aucune valeur n'est trouvée pour le jeton Discord, afficher un message d'erreur
-        print("Erreur : DISCORD_BOT_TOKEN introuvable dans les variables d'environnement.")
-
-# Conseille à l'utilisateur de définir son jeton comme variable d'environnement, sans quoi le bot ne pourra pas se connecter à Discord
+        print("Erreur : TOKEN introuvable dans les variables d'environnement.")
         print("Veuillez définir votre jeton Discord bot comme variable d'environnement.")
-
-# Lancer le bot, et profiter !
     else:
-        bot.run(token)  
+        bot.run(token)
