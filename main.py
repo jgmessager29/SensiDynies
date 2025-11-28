@@ -33,6 +33,7 @@ TOKEN = os.environ.get("DISCORD_BOT_TOKEN")
 intents = discord.Intents.default()
 intents.message_content = True
 intents.members = True
+default_intents.members = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 bot.remove_command("help")
 
@@ -93,16 +94,9 @@ recent_bans = set()
 
 @bot.event
 async def on_member_join(member):
-    if member.id in recent_entry:
-        return  # Ignore les doublons
-    recent_entry.add(member.id)
     channel = member.guild.get_channel(LOG_CHANNEL_ID)
     if channel:
-        await send_log_embed("**Arrivée**", f"🛬 {member.name}#{member.discriminator} a rejoint le serveur !"
-        )
-    # On peut retirer l'ID après un certain délai si besoin
-    await asyncio.sleep(60)  # 60 secondes par exemple
-    recent_entry.discard(member.id)
+        await channel.send("**Arrivée**", f"🛬 **{member}** a rejoint le serveur !", color=discord.Color.pink())
         
 @bot.event
 async def on_member_remove(member):
