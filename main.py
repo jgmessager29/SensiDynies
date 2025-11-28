@@ -4,7 +4,6 @@
 import os
 from datetime import datetime, timezone, timedelta
 import random
-import asyncio
 # ----------------------------------------
 # IMPORTS DISCORD
 # ----------------------------------------
