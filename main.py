@@ -23,7 +23,7 @@ from threading import Thread
 load_dotenv()
 
 # Token Discord depuis variable d'environnement Render
-TOKEN = os.environ.get("TOKEN")
+TOKEN = os.environ.get("DISCORD_BOT_TOKEN")
 
 # ----------------------------------------
 # CONFIGURATION DU BOT
@@ -42,7 +42,7 @@ app = Flask('')
 
 @app.route('/')
 def home():
-    return "Dynies en ligne !"
+    return "SensiDynies en ligne !"
 
 @app.route('/healthz')
 def health():
@@ -427,10 +427,10 @@ async def on_command_error(ctx, error):
 if __name__ == "__main__": 
 
     # Récupère le token depuis Render (Environment Variable)
-    token = os.getenv("TOKEN")  # <--- nom exact utilisé sur Render
+    token = os.getenv("DISCORD_BOT_TOKEN")  # <--- nom exact utilisé sur Render
 
     if not token:
-        print("Erreur : TOKEN introuvable dans les variables d'environnement.")
+        print("Erreur : DISCORD_BOT_TOKEN introuvable dans les variables d'environnement.")
         print("Veuillez définir votre jeton Discord bot comme variable d'environnement.")
     else:
-        bot.run(token)
+        bot.run(TOKEN)
