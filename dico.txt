@@ -1,0 +1,2040 @@
+abdomen: Partie du corps située entre le thorax et le bassin, contenant les organes digestifs.
+abcès: Accumulation de pus dans une cavité formée aux dépens des tissus environnants.
+acétaminophène: Médicament analgésique et antipyrétique, aussi appelé paracétamol.
+acide acétylsalicylique: Principe actif de l'aspirine, anti-inflammatoire et antalgique.
+acné: Maladie de la peau caractérisée par des boutons et points noirs, touchant principalement le visage.
+acouphène: Perception d'un son sans source sonore externe, bourdonnement ou sifflement dans l'oreille.
+acupuncture: Thérapie traditionnelle chinoise consistant à planter des aiguilles en des points précis du corps.
+acupuncteur: Praticien spécialisé dans l'acupuncture.
+addiction: Dépendance pathologique à une substance ou un comportement.
+addictologue: Médecin spécialisé dans le traitement des addictions.
+adénome: Tumeur bénigne se développant aux dépens d'une glande.
+adrénaline: Hormone sécrétée par les glandes surrénales, stimulant le système cardiovasculaire.
+aérophagie: Déglutition excessive d'air provoquant des ballonnements et éructations.
+agoraphobie: Peur pathologique des espaces ouverts et des lieux publics.
+aide-soignant: Professionnel de santé assistant l'infirmier dans les soins aux patients.
+aide-soignante: Professionnelle de santé assistant l'infirmier dans les soins aux patients.
+ALD: Affection de longue durée, maladie chronique nécessitant un traitement prolongé et coûteux.
+algologie: Discipline médicale consacrée à l'étude et au traitement de la douleur.
+algologue: Médecin spécialisé dans le traitement de la douleur chronique.
+allergie: Réaction excessive du système immunitaire face à une substance normalement inoffensive.
+allergène: Substance capable de déclencher une réaction allergique.
+allergologue: Médecin spécialisé dans le diagnostic et le traitement des allergies.
+alopécie: Perte de cheveux ou de poils, partielle ou totale.
+Alzheimer: Maladie neurodégénérative entraînant une perte progressive de la mémoire et des fonctions cognitives.
+ambulance: Véhicule sanitaire équipé pour le transport et les soins d'urgence des malades ou blessés.
+ambulancier: Professionnel assurant le transport sanitaire des patients.
+ambulancière: Professionnelle assurant le transport sanitaire des patients.
+amnésie: Perte partielle ou totale de la mémoire.
+amniocentèse: Prélèvement de liquide amniotique pour diagnostic prénatal.
+amputation: Ablation chirurgicale d'un membre ou d'une partie du corps.
+amygdalite: Inflammation des amygdales, souvent d'origine infectieuse.
+analgésique: Médicament destiné à réduire ou supprimer la douleur.
+analyse de sang: Examen biologique du sang permettant de diagnostiquer diverses pathologies.
+anatomie: Science qui étudie la structure du corps humain et de ses organes.
+anatomiste: Spécialiste de l'anatomie.
+andrologue: Médecin spécialisé dans les troubles de l'appareil reproducteur masculin.
+anémie: Diminution du taux d'hémoglobine dans le sang, causant fatigue et pâleur.
+anesthésie: Suppression de la sensibilité, locale ou générale, lors d'un acte médical.
+anesthésiste: Médecin spécialisé dans l'anesthésie et la réanimation.
+anévrisme: Dilatation anormale de la paroi d'une artère pouvant se rompre.
+angine: Infection aiguë de la gorge, touchant les amygdales et le pharynx.
+angine de poitrine: Douleur thoracique due à une insuffisance d'apport sanguin au cœur.
+angiographie: Examen radiologique des vaisseaux sanguins avec injection de produit de contraste.
+angiologie: Spécialité médicale étudiant les vaisseaux sanguins et lymphatiques.
+angiologue: Médecin spécialisé dans les maladies des vaisseaux sanguins.
+anorexie: Trouble du comportement alimentaire caractérisé par une restriction alimentaire sévère.
+anosmie: Perte totale de l'odorat.
+antibiotique: Médicament destiné à traiter les infections bactériennes.
+anticorps: Protéine produite par le système immunitaire pour neutraliser les agents pathogènes.
+anticoagulant: Médicament empêchant la coagulation du sang.
+antidépresseur: Médicament utilisé pour traiter la dépression et certains troubles anxieux.
+antidouleur: Médicament destiné à soulager la douleur, synonyme d'analgésique.
+antiémétique: Médicament prévenant ou traitant les nausées et vomissements.
+antifongique: Médicament destiné à traiter les infections causées par des champignons.
+antigène: Substance étrangère déclenchant une réponse immunitaire.
+antihistaminique: Médicament utilisé pour traiter les allergies.
+anti-inflammatoire: Médicament réduisant l'inflammation et la douleur.
+antiseptique: Produit détruisant ou inhibant les micro-organismes sur la peau ou les muqueuses.
+antiviral: Médicament destiné à traiter les infections virales.
+anxiété: État d'inquiétude et de tension psychologique excessive.
+anxiolytique: Médicament réduisant l'anxiété et l'angoisse.
+aorte: Principale artère du corps humain, partant du cœur.
+aphasie: Trouble du langage consécutif à une lésion cérébrale.
+aphte: Petite ulcération douloureuse de la muqueuse buccale.
+apnée du sommeil: Arrêts répétés de la respiration pendant le sommeil.
+appendicite: Inflammation aiguë de l'appendice nécessitant souvent une intervention chirurgicale.
+ARS: Agence régionale de santé, organisme public pilotant la politique de santé en région.
+artère: Vaisseau sanguin transportant le sang du cœur vers les organes.
+artériosclérose: Durcissement et épaississement des parois artérielles.
+arthrite: Inflammation d'une ou plusieurs articulations.
+arthrose: Usure chronique du cartilage articulaire causant douleurs et raideurs.
+articulation: Junction entre deux ou plusieurs os permettant le mouvement.
+ARS: Agence régionale de santé, structure administrative gérant la santé publique en région.
+asepsie: Ensemble des mesures visant à prévenir toute contamination microbienne.
+asphyxie: Arrêt ou insuffisance de la respiration entraînant un manque d'oxygène.
+aspirine: Médicament analgésique, antipyrétique et anti-inflammatoire.
+asthénie: Fatigue intense et durable, manque d'énergie.
+asthme: Maladie respiratoire chronique caractérisée par des crises de dyspnée.
+astigmatisme: Défaut de vision dû à une courbure irrégulière de la cornée.
+atrophie: Diminution de volume et de poids d'un tissu, organe ou membre.
+attelle: Dispositif rigide maintenant un membre immobilisé.
+audiogramme: Examen mesurant les capacités auditives.
+audioprothésiste: Professionnel concevant et adaptant les appareils auditifs.
+audition: Fonction sensorielle permettant la perception des sons.
+autisme: Trouble neurodéveloppemental affectant la communication et les interactions sociales.
+auto-immunité: Réaction anormale du système immunitaire contre les propres cellules de l'organisme.
+autopalpation: Examen manuel que l'on pratique soi-même pour détecter une anomalie.
+autopsie: Examen médical d'un cadavre pour déterminer les causes du décès.
+auxiliaire de puériculture: Professionnel s'occupant des soins aux nouveau-nés et jeunes enfants.
+AVC: Accident vasculaire cérébral, interruption brutale de la circulation sanguine dans le cerveau.
+avortement: Interruption de la grossesse, spontanée ou provoquée.
+bactérie: Micro-organisme unicellulaire pouvant être pathogène ou bénéfique.
+bactériologie: Science étudiant les bactéries.
+bandage: Bande de tissu utilisée pour maintenir un pansement ou immobiliser une partie du corps.
+benzodiazépine: Classe de médicaments anxiolytiques et hypnotiques.
+béquille: Dispositif d'aide à la marche soutenant le poids du corps.
+biologie: Science étudiant les êtres vivants et leurs processus vitaux.
+biologiste: Scientifique spécialisé en biologie.
+biopsie: Prélèvement d'un fragment de tissu pour analyse microscopique.
+blépharite: Inflammation des paupières.
+bleu: Ecchymose, hématome sous-cutané causé par un choc.
+bloc opératoire: Salle stérile où sont réalisées les interventions chirurgicales.
+boiterie: Démarche anormale causée par une douleur ou un trouble de l'appareil locomoteur.
+boulimie: Trouble du comportement alimentaire caractérisé par des crises de compulsion alimentaire.
+bradycardie: Ralentissement du rythme cardiaque en dessous de 60 battements par minute.
+brancard: Support mobile pour transporter un patient allongé.
+brancardier: Professionnel assurant le transport des patients sur brancard.
+brancardière: Professionnelle assurant le transport des patients sur brancard.
+bronche: Conduit aérien menant l'air de la trachée aux poumons.
+bronchiolite: Infection virale des petites bronches, fréquente chez le nourrisson.
+bronchite: Inflammation des bronches, aiguë ou chronique.
+bronchopneumopathie: Maladie touchant simultanément les bronches et les poumons.
+brûlure: Lésion cutanée causée par la chaleur, une substance chimique ou l'électricité.
+bulbe rachidien: Partie inférieure du tronc cérébral contrôlant des fonctions vitales.
+burnout: Épuisement professionnel résultant d'un stress chronique au travail.
+cabinet médical: Lieu d'exercice privé d'un médecin ou professionnel de santé.
+cachexie: Amaigrissement extrême avec fonte musculaire dû à une maladie grave.
+cadre de santé: Professionnel infirmier ayant des fonctions d'encadrement et de gestion.
+caféine: Substance stimulante présente dans le café, le thé et certains médicaments.
+CAF: Caisse d'allocations familiales, organisme versant les prestations sociales aux familles.
+calcitonine: Hormone régulant le métabolisme du calcium.
+calcium: Minéral essentiel à la solidité des os et au fonctionnement musculaire.
+calcul rénal: Cristallisation de sels minéraux dans les reins formant une pierre.
+callosité: Épaississement de la peau dû à des frottements répétés.
+calorie: Unité de mesure de l'énergie fournie par les aliments.
+cancer: Maladie caractérisée par la multiplication anarchique de cellules anormales.
+cancérologie: Spécialité médicale consacrée à l'étude et au traitement du cancer.
+cancérologue: Médecin spécialisé dans le traitement du cancer, aussi appelé oncologue.
+candida: Champignon microscopique pouvant causer des infections, notamment vaginales.
+candidose: Infection causée par le champignon Candida.
+canine: Dent pointue située entre les incisives et les prémolaires.
+cannabis: Plante dont les substances actives ont des effets psychotropes, usage médical ou récréatif.
+capillaire: Très petit vaisseau sanguin assurant les échanges entre sang et tissus.
+capsule: Enveloppe contenant un médicament sous forme de poudre ou de granulés.
+carcinome: Tumeur maligne se développant à partir d'un tissu épithélial.
+cardiaque: Relatif au cœur.
+cardiologie: Spécialité médicale étudiant le cœur et les vaisseaux.
+cardiologue: Médecin spécialisé dans les maladies cardiovasculaires.
+cardiomyopathie: Maladie du muscle cardiaque.
+cardiopathie: Toute maladie du cœur.
+carie: Destruction progressive de l'émail et de la dentine d'une dent.
+carotide: Artère majeure irriguant la tête et le cou.
+carpien: Relatif au poignet et à ses os.
+cartilage: Tissu conjonctif souple recouvrant les surfaces articulaires.
+carton rouge: Dispositif d'urgence permettant l'intervention rapide des secours à domicile.
+cataracte: Opacification du cristallin de l'œil entraînant une baisse de la vision.
+cathéter: Tube souple introduit dans un vaisseau ou un organe pour drainage ou injection.
+cautérisation: Destruction de tissus par application de chaleur ou de substances chimiques.
+cavité buccale: Espace délimité par la bouche comprenant dents, langue et palais.
+CCAS: Centre communal d'action sociale, structure d'aide sociale locale.
+cécité: Perte totale de la vision.
+cellule: Unité structurelle et fonctionnelle de base de tout organisme vivant.
+cellulite: Inflammation du tissu sous-cutané, ou aspect capitonné de la peau.
+centre antipoison: Service d'urgence spécialisé dans les intoxications.
+centre de rééducation: Établissement spécialisé dans la réadaptation fonctionnelle.
+centre de santé: Structure regroupant plusieurs professionnels de santé.
+centre hospitalier: Établissement public de soins assurant des missions de service public.
+céphalée: Mal de tête, douleur ressentie au niveau du crâne.
+cerveau: Organe principal du système nerveux central situé dans le crâne.
+cervical: Relatif au cou ou au col de l'utérus.
+césarienne: Intervention chirurgicale permettant l'accouchement par incision de l'abdomen.
+chalazion: Petit kyste inflammatoire de la paupière.
+chambre: Pièce d'hospitalisation où séjourne le patient.
+chancre: Ulcération caractéristique de la syphilis primaire.
+chariot: Dispositif mobile utilisé pour transporter matériel médical ou patients.
+chimiothérapie: Traitement médicamenteux des cancers par substances chimiques.
+chirurgie: Discipline médicale traitant les maladies par intervention manuelle ou instrumentale.
+chirurgien: Médecin pratiquant des opérations chirurgicales.
+chirurgienne: Médecin pratiquant des opérations chirurgicales.
+chirurgien-dentiste: Professionnel de santé spécialisé dans les soins dentaires.
+choc anaphylactique: Réaction allergique grave et potentiellement mortelle.
+choc septique: État de défaillance circulatoire causé par une infection sévère.
+cholestérol: Lipide présent dans l'organisme, dont l'excès favorise les maladies cardiovasculaires.
+chromosome: Structure cellulaire portant l'information génétique.
+chronique: Se dit d'une maladie persistant dans le temps ou récidivante.
+CHU: Centre hospitalier universitaire, hôpital associé à une faculté de médecine.
+cicatrice: Trace laissée par la guérison d'une plaie ou d'une incision.
+cicatrisation: Processus naturel de réparation des tissus après une lésion.
+circulation sanguine: Mouvement du sang dans l'organisme assuré par le cœur et les vaisseaux.
+cirrhose: Maladie chronique du foie caractérisée par une destruction progressive du tissu hépatique.
+CLIC: Centre local d'information et de coordination gérontologique.
+clinique: Établissement privé de soins médicaux et chirurgicaux.
+cloque: Soulèvement de l'épiderme contenant un liquide clair, causé par frottement ou brûlure.
+CNAM: Caisse nationale d'assurance maladie, organisme gérant l'assurance maladie.
+coagulation: Processus de solidification du sang formant un caillot.
+cobalt: Élément chimique utilisé en radiothérapie pour traiter certains cancers.
+cocaïne: Drogue stimulante hautement addictive, usage illicite.
+coccyx: Os terminal de la colonne vertébrale formé par des vertèbres soudées.
+cochléaire: Relatif à la cochlée, partie de l'oreille interne impliquée dans l'audition.
+codéine: Médicament dérivé de l'opium, antalgique et antitussif.
+cœlioscopie: Technique chirurgicale mini-invasive par petites incisions abdominales.
+cœur: Organe musculaire creux assurant la circulation du sang.
+cognitif: Relatif aux processus mentaux de connaissance et de perception.
+colique: Douleur abdominale intense et paroxystique.
+colite: Inflammation du côlon.
+collagène: Protéine structurale présente dans les tissus conjonctifs.
+collyre: Médicament liquide appliqué dans l'œil sous forme de gouttes.
+côlon: Segment principal du gros intestin.
+coloscopie: Examen endoscopique du côlon et du rectum.
+colostomie: Abouchement chirurgical du côlon à la paroi abdominale.
+coma: État d'inconscience profonde et prolongée.
+comitialité: Autre terme pour désigner l'épilepsie.
+commotion: Traumatisme léger du cerveau sans lésion visible.
+compresse: Pièce de gaze stérile utilisée pour nettoyer ou protéger une plaie.
+comprimé: Forme pharmaceutique solide contenant un ou plusieurs principes actifs.
+concussion: Traumatisme crânien causant une perte de conscience temporaire.
+conduit auditif: Canal conduisant le son du pavillon de l'oreille au tympan.
+conjonctivite: Inflammation de la conjonctive de l'œil.
+connaissance: État de conscience et de perception de son environnement.
+conseil de l'ordre: Organisation professionnelle régulant l'exercice d'une profession médicale.
+constipation: Difficulté d'évacuation des selles ou retard dans la défécation.
+consultation: Rencontre entre un patient et un professionnel de santé pour examen.
+contagieux: Se dit d'une maladie transmissible d'une personne à une autre.
+contagion: Transmission d'une maladie infectieuse.
+contention: Maintien d'un membre ou d'une partie du corps dans une position fixe.
+contraceptif: Moyen ou médicament empêchant la conception.
+contraception: Ensemble des méthodes visant à éviter une grossesse.
+contraction: Raccourcissement d'un muscle, notamment lors de l'accouchement.
+contre-indication: Circonstance rendant un traitement déconseillé ou dangereux.
+contusion: Lésion des tissus sans plaie cutanée, causée par un choc.
+convalescence: Période de récupération progressive après une maladie ou une opération.
+convulsion: Contraction involontaire et brutale des muscles.
+coordination: Fonction permettant l'harmonie des mouvements et de l'équilibre.
+cordon ombilical: Lien vasculaire reliant le fœtus au placenta pendant la grossesse.
+cornée: Membrane transparente à l'avant de l'œil.
+coronaire: Relatif aux artères irriguant le muscle cardiaque.
+coronavirus: Famille de virus responsables d'infections respiratoires, dont le SARS-CoV-2.
+cortisone: Hormone stéroïdienne anti-inflammatoire utilisée en traitement.
+coryza: Inflammation des muqueuses nasales, rhume.
+cosmétique: Produit destiné à être appliqué sur le corps pour l'embellir ou le nettoyer.
+côte: Os plat et arqué formant la cage thoracique.
+coude: Articulation reliant le bras à l'avant-bras.
+coup de chaleur: Élévation dangereuse de la température corporelle par exposition à la chaleur.
+coup du lapin: Traumatisme cervical par flexion-extension brutale du cou.
+coupe-faim: Substance ou médicament réduisant l'appétit.
+couronne: Prothèse dentaire recouvrant une dent abîmée.
+courbature: Douleur musculaire diffuse souvent consécutive à un effort.
+courtilège: Professionnel qui porte secours en cas d'accident en milieu aquatique.
+COVID-19: Maladie infectieuse respiratoire causée par le coronavirus SARS-CoV-2.
+CPAM: Caisse primaire d'assurance maladie, organisme gérant la sécurité sociale.
+crampe: Contraction musculaire involontaire, douloureuse et passagère.
+crâne: Boîte osseuse protégeant le cerveau.
+créatine: Substance présente dans les muscles, utilisée comme source d'énergie.
+créatinine: Déchet métabolique dont le taux sanguin reflète la fonction rénale.
+crème: Préparation semi-solide à application cutanée.
+crevasse: Fissure douloureuse de la peau, notamment au niveau des mamelons ou des talons.
+crise: Manifestation brutale et intense d'une maladie.
+cristallin: Lentille transparente de l'œil permettant la mise au point.
+Crohn: Maladie inflammatoire chronique de l'intestin.
+croissance: Augmentation progressive de la taille et du poids, notamment durant l'enfance.
+cryothérapie: Traitement utilisant le froid pour détruire des tissus pathologiques.
+culture: Mise en culture de micro-organismes à des fins diagnostiques.
+curatif: Se dit d'un traitement visant à guérir une maladie.
+curetage: Intervention consistant à gratter la paroi d'une cavité.
+cuti-réaction: Test cutané pour détecter une allergie ou une infection comme la tuberculose.
+cyanose: Coloration bleutée de la peau due à un manque d'oxygène dans le sang.
+cycle menstruel: Phénomène physiologique chez la femme préparant l'organisme à une grossesse.
+cystite: Inflammation de la vessie, souvent d'origine infectieuse.
+cystoscopie: Examen endoscopique de l'intérieur de la vessie.
+cytologie: Étude des cellules, notamment pour le diagnostic de maladies.
+daltonisme: Anomalie de la vision des couleurs, principalement rouge et vert.
+DEA: Défibrillateur entièrement automatique, appareil administrant un choc électrique en cas d'arrêt cardiaque.
+décès: Arrêt définitif de toutes les fonctions vitales, mort.
+déchirure: Rupture partielle ou totale d'un tissu, muscle ou ligament.
+décollement: Séparation anormale de deux structures normalement accolées.
+décontamination: Élimination des agents infectieux ou toxiques d'une surface ou d'un organisme.
+décubitus: Position d'une personne allongée.
+défaillance: Arrêt ou insuffisance grave d'une fonction organique.
+défense immunitaire: Ensemble des mécanismes protégeant l'organisme contre les infections.
+défibrillateur: Appareil délivrant un choc électrique pour rétablir un rythme cardiaque normal.
+déficit: Insuffisance ou absence d'une fonction ou substance.
+déformation: Altération de la forme normale d'une structure anatomique.
+dégénérescence: Altération progressive et irréversible d'un tissu ou organe.
+dégénératif: Qui entraîne une dégénérescence progressive.
+déglutition: Action d'avaler, passage des aliments de la bouche à l'œsophage.
+délivrance: Expulsion du placenta après l'accouchement.
+délire: Trouble mental caractérisé par des idées fausses et incohérentes.
+déluge: Versement de quantité importante d'un liquide sur une personne ou une zone.
+démangeaison: Sensation désagréable donnant envie de se gratter, prurit.
+démence: Détérioration globale et progressive des fonctions cognitives.
+démographie: Étude statistique des populations humaines.
+dent: Organe dur implanté dans les mâchoires, servant à la mastication.
+dentaire: Relatif aux dents.
+dentifrice: Pâte pour le nettoyage des dents.
+dentiste: Professionnel de santé spécialisé dans les soins dentaires.
+dentition: Ensemble des dents d'un individu.
+dépendance: État psychique ou physique nécessitant la consommation d'une substance.
+dépistage: Recherche systématique d'une maladie chez des personnes apparemment saines.
+dépression: Trouble psychiatrique caractérisé par une tristesse profonde et durable.
+dermatite: Inflammation de la peau.
+dermatologie: Spécialité médicale étudiant la peau et ses maladies.
+dermatologue: Médecin spécialisé dans les maladies de la peau.
+derme: Couche profonde de la peau située sous l'épiderme.
+déshydratation: Perte excessive d'eau par l'organisme.
+désinfectant: Produit détruisant les micro-organismes pathogènes.
+désinfection: Action d'éliminer les germes pathogènes.
+détresse respiratoire: Difficulté respiratoire sévère mettant en jeu le pronostic vital.
+diabète: Maladie chronique caractérisée par un excès de sucre dans le sang.
+diabétique: Personne atteinte de diabète.
+diabétologie: Spécialité médicale consacrée au diabète.
+diabétologue: Médecin spécialisé dans le traitement du diabète.
+diagnostic: Identification d'une maladie par ses symptômes et examens.
+dialyse: Technique d'épuration du sang en cas d'insuffisance rénale.
+diaphragme: Muscle séparant le thorax de l'abdomen, essentiel à la respiration.
+diarrhée: Émission de selles liquides et fréquentes.
+diastole: Phase de relâchement du cœur permettant son remplissage.
+diététicien: Professionnel spécialisé dans la nutrition et l'alimentation thérapeutique.
+diététicienne: Professionnelle spécialisée dans la nutrition et l'alimentation thérapeutique.
+diététique: Science de l'alimentation équilibrée et adaptée.
+difficulté respiratoire: Gêne ou effort anormal pour respirer, dyspnée.
+digestion: Transformation des aliments en nutriments assimilables.
+dilatation: Augmentation du diamètre d'un conduit ou d'une cavité.
+diplopie: Vision double due à un trouble de la coordination des yeux.
+discopathie: Maladie des disques intervertébraux.
+disque intervertébral: Cartilage amortisseur situé entre deux vertèbres.
+dissection: Séparation méthodique des structures anatomiques pour étude ou chirurgie.
+distension: Augmentation anormale du volume d'un organe creux.
+diurétique: Médicament augmentant l'élimination urinaire.
+diurèse: Production et excrétion d'urine.
+diverticule: Petite poche formant une hernie de la paroi d'un organe creux.
+diverticulite: Inflammation d'un diverticule, notamment du côlon.
+DME: Dossier médical électronique, informatisation du dossier patient.
+docteur: Titre porté par les médecins et personnes ayant obtenu un doctorat.
+doigt: Chacun des cinq appendices articulés de la main.
+dopamine: Neurotransmetteur impliqué dans le contrôle moteur et la récompense.
+doppler: Examen échographique étudiant la circulation sanguine.
+dos: Face postérieure du tronc, de la nuque aux fesses.
+dosage: Détermination de la quantité d'une substance dans un échantillon biologique.
+dose: Quantité de médicament à administrer.
+dossier médical: Ensemble des documents relatifs à la santé d'un patient.
+dossier pharmaceutique: Fichier recensant les médicaments délivrés à un patient.
+douleur: Sensation désagréable traduisant une lésion ou un dysfonctionnement.
+drain: Tube permettant l'évacuation de liquides d'une cavité ou plaie.
+drainage: Évacuation de liquides pathologiques par un drain.
+drogue: Substance psychoactive dont l'usage peut entraîner une dépendance.
+DSA: Droit de substitution automatique, permettant la délivrance d'un générique.
+duodénum: Première partie de l'intestin grêle après l'estomac.
+durillon: Épaississement de la peau dû à des frottements répétés, cor.
+dysenterie: Infection intestinale provoquant diarrhée sanglante et douleurs abdominales.
+dysfonctionnement: Trouble du fonctionnement normal d'un organe.
+dyslexie: Trouble spécifique de l'apprentissage de la lecture.
+dysménorrhée: Règles douloureuses.
+dyspepsie: Digestion difficile et douloureuse.
+dysphagie: Difficulté ou douleur lors de la déglutition.
+dysplasie: Anomalie de développement d'un tissu ou organe.
+dyspnée: Difficulté respiratoire, essoufflement.
+dystonie: Trouble du tonus musculaire provoquant des contractions involontaires.
+dystrophie: Trouble de la nutrition d'un tissu entraînant sa dégénérescence.
+eau oxygénée: Solution antiseptique utilisée pour nettoyer les plaies.
+ECG: Électrocardiogramme, enregistrement de l'activité électrique du coeur.
+écharde: Fragment de bois ou matière étrangère pénétrant sous la peau.
+échelle de la douleur: Outil d'évaluation de l'intensité de la douleur.
+échographie: Examen d'imagerie utilisant les ultrasons.
+échographiste: Professionnel réalisant des échographies.
+éclampsie: Complication grave de la grossesse avec convulsions et hypertension.
+ECMO: Oxygénation par membrane extracorporelle, assistance cardiorespiratoire.
+écorchure: Plaie superficielle par frottement enlevant l'épiderme.
+écoulement: Sortie anormale de liquide par un orifice naturel.
+eczéma: Affection cutanée inflammatoire provoquant rougeurs et démangeaisons.
+EEG: Électroencéphalogramme, enregistrement de l'activité électrique du cerveau.
+effet secondaire: Effet indésirable d'un médicament distinct de l'effet thérapeutique recherché.
+efficacité: Capacité d'un traitement à produire l'effet thérapeutique attendu.
+EFS: Établissement français du sang, organisme gérant les transfusions sanguines.
+EHPAD: Établissement d'hébergement pour personnes âgées dépendantes.
+électrocardiogramme: Enregistrement graphique de l'activité électrique du cœur.
+électrochoc: Traitement psychiatrique par stimulation électrique cérébrale.
+électroencéphalogramme: Enregistrement de l'activité électrique cérébrale.
+électrolyte: Substance minérale ionisée présente dans l'organisme.
+embolie: Obstruction brutale d'un vaisseau sanguin par un caillot ou corps étranger.
+embryon: Organisme en développement depuis la fécondation jusqu'à 8 semaines.
+EMDR: Thérapie de désensibilisation par mouvements oculaires, traitement du stress post-traumatique.
+émétique: Substance provoquant le vomissement.
+EMG: Électromyogramme, enregistrement de l'activité électrique musculaire.
+emphysème: Destruction des alvéoles pulmonaires entraînant une insuffisance respiratoire.
+emplâtre: Préparation médicamenteuse adhésive appliquée sur la peau.
+empoisonnement: Intoxication par ingestion ou contact avec une substance toxique.
+empyème: Collection de pus dans une cavité naturelle.
+encéphale: Ensemble des structures nerveuses contenues dans le crâne.
+encéphalite: Inflammation du tissu cérébral, souvent d'origine virale.
+encéphalopathie: Toute maladie du cerveau.
+endémie: Présence habituelle d'une maladie dans une région donnée.
+endocarde: Membrane tapissant l'intérieur des cavités cardiaques.
+endocardite: Inflammation de l'endocarde.
+endocrinologie: Spécialité médicale étudiant les hormones et les glandes endocrines.
+endocrinologue: Médecin spécialisé dans les troubles hormonaux.
+endométriose: Maladie gynécologique caractérisée par la présence de tissu utérin hors de l'utérus.
+endométrite: Inflammation de l'endomètre.
+endorphine: Hormone naturelle agissant comme antidouleur et procurant bien-être.
+endoscopie: Examen visuel de l'intérieur d'un organe creux avec un endoscope.
+endothélium: Tissu tapissant l'intérieur des vaisseaux sanguins.
+enflure: Augmentation de volume d'une partie du corps, gonflement.
+engelure: Lésion cutanée douloureuse causée par le froid.
+engourdissement: Perte partielle de sensibilité et de mobilité d'une partie du corps.
+enkystement: Formation d'une poche close autour d'un corps étranger ou parasite.
+enrouement: Modification du timbre de la voix, voix rauque.
+entérite: Inflammation de l'intestin grêle.
+entorse: Lésion d'un ligament par étirement ou déchirure lors d'un traumatisme.
+énurésie: Incontinence urinaire, notamment nocturne chez l'enfant.
+enzyme: Protéine catalysant les réactions biochimiques de l'organisme.
+épanchement: Accumulation anormale de liquide dans une cavité.
+épaule: Articulation reliant le bras au tronc.
+éperon: Excroissance osseuse se développant sur un os, notamment le talon.
+épicondylite: Inflammation des tendons du coude, tennis elbow.
+épidémie: Propagation rapide d'une maladie infectieuse dans une population.
+épidémiologie: Science étudiant la distribution et les déterminants des maladies.
+épiderme: Couche superficielle de la peau.
+épidurale: Anesthésie par injection dans l'espace péridural, notamment lors de l'accouchement.
+épigastre: Région supérieure et médiane de l'abdomen.
+épiglotte: Cartilage fermant le larynx lors de la déglutition.
+épilepsie: Maladie neurologique provoquant des crises convulsives récurrentes.
+épileptique: Personne atteinte d'épilepsie.
+épine calcanéenne: Excroissance osseuse sous le talon causant des douleurs.
+épine dorsale: Colonne vertébrale.
+épiphyse: Extrémité d'un os long.
+épisiotomie: Incision chirurgicale du périnée lors de l'accouchement.
+épistaxis: Saignement de nez.
+épithélium: Tissu recouvrant les surfaces externes et internes du corps.
+épreuve d'effort: Test évaluant les capacités cardiovasculaires pendant un exercice.
+EPS: Établissement public de santé.
+épuisement: État de fatigue extrême physique ou mentale.
+équilibre: Capacité à maintenir une position stable.
+équipement médical: Matériel utilisé pour les soins, diagnostics ou traitements.
+ergonomie: Science visant à adapter le travail à l'homme.
+ergothérapeute: Professionnel aidant à maintenir ou restaurer l'autonomie dans les activités quotidiennes.
+ergothérapie: Thérapie par l'activité visant à améliorer l'autonomie.
+érection: Durcissement et gonflement du pénis par afflux sanguin.
+érosion: Perte superficielle de substance d'un tissu.
+éructation: Émission de gaz de l'estomac par la bouche, rot.
+éruption cutanée: Apparition de lésions visibles sur la peau.
+érysipèle: Infection bactérienne aiguë de la peau avec fièvre et plaques rouges.
+érythème: Rougeur cutanée due à une dilatation des vaisseaux.
+érythrocyte: Globule rouge, cellule transportant l'oxygène dans le sang.
+escarre: Nécrose cutanée due à une compression prolongée, plaie de lit.
+espérance de vie: Durée de vie moyenne d'une population.
+estomac: Organe digestif situé entre l'œsophage et l'intestin grêle.
+éternuement: Expulsion violente et involontaire d'air par le nez et la bouche.
+éther: Ancien anesthésique volatil.
+éthique médicale: Ensemble des principes moraux guidant la pratique médicale.
+étirement: Allongement d'un muscle par traction.
+étouffement: Obstruction des voies respiratoires empêchant la respiration.
+étourdissement: Sensation de malaise avec impression de perte d'équilibre, vertige léger.
+évanouissement: Perte de connaissance brève due à une baisse de l'irrigation cérébrale, syncope.
+éviscération: Sortie des viscères hors de la cavité abdominale.
+examen clinique: Observation et examen du patient par le médecin.
+examen complémentaire: Test diagnostique prescrit après l'examen clinique.
+excision: Ablation chirurgicale d'un tissu ou organe.
+excoriation: Lésion superficielle de la peau par grattage.
+excrétion: Élimination des déchets métaboliques hors de l'organisme.
+expectorant: Médicament facilitant l'évacuation des sécrétions bronchiques.
+expectoration: Rejet par la bouche de sécrétions provenant des bronches.
+expertise médicale: Évaluation médicale objective dans un cadre légal ou administratif.
+expiration: Phase d'expulsion de l'air des poumons.
+exploration: Ensemble d'examens visant à établir un diagnostic.
+extension: Mouvement éloignant deux segments de membre.
+extérieur: Qui est à l'extérieur du corps ou d'un organe.
+extraction: Acte consistant à retirer, notamment une dent.
+extrasystole: Contraction cardiaque prématurée.
+extrémité: Partie terminale d'un membre.
+exsudat: Liquide produit par un tissu inflammé.
+fœtus: Embryon humain à partir de 8 semaines de grossesse jusqu'à la naissance.
+faciès: Aspect caractéristique du visage.
+facteur de risque: Élément augmentant la probabilité de développer une maladie.
+facteur Rhésus: Antigène présent ou absent à la surface des globules rouges.
+faculté de médecine: Établissement d'enseignement supérieur formant les médecins.
+faiblesse: Diminution de la force musculaire ou de l'énergie générale.
+faim: Sensation résultant du besoin physiologique de manger.
+fallopien: Relatif aux trompes de Fallope reliant ovaires et utérus.
+fatigue: Sensation d'épuisement physique ou mental.
+fausse couche: Interruption spontanée de la grossesse avant viabilité du fœtus.
+fauteuil roulant: Dispositif à roues pour le déplacement des personnes à mobilité réduite.
+fécalome: Accumulation de matières fécales dures dans le rectum.
+fèces: Matières fécales, selles.
+fécondation: Union d'un spermatozoïde et d'un ovule formant un embryon.
+fécule: Glucide complexe extrait de végétaux.
+fémur: Os le plus long du corps humain, situé dans la cuisse.
+fente labiale: Malformation congénitale séparant la lèvre supérieure, bec-de-lièvre.
+fer: Oligo-élément essentiel à la formation de l'hémoglobine.
+ferment: Enzyme participant aux réactions biochimiques.
+fermentation: Transformation de substances organiques sous l'action de micro-organismes.
+fertilité: Capacité à concevoir et procréer.
+fesse: Région charnue postérieure du bassin.
+feuille de soins: Document attestant des actes médicaux pour remboursement.
+fibrillation: Contractions anarchiques et inefficaces du muscle cardiaque.
+fibrine: Protéine formant le caillot sanguin lors de la coagulation.
+fibrome: Tumeur bénigne formée de tissu fibreux, notamment utérin.
+fibromyalgie: Maladie chronique caractérisée par des douleurs musculaires diffuses.
+fibroscopie: Examen endoscopique utilisant un fibroscope souple.
+fibrose: Développement excessif de tissu fibreux dans un organe.
+fièvre: Élévation anormale de la température corporelle au-dessus de 38°C.
+fièvre jaune: Maladie virale transmise par les moustiques, provoquant ictère et hémorragies.
+filaire: Ver parasite transmis par des insectes provoquant la filariose.
+filtre: Dispositif retenant certaines substances, notamment en dialyse.
+fissure: Petite déchirure linéaire d'un tissu, notamment anale.
+fistule: Communication anormale entre deux organes ou entre un organe et la peau.
+flacon: Récipient contenant un médicament liquide.
+flore intestinale: Ensemble des micro-organismes vivant dans l'intestin, microbiote.
+fluor: Oligo-élément protégeant l'émail dentaire contre les caries.
+flux: Écoulement de liquide ou circulation d'une substance.
+foie: Glande volumineuse assurant de nombreuses fonctions métaboliques.
+follicule: Petit sac ou cavité anatomique, notamment pileux ou ovarien.
+fontanelle: Espace membraneux entre les os du crâne du nourrisson.
+forceps: Instrument obstétrical facilitant l'extraction du bébé lors de l'accouchement.
+formule sanguine: Analyse quantitative et qualitative des cellules du sang.
+fosse nasale: Cavité située dans le nez permettant le passage de l'air.
+fourmillement: Sensation de picotement désagréable, paresthésie.
+foulure: Entorse légère, étirement d'un ligament.
+fracture: Rupture d'un os suite à un traumatisme.
+fragilité: État de vulnérabilité physique ou psychologique.
+frein: Repli muqueux limitant le mouvement d'un organe, notamment sous la langue.
+frémissement: Vibration ressentie à la palpation.
+fréquence cardiaque: Nombre de battements cardiaques par minute.
+frigidité: Absence ou diminution du désir sexuel chez la femme.
+frisson: Tremblement involontaire accompagnant souvent la fièvre.
+frottis: Prélèvement de cellules pour examen microscopique, notamment cervical.
+furoncle: Infection profonde d'un follicule pileux formant un abcès.
+fusion: Union de structures initialement séparées.
+galactorrhée: Écoulement de lait en dehors de l'allaitement.
+galénique: Relatif à la formulation et présentation des médicaments.
+ganglion: Petit organe du système lymphatique participant à la défense immunitaire.
+gangrène: Nécrose des tissus par arrêt de la circulation sanguine.
+gargarisme: Rinçage de la gorge avec un liquide antiseptique.
+gastralgie: Douleur à l'estomac.
+gastrectomie: Ablation chirurgicale totale ou partielle de l'estomac.
+gastrique: Relatif à l'estomac.
+gastrite: Inflammation de la muqueuse gastrique.
+gastro-entérite: Inflammation simultanée de l'estomac et de l'intestin.
+gastro-entérologue: Médecin spécialisé dans les maladies de l'appareil digestif.
+gastro-entérologie: Spécialité médicale étudiant l'appareil digestif.
+gastroscopie: Examen endoscopique de l'estomac.
+gastroplastie: Chirurgie de l'obésité réduisant la taille de l'estomac.
+gaulthérie: Plante dont l'huile essentielle a des propriétés anti-inflammatoires.
+gaz: Air présent dans le tube digestif pouvant causer ballonnements.
+gaze: Tissu léger et aéré utilisé pour les pansements.
+gel: Préparation semi-solide à application locale.
+gélule: Capsule contenant un médicament en poudre.
+gencive: Muqueuse recouvrant l'os des mâchoires et entourant les dents.
+gène: Unité d'information génétique transmise héréditairement.
+généraliste: Médecin de premier recours assurant les soins courants.
+génétique: Science de l'hérédité et des gènes.
+généticien: Médecin spécialisé dans les maladies génétiques.
+génétique: Relatif aux gènes et à l'hérédité.
+genou: Articulation entre la cuisse et la jambe.
+génotype: Ensemble des gènes d'un individu.
+gerçure: Petite fissure douloureuse de la peau due au froid ou à la sécheresse.
+gériatrie: Spécialité médicale consacrée aux personnes âgées.
+gériatre: Médecin spécialisé dans la prise en charge des personnes âgées.
+germe: Micro-organisme pathogène ou non.
+gestation: Grossesse, période de développement du fœtus.
+gibbus: Déformation de la colonne vertébrale formant une bosse.
+gingivite: Inflammation des gencives.
+glaire: Sécrétion visqueuse produite par les muqueuses.
+glaire cervicale: Sécrétion produite par le col de l'utérus.
+glande: Organe produisant et sécrétant des substances.
+glaucome: Maladie oculaire par augmentation de la pression intraoculaire.
+glène: Cavité articulaire recevant la tête d'un os.
+glissement: Déplacement anormal d'une structure anatomique.
+globule: Cellule sanguine, rouge ou blanche.
+globule blanc: Cellule sanguine participant à la défense immunitaire, leucocyte.
+globule rouge: Cellule sanguine transportant l'oxygène, hématie.
+glomérule: Unité de filtration du rein.
+glossite: Inflammation de la langue.
+glotte: Orifice du larynx comprenant les cordes vocales.
+glucide: Nutriment énergétique, sucre simple ou complexe.
+glucomètre: Appareil mesurant la glycémie.
+glucose: Sucre simple principal source d'énergie cellulaire.
+glutamate: Acide aminé neurotransmetteur excitateur.
+gluten: Protéine présente dans certaines céréales pouvant causer intolérances.
+glycémie: Taux de glucose dans le sang.
+glycérine: Substance utilisée dans les suppositoires et préparations pharmaceutiques.
+glycérol: Composant des lipides, synonyme de glycérine.
+goitre: Augmentation du volume de la glande thyroïde.
+gomme: Masse inflammatoire molle d'origine syphilitique.
+gonalgie: Douleur du genou.
+gonade: Glande sexuelle, ovaire ou testicule.
+gonarthrose: Arthrose du genou.
+gonorrhée: Infection sexuellement transmissible, blennorragie.
+gorge: Partie du conduit reliant bouche et œsophage, pharynx.
+goutte: Maladie métabolique causant des crises d'arthrite par dépôt de cristaux d'acide urique.
+goutte à goutte: Administration lente et continue d'un liquide, perfusion.
+gouttière: Attelle maintenant un membre dans une position.
+granulocyte: Type de globule blanc participant à la défense immunitaire.
+granulome: Petite tumeur inflammatoire bénigne.
+graisse: Lipide stocké dans le tissu adipeux.
+greffe: Transplantation d'un organe, tissu ou cellules.
+greffon: Tissu ou organe transplanté lors d'une greffe.
+grippe: Infection virale respiratoire aiguë contagieuse.
+grossesse: État d'une femme enceinte portant un ou plusieurs fœtus.
+groupe sanguin: Classification des sangs selon la présence d'antigènes spécifiques.
+guérison: Retour à l'état de santé après une maladie.
+gynécologie: Spécialité médicale étudiant l'appareil reproducteur féminin.
+gynécologue: Médecin spécialisé dans les affections de l'appareil génital féminin.
+habilitation: Autorisation légale d'exercer une profession ou pratiquer un acte.
+habituation: Accoutumance à une substance réduisant ses effets.
+haleine: Air expiré par la bouche.
+halitose: Mauvaise haleine chronique.
+hallucination: Perception sans objet réel, symptôme psychiatrique ou neurologique.
+hanche: Articulation reliant le fémur au bassin.
+handicap: Limitation d'activité due à une déficience physique ou mentale.
+hantavirus: Virus transmis par les rongeurs causant des infections graves.
+haptonomie: Approche périnatale basée sur le contact tactile affectif.
+haut-le-cœur: Sensation de nausée avec début de vomissement.
+HAS: Haute autorité de santé, autorité publique indépendante évaluant les produits de santé.
+hématémèse: Vomissement de sang.
+hématologie: Spécialité médicale étudiant le sang et ses maladies.
+hématologue: Médecin spécialisé dans les maladies du sang.
+hématome: Collection de sang coagulé dans les tissus suite à un traumatisme.
+hématurie: Présence de sang dans les urines.
+hémiplégie: Paralysie de la moitié du corps.
+hémisphère: Moitié du cerveau, droit ou gauche.
+hémodialyse: Épuration du sang par passage dans un rein artificiel.
+hémoglobine: Protéine des globules rouges transportant l'oxygène.
+hémolyse: Destruction des globules rouges.
+hémophilie: Maladie héréditaire de la coagulation sanguine.
+hémoptysie: Crachement de sang provenant des poumons.
+hémorragie: Écoulement de sang hors des vaisseaux sanguins.
+hémorroïde: Dilatation variqueuse des veines de l'anus et du rectum.
+hémostase: Arrêt spontané ou provoqué d'une hémorragie.
+hépatique: Relatif au foie.
+hépatite: Inflammation du foie, souvent d'origine virale.
+hépatologie: Spécialité médicale étudiant le foie et ses maladies.
+hépatologue: Médecin spécialisé dans les maladies du foie.
+hépatome: Tumeur du foie.
+hérédité: Transmission des caractères génétiques des parents aux enfants.
+hernie: Sortie d'un organe hors de sa cavité naturelle.
+hernie discale: Saillie d'un disque intervertébral hors de sa position normale.
+héroïne: Drogue opiacée dérivée de la morphine, hautement addictive.
+herpès: Infection virale provoquant des vésicules douloureuses.
+HLM: Habitat à loyer modéré, logement social.
+homéopathie: Médecine alternative utilisant des substances très diluées.
+homéopathe: Praticien de l'homéopathie.
+homéostasie: Maintien de l'équilibre du milieu intérieur de l'organisme.
+hoquet: Contraction involontaire du diaphragme provoquant un son caractéristique.
+hormone: Substance chimique sécrétée par une glande réglant diverses fonctions.
+hospice: Ancien terme pour établissement accueillant personnes âgées ou malades incurables.
+hospitalisation: Admission et séjour d'un patient dans un établissement de soins.
+hôpital: Établissement de soins médicaux et chirurgicaux.
+hôpital de jour: Structure permettant des soins sans hospitalisation complète.
+hoquet: Contraction spasmodique involontaire du diaphragme.
+HTA: Hypertension artérielle, élévation anormale de la pression sanguine.
+humeur: Liquide organique, ou état émotionnel.
+humérus: Os du bras situé entre l'épaule et le coude.
+hydratation: Apport d'eau nécessaire au bon fonctionnement de l'organisme.
+hydrocéphalie: Accumulation excessive de liquide céphalorachidien dans le crâne.
+hydrocortisone: Hormone corticostéroïde anti-inflammatoire.
+hygiène: Ensemble des pratiques visant à préserver la santé et prévenir les maladies.
+hygiéniste: Professionnel spécialisé dans l'hygiène et la prévention.
+hymen: Membrane recouvrant partiellement l'orifice vaginal.
+hyperactivité: Activité motrice excessive et difficilement contrôlable.
+hyperglycémie: Taux de sucre sanguin anormalement élevé.
+hypermétropie: Défaut de vision rendant floue la vision de près.
+hypersomnie: Somnolence diurne excessive.
+hypertension: Élévation anormale de la pression artérielle.
+hyperthermie: Élévation excessive de la température corporelle.
+hyperthyroïdie: Hyperfonctionnement de la glande thyroïde.
+hypertonie: Augmentation excessive du tonus musculaire.
+hypertrophie: Augmentation de volume d'un organe ou tissu.
+hyperventilation: Respiration excessive entraînant des vertiges et malaises.
+hypnose: État modifié de conscience utilisé en thérapie.
+hypnotique: Médicament favorisant le sommeil.
+hypoacousie: Diminution de l'acuité auditive.
+hypochondre: Partie latérale supérieure de l'abdomen.
+hypocondrie: Préoccupation excessive et anxieuse concernant sa santé.
+hypoderme: Couche profonde de la peau sous le derme.
+hypodermique: Relatif à l'hypoderme, ou sous la peau.
+hypoglycémie: Taux de sucre sanguin anormalement bas.
+hypophyse: Glande endocrine située à la base du cerveau régulant d'autres glandes.
+hypotension: Pression artérielle anormalement basse.
+hypothalamus: Structure cérébrale régulant de nombreuses fonctions vitales.
+hypothermie: Abaissement de la température corporelle en dessous de la normale.
+hypothyroïdie: Insuffisance de sécrétion d'hormones thyroïdiennes.
+hypotonie: Diminution du tonus musculaire.
+hypotrophie: Développement insuffisant d'un organe ou tissu.
+hypoventilation: Ventilation pulmonaire insuffisante.
+hypoxie: Diminution de l'apport d'oxygène aux tissus.
+hystérectomie: Ablation chirurgicale de l'utérus.
+hystérie: Trouble psychiatrique avec manifestations physiques sans cause organique.
+hystéroscopie: Examen endoscopique de la cavité utérine.
+iatrogène: Se dit d'un trouble causé par un traitement médical ou médicament.
+ictère: Coloration jaune de la peau et des muqueuses, jaunisse.
+idiopathique: Se dit d'une maladie sans cause identifiée.
+iléon: Dernière partie de l'intestin grêle.
+iléostomie: Abouchement chirurgical de l'intestin grêle à la paroi abdominale.
+iliaque: Relatif à l'os iliaque du bassin.
+imagerie médicale: Ensemble des techniques visualisant l'intérieur du corps.
+IMC: Indice de masse corporelle, rapport entre poids et taille au carré.
+immobilisation: Maintien d'un membre dans une position fixe.
+immun: Protégé contre une infection par le système immunitaire.
+immunité: Capacité de l'organisme à se défendre contre les agents pathogènes.
+immunisation: Acquisition d'une immunité par vaccination ou infection.
+immunodéficience: Déficit du système immunitaire.
+immunoglobuline: Anticorps produit par le système immunitaire.
+immunologie: Science étudiant le système immunitaire.
+immunologiste: Spécialiste de l'immunologie.
+immunosuppresseur: Médicament réduisant l'activité du système immunitaire.
+immunothérapie: Traitement stimulant ou modulant le système immunitaire.
+impétigo: Infection cutanée bactérienne contagieuse formant des croûtes jaunâtres.
+implant: Dispositif médical inséré dans le corps.
+implantation: Insertion chirurgicale d'un implant ou nidation de l'embryon.
+impotence: Impossibilité d'utiliser un membre, ou dysfonction érectile.
+impuissance: Incapacité à obtenir ou maintenir une érection.
+inactivation: Suppression de l'activité d'un virus ou enzyme.
+inanition: État d'extrême faiblesse par manque de nourriture.
+incapacité: Limitation fonctionnelle dans l'accomplissement d'activités.
+incidence: Nombre de nouveaux cas d'une maladie dans une période donnée.
+incision: Coupure chirurgicale pratiquée avec un instrument tranchant.
+incisive: Dent plate et tranchante à l'avant de la bouche.
+incontinence: Perte involontaire d'urine ou de matières fécales.
+incubation: Période entre la contamination et l'apparition des symptômes.
+indice: Rapport ou nombre caractérisant un état ou phénomène.
+indigestion: Difficulté à digérer provoquant malaise et troubles digestifs.
+induration: Durcissement pathologique d'un tissu.
+inertie: Absence de réaction ou d'activité.
+infarctus: Nécrose d'un tissu par interruption de son irrigation sanguine.
+infection: Invasion de l'organisme par des micro-organismes pathogènes.
+infectiologie: Spécialité médicale étudiant les maladies infectieuses.
+infectiologue: Médecin spécialisé dans les maladies infectieuses.
+infertilité: Incapacité à concevoir après un an de rapports réguliers non protégés.
+infestation: Invasion de l'organisme par des parasites.
+infiltration: Injection locale d'un médicament dans un tissu.
+infirmerie: Local ou service où sont dispensés les soins infirmiers.
+infirmier: Professionnel de santé prodiguant des soins sur prescription ou de sa propre initiative.
+infirmière: Professionnelle de santé prodiguant des soins sur prescription ou de sa propre initiative.
+inflammation: Réaction de défense de l'organisme face à une agression.
+influenza: Virus de la grippe.
+information médicale: Communication sur les aspects médicaux d'une pathologie ou traitement.
+infusion: Administration lente d'un liquide par voie intraveineuse, ou tisane.
+ingestion: Action d'avaler une substance.
+ingrédient: Constituant entrant dans la composition d'un médicament ou aliment.
+inguinal: Relatif à l'aine, région de jonction entre cuisse et abdomen.
+inhalateur: Dispositif permettant l'inhalation de médicaments sous forme d'aérosol.
+inhalation: Action de respirer des vapeurs, fumées ou médicaments par les voies respiratoires.
+inhibiteur: Substance bloquant ou ralentissant une réaction biochimique ou fonction.
+injection: Introduction d'un médicament liquide dans l'organisme à l'aide d'une seringue.
+inné: Présent dès la naissance, congénital.
+inoculation: Introduction volontaire d'un agent infectieux à des fins de vaccination.
+insalivation: Imprégnation des aliments par la salive lors de la mastication.
+insémination: Introduction de sperme dans les voies génitales féminines.
+insomnie: Difficulté à s'endormir ou à maintenir un sommeil de qualité.
+inspiration: Phase d'entrée de l'air dans les poumons.
+instillation: Administration goutte à goutte d'un médicament, notamment dans l'œil.
+insuffisance: Incapacité d'un organe à assurer correctement sa fonction.
+insuffisance cardiaque: Incapacité du cœur à assurer un débit sanguin suffisant.
+insuffisance rénale: Diminution de la capacité des reins à filtrer le sang.
+insuffisance respiratoire: Incapacité des poumons à oxygéner correctement le sang.
+insuline: Hormone pancréatique régulant le taux de sucre dans le sang.
+insulinothérapie: Traitement par injections d'insuline chez les diabétiques.
+intégration: Processus d'adaptation et d'insertion dans un environnement.
+internat: Formation hospitalière pratique des futurs médecins spécialistes.
+interne: Étudiant en médecine effectuant son internat dans un hôpital.
+internement: Placement d'une personne dans un établissement psychiatrique.
+interosseux: Situé entre deux os.
+interphalangien: Relatif aux articulations entre les phalanges des doigts.
+intertrigo: Inflammation cutanée des plis de la peau due à la macération.
+intervention: Acte chirurgical ou thérapeutique.
+intervention chirurgicale: Opération réalisée par un chirurgien.
+intervertébral: Situé entre deux vertèbres.
+intestin: Partie du tube digestif allant de l'estomac à l'anus.
+intestin grêle: Portion de l'intestin entre estomac et côlon assurant la digestion.
+intolérance: Réaction adverse à une substance sans mécanisme immunologique.
+intoxication: État pathologique causé par l'absorption d'une substance toxique.
+intra-articulaire: Situé ou injecté à l'intérieur d'une articulation.
+intramusculaire: Situé ou injecté dans un muscle.
+intraveineuse: Injection directe dans une veine.
+intubation: Introduction d'un tube dans la trachée pour assurer la respiration.
+intuition: Perception immédiate sans raisonnement, ou pressentiment.
+invasion: Pénétration et multiplication d'agents pathogènes dans l'organisme.
+invalidité: État d'une personne atteinte d'une incapacité permanente.
+inversion: Retournement d'un organe ou changement de position anormale.
+investigation: Ensemble des examens pour établir un diagnostic.
+iode: Oligo-élément essentiel au fonctionnement de la thyroïde.
+ionisation: Transformation d'atomes en ions.
+IRA: Infection respiratoire aiguë.
+iridologie: Pratique non conventionnelle prétendant diagnostiquer par l'examen de l'iris.
+iris: Membrane colorée de l'œil contrôlant la taille de la pupille.
+irradiation: Exposition à des rayonnements, ou propagation d'une douleur.
+irrigation: Lavage d'une cavité ou plaie avec un liquide.
+irritabilité: Susceptibilité excessive à réagir aux stimuli.
+irritation: Réaction inflammatoire locale légère de la peau ou d'une muqueuse.
+ischémie: Diminution ou arrêt de l'irrigation sanguine d'un tissu.
+ischiatique: Relatif au nerf sciatique ou à l'ischion du bassin.
+ischion: Partie inférieure et postérieure de l'os iliaque.
+isolement: Séparation d'un patient pour prévenir la transmission d'une infection.
+isoniazide: Antibiotique utilisé dans le traitement de la tuberculose.
+isotonique: Se dit d'une solution ayant la même concentration que le plasma sanguin.
+isotope: Variante d'un élément chimique utilisée en médecine nucléaire.
+issue: Orifice, ouverture naturelle du corps.
+IVG: Interruption volontaire de grossesse, avortement provoqué.
+jambe: Partie du membre inférieur entre le genou et la cheville.
+jaunisse: Coloration jaune de la peau et des muqueuses, ictère.
+jéjunum: Partie moyenne de l'intestin grêle entre le duodénum et l'iléon.
+jonction: Point de rencontre entre deux structures anatomiques.
+joue: Partie latérale du visage.
+jumeau: Enfant né d'une grossesse multiple, identique ou fraternel.
+jumeaux: Enfants issus d'une même grossesse.
+kératine: Protéine constituant principal des cheveux, ongles et couche cornée.
+kératite: Inflammation de la cornée de l'œil.
+kératose: Épaississement de la couche cornée de l'épiderme.
+kinase: Enzyme catalysant des réactions de phosphorylation.
+kinésithérapeute: Professionnel de santé pratiquant la rééducation fonctionnelle par le mouvement.
+kinésithérapie: Thérapie par le mouvement et techniques manuelles de rééducation.
+kinésithérapie respiratoire: Techniques facilitant la respiration et l'évacuation des sécrétions.
+kyste: Cavité pathologique close contenant un liquide ou substance semi-solide.
+labial: Relatif aux lèvres.
+laboratoire: Établissement où sont réalisées les analyses médicales.
+laboratoire d'analyses: Structure effectuant les examens biologiques et biochimiques.
+labyrinthe: Ensemble des cavités de l'oreille interne.
+labyrinthite: Inflammation du labyrinthe de l'oreille interne.
+lacération: Déchirure irrégulière d'un tissu.
+lacrymal: Relatif aux larmes.
+lactase: Enzyme digestive permettant la digestion du lactose.
+lactation: Production et sécrétion de lait par les glandes mammaires.
+lactose: Sucre naturel présent dans le lait.
+laitage: Produit alimentaire à base de lait.
+lait maternel: Lait sécrété par la mère pour nourrir son nourrisson.
+lambeau: Fragment de tissu utilisé en chirurgie reconstructrice.
+lamelle: Fine couche de tissu ou préparation pharmaceutique.
+lancette: Petit instrument pointu pour piquer la peau et prélever du sang.
+langage: Capacité de communiquer par la parole ou signes.
+langue: Organe musculaire mobile de la bouche intervenant dans la parole et la déglutition.
+laparoscopie: Examen ou intervention chirurgicale de l'abdomen par petites incisions.
+laparotomie: Ouverture chirurgicale de la paroi abdominale.
+larme: Liquide sécrété par les glandes lacrymales lubrifiant l'œil.
+larmoiement: Production excessive de larmes.
+laryngectomie: Ablation chirurgicale du larynx.
+laryngite: Inflammation du larynx provoquant enrouement et toux.
+laryngologie: Spécialité médicale étudiant le larynx et ses maladies.
+laryngoscope: Instrument permettant l'examen du larynx.
+larynx: Organe de la gorge contenant les cordes vocales.
+laser: Faisceau lumineux utilisé en chirurgie et dermatologie.
+latence: Période sans symptôme entre deux phases d'une maladie.
+latéral: Situé sur le côté.
+laurier: Plante aromatique aux propriétés digestives et antiseptiques.
+lavage: Nettoyage d'une cavité ou plaie avec un liquide.
+lavage gastrique: Évacuation du contenu de l'estomac par sonde en cas d'intoxication.
+lavement: Introduction de liquide dans le rectum pour évacuer les selles.
+laxatif: Médicament facilitant l'évacuation des selles.
+LCR: Liquide céphalorachidien, liquide entourant le cerveau et la moelle épinière.
+lèpre: Maladie infectieuse chronique causée par une bactérie.
+lésion: Modification pathologique d'un tissu ou organe.
+léthargie: État de somnolence profonde et d'inertie.
+leucémie: Cancer du sang caractérisé par la prolifération de globules blancs anormaux.
+leucocyte: Globule blanc, cellule sanguine de défense immunitaire.
+leucopénie: Diminution du nombre de globules blancs dans le sang.
+leucorrhée: Écoulement vaginal blanchâtre non sanglant.
+lèvre: Repli cutané mobile bordant la bouche.
+LH: Hormone lutéinisante, hormone impliquée dans la reproduction.
+liaison: Connexion chimique ou anatomique entre structures.
+libération: Action de mettre en circulation une substance dans l'organisme.
+libido: Désir sexuel, pulsion de vie.
+ligament: Structure fibreuse reliant deux os au niveau d'une articulation.
+ligature: Action de lier fermement un vaisseau sanguin ou conduit.
+ligne: Structure anatomique allongée ou limite.
+lipide: Molécule grasse, composant des membranes cellulaires et réserve énergétique.
+lipome: Tumeur bénigne formée de tissu adipeux.
+liposuccion: Technique chirurgicale d'aspiration de graisse sous-cutanée.
+liquide: État fluide d'une substance.
+liquide amniotique: Liquide entourant le fœtus dans l'utérus.
+liquide céphalorachidien: Liquide circulant autour du cerveau et de la moelle épinière.
+liquide pleural: Liquide lubrifiant entre les deux feuillets de la plèvre.
+liquide synovial: Liquide lubrifiant les articulations.
+listériose: Infection alimentaire causée par la bactérie Listeria.
+lit: Meuble pour le repos et le sommeil du patient.
+lit médicalisé: Lit équipé pour faciliter les soins et le confort du patient.
+lithiase: Formation de calculs dans un organe, notamment reins ou vésicule.
+litre: Unité de mesure de volume utilisée pour les liquides.
+livret de famille: Document officiel recensant l'état civil des membres d'une famille.
+lobe: Division anatomique d'un organe, notamment cerveau, poumon ou foie.
+lobectomie: Ablation chirurgicale d'un lobe d'organe.
+lobule: Petite subdivision d'un lobe.
+local: Limité à une région spécifique du corps.
+localisation: Détermination du siège précis d'une lésion ou douleur.
+locomotion: Capacité de se déplacer.
+lombalgie: Douleur de la région lombaire, mal de dos.
+lombaire: Relatif à la région du bas du dos.
+lombes: Région du dos située au niveau de la taille.
+lombostat: Orthèse rigide maintenant la colonne lombaire.
+long cours: Se dit d'un traitement prolongé sur plusieurs mois ou années.
+longévité: Durée de vie, espérance de vie élevée.
+lotion: Préparation liquide à application cutanée.
+loupe: Instrument grossissant pour l'examen détaillé.
+LPP: Liste des produits et prestations remboursables par l'assurance maladie.
+lubrifiant: Substance réduisant le frottement.
+luette: Appendice charnu pendant au fond du voile du palais.
+luxation: Déplacement anormal des surfaces articulaires d'une articulation.
+lymphatique: Relatif à la lymphe et aux vaisseaux lymphatiques.
+lymphe: Liquide circulant dans les vaisseaux lymphatiques.
+lymphocyte: Type de globule blanc participant à la défense immunitaire.
+lymphome: Cancer du système lymphatique.
+lyse: Destruction ou dissolution d'une cellule ou tissu.
+lysine: Acide aminé essentiel.
+macération: Ramollissement de la peau par contact prolongé avec l'humidité.
+macrophage: Cellule immunitaire détruisant les agents pathogènes par phagocytose.
+macula: Zone centrale de la rétine assurant la vision précise.
+magnésium: Minéral essentiel au fonctionnement musculaire et nerveux.
+maigreur: État de faible poids corporel.
+main: Extrémité du membre supérieur comportant cinq doigts.
+maladie: Altération de la santé avec symptômes caractéristiques.
+maladie auto-immune: Maladie où le système immunitaire attaque les propres cellules.
+maladie chronique: Maladie évoluant sur une longue durée.
+maladie contagieuse: Maladie transmissible d'une personne à une autre.
+maladie génétique: Maladie causée par une anomalie des gènes.
+maladie infectieuse: Maladie causée par un micro-organisme pathogène.
+maladie nosocomiale: Infection contractée dans un établissement de soins.
+maladie orpheline: Maladie rare touchant peu de personnes.
+maladie professionnelle: Maladie causée ou aggravée par l'activité professionnelle.
+malade: Personne atteinte d'une maladie, patient.
+malaise: Sensation pénible de trouble général sans cause précise.
+malaria: Paludisme, maladie parasitaire transmise par les moustiques.
+malentendant: Personne ayant une déficience auditive partielle.
+malformation: Anomalie de structure présente à la naissance.
+malignité: Caractère grave d'une tumeur ou maladie.
+malléole: Saillie osseuse de chaque côté de la cheville.
+malnutrition: État résultant d'une alimentation déséquilibrée ou insuffisante.
+malpighien: Relatif à la couche profonde de l'épiderme.
+malposition: Position anormale d'un organe ou fœtus.
+malvoyant: Personne ayant une déficience visuelle importante.
+mamelon: Protubérance au centre du sein par où s'écoule le lait.
+mammaire: Relatif au sein.
+mammectomie: Ablation chirurgicale du sein.
+mammographie: Radiographie des seins pour dépistage du cancer.
+mandibule: Os de la mâchoire inférieure.
+manie: Trouble psychiatrique avec excitation et euphorie pathologiques.
+manipulation: Mouvement manuel thérapeutique d'une articulation.
+manœuvre: Geste technique médical ou obstétrical.
+manque: État de privation d'une substance créant dépendance.
+marche: Action de se déplacer à pied.
+masque: Dispositif couvrant le nez et la bouche pour protection ou administration de gaz.
+massage: Manipulation des tissus mous à visée thérapeutique ou de détente.
+masseur-kinésithérapeute: Titre complet du kinésithérapeute.
+masseuse-kinésithérapeute: Titre complet de la kinésithérapeute.
+mastectomie: Ablation chirurgicale du sein.
+mastication: Action de mâcher les aliments.
+mastite: Inflammation de la glande mammaire, notamment pendant l'allaitement.
+mastoïde: Saillie osseuse située derrière l'oreille.
+mastose: Affection bénigne du sein avec kystes et nodules.
+matelas: Support de repos pour le lit.
+matelas anti-escarre: Matelas médical prévenant les escarres.
+maternité: Service hospitalier dédié aux accouchements et soins des nouveau-nés.
+matière fécale: Déchet solide de la digestion évacué par l'anus, selle.
+matité: Son sourd à la percussion d'un organe plein.
+matrice: Utérus, ou substance fondamentale d'un tissu.
+maxillaire: Relatif à la mâchoire, notamment supérieure.
+maxillo-facial: Relatif aux mâchoires et à la face.
+MCO: Médecine chirurgie obstétrique, secteur hospitalier de soins aigus.
+MDPH: Maison départementale des personnes handicapées, guichet unique pour les handicaps.
+méat: Orifice, ouverture d'un conduit naturel.
+mécanisme: Processus par lequel se produit un phénomène.
+méconium: Premières selles verdâtres du nouveau-né.
+médecin: Professionnel de santé diagnostiquant et traitant les maladies.
+médecin généraliste: Médecin de premier recours assurant les soins courants.
+médecin légiste: Médecin expert en médecine légale et criminologie.
+médecin traitant: Médecin choisi par le patient comme référent de son parcours de soins.
+médecine: Science et art de prévenir, diagnostiquer et traiter les maladies.
+médecine alternative: Pratiques thérapeutiques non conventionnelles.
+médecine du travail: Spécialité préventive surveillant la santé des travailleurs.
+médecine générale: Spécialité médicale de premier recours.
+médecine légale: Médecine appliquée aux questions judiciaires.
+médecine nucléaire: Spécialité utilisant des substances radioactives à visée diagnostique ou thérapeutique.
+médecine palliative: Soins visant le confort des patients en fin de vie.
+médecine préventive: Ensemble des mesures évitant l'apparition des maladies.
+médicament: Substance ou composition présentée comme possédant des propriétés thérapeutiques.
+médicament générique: Médicament copie d'un médicament de marque dont le brevet est expiré.
+médication: Emploi de médicaments à des fins thérapeutiques.
+médicolégal: Relevant à la fois de la médecine et du droit.
+médullaire: Relatif à la moelle osseuse ou épinière.
+mélancolie: État dépressif caractérisé par une tristesse profonde.
+mélanine: Pigment donnant sa couleur à la peau, cheveux et yeux.
+mélanome: Cancer de la peau développé à partir des mélanocytes.
+mélatonine: Hormone régulant le cycle veille-sommeil.
+membrane: Tissu fin séparant ou enveloppant des structures anatomiques.
+membre: Appendice articulé du corps, bras ou jambe.
+mémoire: Faculté de conserver et rappeler des informations.
+ménarche: Premières règles, début de la puberté chez la fille.
+ménière: Maladie de l'oreille interne causant vertiges et surdité.
+méninge: Membrane enveloppant le cerveau et la moelle épinière.
+méningite: Inflammation des méninges, souvent d'origine infectieuse.
+méningocoque: Bactérie causant des méningites graves.
+ménisque: Cartilage en forme de croissant dans l'articulation du genou.
+ménopause: Arrêt définitif des règles chez la femme, vers 50 ans.
+menstruation: Écoulement sanguin mensuel chez la femme, règles.
+mensuel: Qui se produit tous les mois, notamment les règles.
+mental: Relatif au psychisme, à l'esprit.
+mentalité: État d'esprit, manière de penser.
+menton: Saillie du visage formée par la partie inférieure de la mandibule.
+méridien: Ligne théorique d'énergie en médecine traditionnelle chinoise.
+MERS: Syndrome respiratoire du Moyen-Orient, infection virale grave.
+mésothérapie: Technique d'injections intradermiques localisées de médicaments.
+métabolisme: Ensemble des réactions chimiques de l'organisme.
+métabolite: Produit résultant du métabolisme d'une substance.
+métastase: Localisation secondaire d'un cancer à distance de la tumeur primitive.
+métatarse: Ensemble des cinq os longs du pied entre tarse et orteils.
+météorisme: Gonflement abdominal par accumulation de gaz intestinaux.
+méthode: Procédure ou technique utilisée pour un traitement ou examen.
+métrorragie: Saignement génital survenant en dehors des règles.
+microbe: Micro-organisme pathogène, terme générique.
+microbiologie: Science étudiant les micro-organismes.
+microcéphalie: Périmètre crânien anormalement petit.
+microcirculation: Circulation sanguine dans les plus petits vaisseaux.
+microkystes: Très petits kystes, notamment sur la peau.
+micronutriment: Élément nutritif nécessaire en petite quantité, vitamines et minéraux.
+micro-organisme: Être vivant microscopique, bactérie, virus ou champignon.
+microscope: Instrument grossissant permettant l'observation de structures microscopiques.
+microscopie: Technique d'observation au microscope.
+microtraumatisme: Petite lésion répétée causant des troubles.
+micturition: Action d'uriner, miction.
+migraine: Mal de tête intense et pulsatile, souvent unilatéral.
+migration: Déplacement d'une structure dans l'organisme.
+milieu: Environnement dans lequel se développe un organisme.
+minerve: Collier rigide immobilisant le cou.
+mineur: Personne de moins de 18 ans.
+minéral: Substance inorganique essentielle au fonctionnement de l'organisme.
+minéralisation: Incorporation de minéraux dans un tissu, notamment osseux.
+minime: De faible importance ou gravité.
+ministère de la santé: Administration publique gérant la politique de santé.
+miosis: Rétrécissement de la pupille.
+mitose: Division cellulaire produisant deux cellules identiques.
+mitral: Relatif à la valve mitrale du cœur.
+mobile: Qui peut être déplacé, ou en mouvement.
+mobilisation: Mouvement passif ou actif d'une articulation en rééducation.
+mobilité: Capacité à se mouvoir ou déplacer une articulation.
+mode de vie: Ensemble des habitudes quotidiennes influençant la santé.
+modération: Limitation raisonnable dans la consommation.
+moelle: Substance contenue dans les os produisant les cellules sanguines.
+moelle épinière: Cordon nerveux dans le canal vertébral reliant le cerveau au corps.
+moelle osseuse: Tissu situé dans les os produisant les cellules sanguines.
+molaire: Grosse dent plate au fond de la bouche servant à broyer les aliments.
+mollesse: Consistance molle, manque de tonicité.
+mollet: Partie postérieure et charnue de la jambe.
+monitorage: Surveillance continue de paramètres vitaux par des appareils.
+moniteur: Appareil de surveillance continue des constantes.
+monobloc: Se dit d'une structure en une seule pièce.
+mononucléose: Maladie virale contagieuse causant fatigue et angine, maladie du baiser.
+monoparentale: Famille avec un seul parent.
+monopolaire: Avec un seul pôle, notamment en électrochirurgie.
+monotone: Qui ne varie pas, uniforme.
+morbidité: Nombre de malades dans une population donnée.
+morbihan: Département de Bretagne, ou relatif à la maladie.
+morcellement: Division en fragments.
+morgue: Lieu où sont conservés les corps avant inhumation.
+morbilliforme: Éruption cutanée ressemblant à celle de la rougeole.
+morphine: Puissant analgésique opiacé dérivé de l'opium.
+morphinique: Relatif à la morphine ou aux opiacés.
+morphologie: Étude de la forme et structure des êtres vivants.
+morsure: Plaie causée par les dents d'un animal ou humain.
+mort: Arrêt définitif des fonctions vitales, décès.
+mort subite: Décès brutal et inattendu.
+mortalité: Nombre de décès dans une population donnée.
+mortinatalité: Nombre d'enfants mort-nés.
+morula: Stade précoce du développement embryonnaire.
+morveux: Qui a un écoulement nasal, ou relatif à la morve.
+moteur: Relatif au mouvement volontaire.
+motilité: Capacité de mouvement spontané.
+motivation: Ensemble des facteurs incitant à l'action.
+motrice: Relatif au système contrôlant le mouvement.
+motricité: Ensemble des fonctions permettant le mouvement volontaire.
+mouchard: Dispositif enregistrant des données médicales automatiquement.
+mouche: Insecte pouvant transmettre des maladies.
+mouchoir: Tissu pour se moucher le nez.
+moule: Empreinte utilisée pour fabriquer une prothèse.
+mourant: Personne en fin de vie, agonisant.
+mourir: Cesser de vivre, décéder.
+mousse: Préparation pharmaceutique légère et aérée.
+moustique: Insecte piqueur vecteur de maladies comme le paludisme.
+moutarde: Plante utilisée en cataplasme révulsif.
+mouvement: Déplacement d'une partie du corps ou changement de position.
+mouvements involontaires: Mouvements échappant au contrôle volontaire.
+moxa: Technique de médecine chinoise chauffant des points d'acupuncture.
+moxibustion: Stimulation de points d'acupuncture par la chaleur.
+MPR: Médecine physique et de réadaptation, spécialité de rééducation.
+MSA: Mutualité sociale agricole, régime de sécurité sociale des agriculteurs.
+MST: Maladie sexuellement transmissible, IST.
+mucolytique: Médicament fluidifiant les sécrétions bronchiques.
+mucosité: Sécrétion visqueuse des muqueuses, glaire.
+mucoviscidose: Maladie génétique causant une production de mucus épais.
+mucus: Sécrétion visqueuse protectrice des muqueuses.
+muet: Personne incapable de parler.
+multipare: Femme ayant accouché plusieurs fois.
+multiple: Qui se présente en plusieurs exemplaires.
+multirésistant: Se dit d'une bactérie résistante à plusieurs antibiotiques.
+mural: Relatif à une paroi, notamment cardiaque.
+murmure: Bruit anormal ausculté, notamment cardiaque.
+muscarinique: Relatif à un type de récepteur du système nerveux.
+muscle: Organe contractile permettant le mouvement.
+musculaire: Relatif aux muscles.
+musculation: Développement de la masse musculaire par exercices.
+musculature: Ensemble des muscles du corps.
+musculo-squelettique: Relatif aux muscles et au squelette.
+mutant: Variant génétique, ou individu porteur d'une mutation.
+mutation: Modification permanente du matériel génétique.
+mutilant: Qui cause une mutilation, perte d'un membre ou fonction.
+mutilation: Ablation ou destruction d'une partie du corps.
+mutisme: Refus ou incapacité de parler.
+mutualité: Système de protection sociale complémentaire.
+mutuelle: Organisme de complémentaire santé remboursant les soins.
+myalgie: Douleur musculaire.
+myasthénie: Maladie auto-immune causant fatigue et faiblesse musculaires.
+mycose: Infection causée par un champignon microscopique.
+mydriase: Dilatation de la pupille.
+myéline: Gaine entourant les fibres nerveuses accélérant l'influx nerveux.
+myélite: Inflammation de la moelle épinière.
+myélogramme: Examen microscopique de la moelle osseuse.
+myélome: Cancer de la moelle osseuse affectant les plasmocytes.
+myocarde: Muscle du cœur assurant les contractions cardiaques.
+myocardiopathie: Maladie du muscle cardiaque.
+myocardite: Inflammation du muscle cardiaque.
+myofasciite: Inflammation des muscles et fascias.
+myome: Tumeur bénigne du tissu musculaire, notamment utérin.
+myopathie: Maladie dégénérative des muscles.
+myopie: Trouble de la vision rendant floue la vision de loin.
+myorelaxant: Médicament décontracturant les muscles.
+myosite: Inflammation d'un muscle.
+myosis: Rétrécissement anormal de la pupille.
+myxœdème: Gonflement cutané dû à l'hypothyroïdie.
+nabothienne: Relatif aux kystes du col utérin.
+naevus: Grain de beauté, tache pigmentée de la peau.
+naissance: Venue au monde d'un enfant, accouchement.
+nanisme: Petitesse anormale de la taille.
+naphtaline: Substance autrefois utilisée comme désinfectant.
+narcissisme: Amour excessif de soi-même.
+narcolepsie: Maladie caractérisée par des endormissements soudains et irrépressibles.
+narcose: État de sommeil artificiel provoqué par des substances.
+narcotique: Substance provoquant le sommeil ou l'engourdissement.
+narine: Orifice externe du nez.
+nasal: Relatif au nez.
+naso-gastrique: Relatif au trajet du nez à l'estomac, notamment une sonde.
+nasopharynx: Partie supérieure du pharynx située derrière le nez.
+natal: Relatif à la naissance.
+natalité: Nombre de naissances dans une population donnée.
+natation: Sport pratiqué dans l'eau, bénéfique pour la santé.
+natif: Présent dès la naissance, inné.
+natriurèse: Élimination de sodium par les urines.
+naturopathie: Médecine non conventionnelle utilisant des moyens naturels.
+naturopathe: Praticien de la naturopathie.
+nausée: Sensation désagréable de mal au cœur avec envie de vomir.
+nauséeux: Qui provoque des nausées.
+naviculaire: Os du pied ou du poignet en forme de navette.
+néant: Absence totale, notamment dans un examen.
+nébulisateur: Appareil transformant un liquide en fines particules inhalables.
+nébulisat: Médicament administré par nébulisation.
+nébulisation: Administration d'un médicament sous forme d'aérosol fin.
+nécropole: Cimetière, lieu d'inhumation.
+nécropsie: Autopsie, examen du corps après décès.
+nécrose: Mort de cellules ou tissus dans un organisme vivant.
+nécrotique: Relatif à la nécrose, tissu mort.
+négatif: Résultat d'examen n'indiquant pas la présence de ce qui est recherché.
+négligence: Manque de soin ou d'attention dans les soins.
+néo-: Préfixe signifiant nouveau.
+néonatal: Relatif au nouveau-né durant les premières semaines.
+néonatalogie: Spécialité médicale des soins aux nouveau-nés.
+néonatologue: Médecin spécialisé dans les soins aux nouveau-nés.
+néoplasie: Formation d'un tissu anormal, tumeur.
+néoplasme: Tumeur, prolifération tissulaire anormale.
+néphrectomie: Ablation chirurgicale d'un rein.
+néphrite: Inflammation du rein.
+néphrologie: Spécialité médicale étudiant les reins et leurs maladies.
+néphrologue: Médecin spécialisé dans les maladies rénales.
+néphron: Unité fonctionnelle du rein assurant la filtration.
+néphropathie: Toute maladie du rein.
+néphrose: Maladie rénale sans inflammation.
+néphrostomie: Abouchement chirurgical du rein à la peau pour drainage.
+nerf: Cordon conducteur reliant le système nerveux aux organes et transmettant l'influx nerveux.
+nerf optique: Nerf transmettant les informations visuelles de l'œil au cerveau.
+nerf sciatique: Nerf le plus volumineux du corps, innervant la jambe.
+nerveux: Relatif aux nerfs et au système nerveux.
+nervosité: État d'agitation et d'irritabilité excessive.
+nervure: Relief linéaire sur une surface anatomique.
+neurasthénie: État de fatigue nerveuse chronique avec faiblesse et dépression.
+neurectomie: Section chirurgicale d'un nerf.
+neurinome: Tumeur bénigne développée aux dépens d'un nerf.
+neurite: Inflammation d'un nerf.
+neuroblastome: Tumeur maligne du système nerveux sympathique chez l'enfant.
+neurochirurgie: Spécialité chirurgicale du système nerveux central et périphérique.
+neurochirurgien: Chirurgien spécialisé dans les opérations du système nerveux.
+neurochirurgienne: Chirurgienne spécialisée dans les opérations du système nerveux.
+neurodégénératif: Qui entraîne une destruction progressive des neurones.
+neurodégénérescence: Processus de destruction progressive des cellules nerveuses.
+neurodéveloppement: Développement du système nerveux durant la croissance.
+neurofibromatose: Maladie génétique causant des tumeurs des nerfs.
+neurogenèse: Formation de nouveaux neurones.
+neuroleptique: Médicament antipsychotique utilisé en psychiatrie.
+neurologie: Spécialité médicale étudiant le système nerveux et ses maladies.
+neurologue: Médecin spécialisé dans les maladies du système nerveux.
+neuromédiateur: Substance chimique transmettant l'influx nerveux, neurotransmetteur.
+neuromusculaire: Relatif aux nerfs et aux muscles.
+neurone: Cellule nerveuse de base du système nerveux.
+neuropathie: Atteinte des nerfs périphériques.
+neurophysiologie: Étude du fonctionnement du système nerveux.
+neuroplasticité: Capacité du cerveau à se réorganiser et former de nouvelles connexions.
+neuropsychiatre: Médecin spécialisé à la fois en neurologie et psychiatrie.
+neuropsychiatrie: Discipline médicale entre neurologie et psychiatrie.
+neuropsychologie: Discipline étudiant les relations entre cerveau et comportements.
+neuropsychologue: Spécialiste des fonctions cognitives et leurs troubles.
+neuroradiologie: Imagerie médicale spécialisée dans le système nerveux.
+neurosciences: Ensemble des disciplines scientifiques étudiant le système nerveux.
+neurostimulation: Stimulation électrique du système nerveux à visée thérapeutique.
+neurotoxicité: Capacité d'une substance à détruire le tissu nerveux.
+neurotoxique: Substance toxique pour le système nerveux.
+neurotransmetteur: Molécule chimique transmettant l'influx nerveux entre neurones.
+neurotrope: Qui a une affinité pour le tissu nerveux.
+neurovégétatif: Relatif au système nerveux autonome régulant les fonctions automatiques.
+neutralisation: Action de rendre inactif un agent pathogène ou une toxine.
+neutropénie: Diminution du nombre de neutrophiles dans le sang.
+neutrophile: Type de globule blanc participant à la défense contre les infections.
+nævus: Grain de beauté, tache pigmentée cutanée.
+nez: Organe de l'olfaction et entrée des voies respiratoires.
+niche: Petit enfoncement pathologique dans un organe.
+nicotine: Substance addictive présente dans le tabac.
+nid: Foyer infectieux ou parasitaire localisé.
+nidation: Implantation de l'embryon dans la muqueuse utérine.
+nitrate: Sel utilisé notamment dans le traitement de l'angine de poitrine.
+niveau: Degré, stade d'évolution ou de gravité.
+NO: Monoxyde d'azote, gaz messager dans l'organisme.
+nocebo: Effet négatif d'un traitement sans principe actif par suggestion.
+nocif: Nuisible à la santé, toxique.
+nocicepteur: Récepteur sensoriel de la douleur.
+noctambulisme: Somnambulisme, marche durant le sommeil.
+nocturne: Qui se produit la nuit.
+nocturie: Besoin d'uriner plusieurs fois durant la nuit.
+nodule: Petite formation arrondie palpable dans un tissu.
+nodulaire: Qui présente des nodules.
+noir: Couleur, ou relatif à une coloration pathologique sombre.
+nom: Appellation d'une personne, maladie ou médicament.
+nombre: Quantité mesurée ou comptée.
+nomenclature: Classification systématique des termes médicaux.
+nomination: Désignation officielle à un poste.
+non invasif: Se dit d'un examen ou traitement sans pénétration dans le corps.
+non remboursable: Médicament ou acte non pris en charge par l'assurance maladie.
+non stéroïdien: Se dit d'anti-inflammatoires sans cortisone.
+noradrénaline: Hormone et neurotransmetteur stimulant le système nerveux.
+normal: Conforme à la norme, sans anomalie pathologique.
+normoglycémie: Taux de sucre sanguin dans les valeurs normales.
+normotendu: Dont la tension artérielle est normale.
+nosologie: Classification des maladies.
+nosocomial: Qui est contracté dans un établissement de soins.
+nosophobie: Peur excessive et irrationnelle des maladies.
+notaire: Officier public pouvant intervenir pour tutelles et testaments médicaux.
+notification: Déclaration obligatoire de certaines maladies aux autorités.
+nourrice: Personne allaitant un enfant, ou récipient pour liquide médical.
+nourrisson: Enfant de moins de 2 ans, particulièrement durant la première année.
+nourriture: Alimentation, ensemble des aliments consommés.
+noyade: Asphyxie par immersion dans un liquide.
+noyau: Centre d'une cellule contenant l'ADN, ou structure anatomique centrale.
+NPO: Nil per os, à jeun, interdiction de manger ou boire avant intervention.
+nuisance: Élément de l'environnement nuisible à la santé.
+nuque: Partie postérieure du cou.
+nurse: Terme anglais pour infirmière ou garde d'enfants.
+nutriment: Substance alimentaire assimilable par l'organisme.
+nutrition: Ensemble des processus d'assimilation et d'utilisation des aliments.
+nutrition artificielle: Alimentation par voie intraveineuse ou sonde.
+nutrition entérale: Alimentation par sonde directement dans le tube digestif.
+nutrition parentérale: Alimentation par voie intraveineuse.
+nutritionniste: Professionnel spécialisé en nutrition et diététique.
+nyctalopie: Difficulté à voir dans l'obscurité, cécité nocturne.
+nycturie: Mictions fréquentes durant la nuit.
+nymphe: Petite lèvre de la vulve.
+nystagmus: Mouvements oscillatoires involontaires des yeux.
+OAP: Œdème aigu du poumon, accumulation brutale de liquide dans les poumons.
+obèse: Personne en surpoids important avec IMC supérieur à 30.
+obésité: Excès de masse grasse corporelle constituant un risque pour la santé.
+obésité morbide: Obésité massive mettant en jeu le pronostic vital.
+objectif: But thérapeutique visé, ou lentille d'un instrument d'observation.
+oblique: Qui forme un angle, notamment muscles abdominaux.
+oblitération: Obstruction complète d'un conduit ou vaisseau.
+obnubilation: Trouble de la conscience avec altération de la vigilance.
+observation: Surveillance attentive de l'évolution d'un patient.
+obsessionnel: Relatif aux obsessions, pensées envahissantes incontrôlables.
+obstétrical: Relatif à l'obstétrique et aux accouchements.
+obstétricien: Médecin spécialisé dans la surveillance de la grossesse et les accouchements.
+obstétricienne: Médecin spécialisée dans la surveillance de la grossesse et les accouchements.
+obstétrique: Spécialité médicale de la grossesse et de l'accouchement.
+obstruction: Blocage partiel ou complet d'un conduit ou organe creux.
+obstructif: Qui provoque une obstruction.
+obturation: Action de boucher une cavité, notamment dentaire.
+obturateur: Qui sert à boucher ou fermer.
+occipital: Relatif à l'arrière du crâne.
+occiput: Partie postérieure et inférieure du crâne.
+occlusion: Fermeture d'un conduit ou arrêt du transit intestinal.
+occlusion intestinale: Arrêt complet du transit des matières et gaz dans l'intestin.
+occulte: Caché, non visible, notamment un saignement non détectable.
+occupation: Activité exercée, notamment en ergothérapie.
+occupationnel: Relatif à l'activité professionnelle ou quotidienne.
+ocriplasmine: Enzyme utilisée en ophtalmologie.
+oculaire: Relatif à l'œil.
+oculiste: Ancien terme pour ophtalmologiste.
+oculo-moteur: Relatif aux mouvements des yeux.
+oculométrie: Mesure des mouvements oculaires.
+odeur: Perception olfactive caractéristique d'une substance.
+odontologie: Science étudiant les dents et leurs maladies.
+odontologiste: Spécialiste des dents, dentiste.
+odontostomatologie: Spécialité médico-chirurgicale de la bouche et des dents.
+odorat: Sens permettant la perception des odeurs.
+œdème: Gonflement dû à l'accumulation de liquide dans les tissus.
+œdème de Quincke: Gonflement rapide et important de la face et de la gorge.
+œdème pulmonaire: Accumulation de liquide dans les poumons.
+œil: Organe de la vision.
+œsophage: Conduit reliant le pharynx à l'estomac.
+œsophagectomie: Ablation chirurgicale de l'œsophage.
+œsophagite: Inflammation de la muqueuse œsophagienne.
+œsophagoscopie: Examen endoscopique de l'œsophage.
+œstradiol: Hormone sexuelle féminine, principal œstrogène.
+œstrogène: Hormone sexuelle féminine.
+œuf: Ovule fécondé, zygote.
+office: Service, ou local professionnel.
+officine: Pharmacie d'officine ouverte au public.
+OGM: Organisme génétiquement modifié.
+ognon: Déformation du gros orteil, hallux valgus.
+OGTT: Test oral de tolérance au glucose pour dépister le diabète.
+olécrane: Saillie osseuse à l'arrière du coude.
+olfactif: Relatif à l'odorat.
+olfaction: Fonction de perception des odeurs.
+oligoamnios: Quantité insuffisante de liquide amniotique.
+oligoélément: Élément minéral nécessaire en très petite quantité.
+oligo-élément: Minéral essentiel présent en faible quantité dans l'organisme.
+oligospermie: Nombre insuffisant de spermatozoïdes dans le sperme.
+oligurie: Diminution de la quantité d'urine émise.
+olive: Petite formation arrondie palpable, notamment dans le ventre du nourrisson.
+oméga-3: Acides gras essentiels bénéfiques pour la santé cardiovasculaire.
+omentum: Repli du péritoine, épiploon.
+omission: Oubli d'administrer un traitement ou acte de soin.
+omoplate: Os plat triangulaire du dos, scapula.
+omphalite: Inflammation du nombril.
+omphalocèle: Hernie congénitale du cordon ombilical.
+OMS: Organisation mondiale de la santé, institution spécialisée de l'ONU.
+onco-: Préfixe relatif aux tumeurs.
+oncogène: Gène dont la mutation favorise le cancer.
+oncogenèse: Processus de formation d'une tumeur cancéreuse.
+oncologie: Spécialité médicale étudiant les cancers.
+oncologue: Médecin spécialisé dans le traitement des cancers.
+onde: Propagation d'énergie, notamment électrique cardiaque ou cérébrale.
+ongle: Phanère corné protégeant l'extrémité des doigts et orteils.
+onguent: Préparation médicamenteuse grasse à application cutanée.
+ONU: Organisation des Nations unies, comprenant l'OMS.
+opacification: Perte de transparence d'un milieu normalement transparent.
+opacité: Zone dense visible sur une radiographie.
+opérable: Se dit d'une maladie pouvant être traitée chirurgicalement.
+opérateur: Chirurgien réalisant une intervention.
+opération: Intervention chirurgicale.
+opératoire: Relatif à une opération chirurgicale.
+opéré: Patient ayant subi une intervention chirurgicale.
+opérer: Réaliser une intervention chirurgicale.
+ophtalmie: Inflammation de l'œil.
+ophtalmologie: Spécialité médicale étudiant l'œil et ses maladies.
+ophtalmologiste: Médecin spécialisé dans les maladies des yeux.
+ophtalmologue: Médecin spécialisé dans les maladies des yeux.
+ophtalmoscope: Instrument permettant l'examen du fond de l'œil.
+opiacé: Substance dérivée de l'opium ayant des propriétés analgésiques.
+opinion: Avis médical sur un diagnostic ou traitement.
+opioïde: Substance ayant des effets similaires aux opiacés.
+opium: Substance extraite du pavot contenant de la morphine.
+opportuniste: Se dit d'une infection survenant sur un terrain immunitaire affaibli.
+opposition: Refus d'un patient concernant un acte médical.
+oppression: Sensation de poids sur la poitrine gênant la respiration.
+opsonisation: Marquage des agents pathogènes par des anticorps pour faciliter leur destruction.
+opticien: Professionnel concevant et vendant les lunettes et lentilles correctrices.
+opticienne: Professionnelle concevant et vendant les lunettes et lentilles correctrices.
+optimal: Qui correspond au meilleur résultat possible.
+optimisation: Amélioration pour obtenir le meilleur résultat thérapeutique.
+option: Choix possible entre plusieurs alternatives thérapeutiques.
+optique: Relatif à la vision et à l'œil.
+optométrie: Science de la mesure de la vision.
+optométriste: Professionnel réalisant les examens de la vue.
+oral: Relatif à la bouche, ou administré par la bouche.
+orbite: Cavité osseuse contenant l'œil.
+orbitaire: Relatif à l'orbite de l'œil.
+orchidectomie: Ablation chirurgicale d'un testicule.
+orchidopexie: Fixation chirurgicale d'un testicule non descendu.
+orchite: Inflammation du testicule.
+ordonnance: Prescription médicale écrite d'un traitement ou examen.
+ordre: Organisation professionnelle régulant l'exercice médical ou paramédical.
+oreille: Organe de l'audition et de l'équilibre.
+oreille externe: Partie visible de l'oreille et conduit auditif externe.
+oreille interne: Partie profonde de l'oreille contenant cochlée et vestibule.
+oreille moyenne: Cavité de l'oreille contenant les osselets.
+oreillette: Cavité supérieure du cœur recevant le sang veineux.
+oreillon: Maladie virale contagieuse causant le gonflement des glandes salivaires.
+organe: Structure anatomique remplissant une fonction spécifique.
+organique: Relatif aux organes, ou d'origine biologique.
+organisme: Être vivant dans son ensemble, ou institution administrative.
+organisation: Structure ou mode de fonctionnement d'un système.
+organogenèse: Formation des organes durant le développement embryonnaire.
+orgasme: Plaisir intense marquant l'acmé de l'excitation sexuelle.
+orgelet: Furoncle du bord de la paupière.
+orientation: Capacité à se situer dans le temps et l'espace.
+orifice: Ouverture naturelle ou artificielle d'un conduit ou cavité.
+origine: Point de départ, cause d'une maladie.
+ORL: Oto-rhino-laryngologie, spécialité médicale de l'oreille, du nez et de la gorge.
+ornithose: Maladie infectieuse transmise par les oiseaux.
+orphelin: Se dit d'une maladie rare ou d'un médicament peu rentable.
+orthodontie: Spécialité dentaire corrigeant les malpositions dentaires.
+orthodontiste: Dentiste spécialisé dans la correction de l'alignement des dents.
+orthogenèse: Développement normal et harmonieux.
+orthopédie: Spécialité médicale et chirurgicale de l'appareil locomoteur.
+orthopédique: Relatif à l'orthopédie.
+orthopédiste: Médecin ou chirurgien spécialisé en orthopédie.
+orthophonie: Rééducation des troubles de la parole et du langage.
+orthophoniste: Professionnel rééduquant les troubles du langage et de la communication.
+orthopnée: Difficulté respiratoire obligeant à rester en position assise.
+orthoprothésiste: Professionnel fabriquant des prothèses et orthèses.
+orthoptie: Rééducation des troubles de la vision binoculaire.
+orthoptiste: Professionnel rééduquant les troubles de la vision et du strabisme.
+orthose: Appareillage externe soutenant ou corrigeant une fonction.
+orthosympathique: Partie du système nerveux autonome, système sympathique.
+orthostatique: Relatif à la position debout, notamment hypotension au lever.
+os: Tissu dur constituant le squelette.
+oscillation: Mouvement de va-et-vient régulier.
+oscillomètre: Appareil mesurant les oscillations, notamment de la pression artérielle.
+osler: Maladie hémorragique héréditaire avec malformations vasculaires.
+osmolarité: Concentration en particules dissoutes dans une solution.
+osmose: Passage d'eau à travers une membrane semi-perméable.
+osmotique: Relatif à l'osmose.
+ossature: Ensemble des os formant le squelette.
+osselet: Petit os de l'oreille moyenne transmettant les vibrations sonores.
+osseux: Relatif aux os.
+ossification: Formation ou développement du tissu osseux.
+ostéite: Inflammation d'un os.
+ostéoarthrite: Inflammation articulaire avec atteinte osseuse, arthrose.
+ostéoblaste: Cellule formant le tissu osseux.
+ostéoclaste: Cellule détruisant le tissu osseux.
+ostéodensitométrie: Examen mesurant la densité osseuse.
+ostéogenèse: Formation du tissu osseux.
+ostéologie: Étude scientifique des os.
+ostéomalacie: Ramollissement des os par défaut de minéralisation.
+ostéomyélite: Infection bactérienne de l'os et de la moelle osseuse.
+ostéopathe: Praticien de l'ostéopathie, thérapie manuelle.
+ostéopathie: Médecine manuelle traitant les troubles par manipulation.
+ostéopénie: Diminution de la densité osseuse précédant l'ostéoporose.
+ostéophyte: Excroissance osseuse anormale, notamment dans l'arthrose.
+ostéoporose: Fragilisation des os par diminution de leur densité.
+ostéosarcome: Cancer primitif de l'os.
+ostéosynthèse: Fixation chirurgicale d'une fracture avec du matériel.
+ostéotomie: Section chirurgicale d'un os.
+ostiole: Petit orifice.
+otalgique: Relatif à la douleur d'oreille.
+otalgie: Douleur de l'oreille.
+otite: Inflammation de l'oreille, externe ou moyenne.
+oto-: Préfixe relatif à l'oreille.
+oto-rhino-laryngologie: Spécialité médicale de l'oreille, du nez et de la gorge.
+oto-rhino-laryngologiste: Médecin ORL spécialisé dans les maladies ORL.
+otorragie: Écoulement de sang par l'oreille.
+otorrhée: Écoulement de liquide par l'oreille.
+otosclérose: Maladie de l'oreille moyenne causant une surdité progressive.
+otoscope: Instrument pour examiner le conduit auditif et le tympan.
+ouate: Coton cardé utilisé pour les pansements.
+ouïe: Sens de l'audition.
+ouraque: Canal embryonnaire reliant vessie et ombilic.
+ouverture: Orifice naturel ou créé chirurgicalement.
+ovaire: Glande sexuelle féminine produisant les ovules et hormones.
+ovarien: Relatif aux ovaires.
+ovarite: Inflammation d'un ovaire.
+overdose: Surdose, intoxication par excès de drogue ou médicament.
+oviducte: Trompe de Fallope, conduit amenant l'ovule vers l'utérus.
+ovocyte: Cellule sexuelle féminine immature.
+ovogenèse: Formation des ovules.
+ovulation: Libération d'un ovule par l'ovaire.
+ovule: Cellule sexuelle féminine mature, ou forme pharmaceutique vaginale.
+oxalate: Sel pouvant former des calculs rénaux.
+oxyde: Composé chimique contenant de l'oxygène.
+oxydoréduction: Réaction chimique impliquant un transfert d'électrons.
+oxygénation: Apport d'oxygène aux tissus.
+oxygène: Gaz essentiel à la respiration cellulaire.
+oxygénothérapie: Traitement par administration d'oxygène.
+oxymètre: Appareil mesurant la saturation en oxygène du sang.
+oxyure: Ver parasite intestinal, fréquent chez l'enfant.
+oxyurose: Infestation par les oxyures.
+ozone: Forme d'oxygène utilisée pour ses propriétés désinfectantes.
+pacemaker: Stimulateur cardiaque régulant le rythme du cœur.
+pachymètre: Instrument mesurant l'épaisseur de la cornée.
+pacini: Relatif aux corpuscules de Pacini, récepteurs de la pression.
+PACS: Pacte civil de solidarité, union civile.
+page: Professionnel appelé pour une urgence à l'hôpital.
+pagétique: Relatif à la maladie de Paget, maladie osseuse.
+paillette: Tube contenant du sperme congelé pour insémination.
+paire: Ensemble de deux éléments symétriques, notamment nerfs crâniens.
+palais: Paroi supérieure de la cavité buccale.
+palais dur: Partie antérieure osseuse du palais.
+palais mou: Partie postérieure musculaire du palais, voile du palais.
+palatal: Relatif au palais.
+palatoplastie: Chirurgie reconstructrice du palais.
+pâleur: Décoloration anormale de la peau et des muqueuses.
+palier: Dosage stable d'un médicament, ou pallier d'analgésiques de l'OMS.
+palliatif: Traitement visant à soulager sans guérir, notamment en fin de vie.
+palliation: Ensemble des soins de confort pour patients en fin de vie.
+palmaire: Relatif à la paume de la main.
+palpable: Qui peut être perçu par la palpation.
+palpation: Examen manuel par le toucher.
+palpébral: Relatif aux paupières.
+palpitation: Perception désagréable de battements cardiaques.
+paludisme: Maladie parasitaire transmise par les moustiques, malaria.
+PAM: Pression artérielle moyenne.
+panacée: Remède universel supposé guérir toutes les maladies.
+panaris: Infection aiguë d'un doigt.
+pancréas: Glande digestive et endocrine située derrière l'estomac.
+pancréatectomie: Ablation chirurgicale du pancréas.
+pancréatique: Relatif au pancréas.
+pancréatite: Inflammation du pancréas.
+pancytopénie: Diminution de toutes les cellules sanguines.
+pandémie: Épidémie étendue à plusieurs continents ou au monde entier.
+pané: Recouvert de chapelure, ou empêché de bouger.
+panel: Ensemble d'examens ou groupe de participants à une étude.
+panhypopituitarisme: Insuffisance globale de l'hypophyse.
+panique: Anxiété intense et soudaine avec sensation de danger imminent.
+panne: Arrêt de fonctionnement d'un appareil médical.
+panneau: Surface ou élément indicatif dans un établissement de soins.
+pannicule: Couche de tissu, notamment adipeux sous-cutané.
+pansement: Protection et traitement local d'une plaie.
+pansement compressif: Pansement serré pour arrêter un saignement.
+pansement occlusif: Pansement étanche protégeant complètement une plaie.
+panser: Appliquer un pansement sur une plaie.
+pantoprazole: Médicament réduisant la sécrétion gastrique acide.
+PAO: Pression artérielle d'oxygène, mesure de l'oxygène dans le sang artériel.
+papanicolaou: Frottis cervical pour dépistage du cancer du col utérin.
+pape: Plus haute autorité religieuse catholique, peut intervenir sur questions bioéthiques.
+papier: Support pour ordonnances, résultats et documents médicaux.
+papille: Petite élévation en forme de mamelon sur une surface.
+papillome: Tumeur bénigne cutanée ou muqueuse, verrue.
+papule: Petite lésion cutanée solide en relief.
+paracellulaire: Qui passe entre les cellules.
+paracentèse: Ponction d'une cavité pour évacuer un liquide.
+paracétamol: Médicament analgésique et antipyrétique.
+paradigme: Modèle ou référence dans la pensée médicale.
+paradoxal: Contraire à l'attendu ou à la logique.
+paraffine: Substance utilisée en histologie pour inclure les tissus.
+parahydroïde: Glande régulant le métabolisme du calcium, parathyroïde.
+paralysie: Perte totale de la motricité d'une partie du corps.
+paralysie faciale: Perte de la motricité d'une moitié du visage.
+paralytique: Relatif à la paralysie ou personne atteinte de paralysie.
+paramédical: Relatif aux professions de santé autres que médecin.
+paramètre: Valeur mesurable caractérisant l'état d'un patient.
+paramétrite: Inflammation du tissu entourant l'utérus.
+paramnésie: Trouble de la mémoire avec faux souvenirs.
+paranéoplasique: Syndrome causé indirectement par un cancer à distance.
+paranoïa: Trouble psychiatrique avec délire de persécution.
+parapharmacie: Commerce de produits de santé vendus sans ordonnance.
+paraphilie: Trouble du comportement sexuel.
+paraplégie: Paralysie des deux membres inférieurs.
+paraplégique: Personne atteinte de paraplégie.
+parapsychologie: Étude de phénomènes psychiques inexpliqués.
+parasite: Organisme vivant aux dépens d'un hôte.
+parasitaire: Relatif aux parasites ou causé par eux.
+parasitologie: Science étudiant les parasites.
+parasitose: Maladie causée par un parasite.
+parasomnie: Trouble du comportement durant le sommeil.
+parasympathique: Partie du système nerveux autonome favorisant le repos.
+parathormone: Hormone parathyroïdienne régulant le calcium.
+parathyroïde: Petite glande régulant le métabolisme du calcium.
+parathyroïdectomie: Ablation d'une glande parathyroïde.
+paratyphoïde: Infection proche de la fièvre typhoïde.
+parc: Espace clos pour enfant, ou ensemble d'équipements médicaux.
+parenchyme: Tissu fonctionnel spécifique d'un organe.
+parentéral: Administré par voie injectable, hors du tube digestif.
+parenthèse: Suspension temporaire d'un traitement.
+parésie: Paralysie partielle ou diminution de la force musculaire.
+paresthésie: Sensation anormale de fourmillement ou engourdissement.
+pareur: Personne préparant un corps pour les funérailles.
+pariétal: Relatif à la paroi d'un organe ou d'une cavité.
+parité: Nombre d'accouchements qu'une femme a eus.
+parkinsonien: Relatif à la maladie de Parkinson.
+parkinsonisme: Syndrome avec tremblements et rigidité musculaire.
+Parkinson: Maladie neurodégénérative causant tremblements et rigidité.
+parlant: Qui peut parler, ou évocateur pour un symptôme.
+parotide: Glande salivaire située devant l'oreille.
+parotidite: Inflammation de la glande parotide, oreillons.
+paroxysme: Moment d'intensité maximale d'un symptôme.
+paroxystique: Qui survient par accès brutaux et intenses.
+parquet: Ensemble des magistrats, ou revêtement de sol.
+partenaire: Personne avec qui on a des relations, notamment sexuelles.
+partiel: Incomplet, qui n'affecte qu'une partie.
+parturiente: Femme en train d'accoucher.
+parturition: Accouchement, mise bas.
+parvovirus: Virus causant des infections, notamment le mégalérythème.
+passage: Traversée ou transition d'un état à un autre.
+passager: Temporaire, de courte durée.
+passif: Qui ne participe pas activement, ou dettes d'un établissement.
+passivité: État de non-participation active.
+pasteurisation: Traitement thermique détruisant les germes pathogènes.
+pastille: Petit comprimé à sucer pour la gorge.
+patch: Timbre transdermique libérant un médicament à travers la peau.
+patella: Rotule, os situé devant l'articulation du genou.
+patellaire: Relatif à la rotule.
+patent: Ouvert, perméable, non obstrué.
+paternité: Lien de filiation entre père et enfant.
+pathogène: Qui cause une maladie.
+pathogenèse: Mécanisme de développement d'une maladie.
+pathogénicité: Capacité d'un agent à provoquer une maladie.
+pathognomonic: Symptôme caractéristique spécifique d'une seule maladie.
+pathologie: Science des maladies, ou maladie elle-même.
+pathologique: Anormal, lié à une maladie.
+pathologiste: Médecin spécialisé dans l'étude des maladies, anatomopathologiste.
+patient: Personne recevant des soins médicaux.
+patiente: Personne recevant des soins médicaux.
+patrimoine: Ensemble des caractères génétiques hérités.
+patron: Modèle de référence, ou supérieur hiérarchique.
+pause: Interruption temporaire, notamment cardiaque ou respiratoire.
+paupière: Repli cutané mobile protégeant l'œil.
+pavillon: Partie externe visible de l'oreille, ou bâtiment hospitalier.
+pavot: Plante dont on extrait l'opium.
+peau: Organe enveloppant le corps, assurant protection et thermorégulation.
+pédalé: Mouvement des jambes comme pour pédaler.
+pédicule: Structure anatomique en forme de tige reliant un organe.
+pédiculose: Infestation par les poux.
+pédicure: Professionnel des soins des pieds.
+pédicure-podologue: Professionnel traitant les affections du pied.
+pédiatrie: Spécialité médicale consacrée aux enfants.
+pédiatre: Médecin spécialisé dans les soins aux enfants.
+pédodontie: Dentisterie pédiatrique, soins dentaires des enfants.
+pédophile: Personne attirée sexuellement par les enfants.
+pédophilie: Attirance sexuelle pathologique envers les enfants.
+pédopsychiatre: Psychiatre spécialisé dans les troubles mentaux de l'enfant.
+pédopsychiatrie: Psychiatrie de l'enfant et de l'adolescent.
+peeling: Technique dermatologique d'exfoliation chimique de la peau.
+PEG: Gastrostomie endoscopique percutanée, sonde d'alimentation dans l'estomac.
+peigne: Instrument ou référence anatomique, notamment le muscle pectiné.
+peigné: Aspect particulier d'une structure anatomique striée.
+pelage: Action d'enlever la peau, ou aspect de la peau.
+pelade: Chute de cheveux par plaques, alopécie localisée.
+pellagre: Maladie par carence en vitamine B3 causant lésions cutanées.
+pelvien: Relatif au bassin.
+pelvimétrie: Mesure des dimensions du bassin maternel avant accouchement.
+pelvis: Bassin osseux contenant les organes pelviens.
+pemphigus: Maladie auto-immune bulleuse de la peau.
+pendulaire: Qui oscille comme un pendule.
+pénétrance: Probabilité qu'un gène s'exprime en maladie.
+pénétration: Entrée d'un corps étranger ou rapport sexuel.
+pénicilline: Premier antibiotique découvert, famille d'antibiotiques.
+pénien: Relatif au pénis.
+pénis: Organe génital externe masculin.
+pensée: Activité mentale, ou plante médicinale.
+pensement: Ancien terme pour pansement.
+pensionnaire: Résident permanent d'un établissement médico-social.
+pente: Degré d'inclinaison, ou évolution progressive.
+pentose: Sucre à cinq atomes de carbone.
+pénurie: Manque important de personnel ou matériel médical.
+pepsine: Enzyme digestive de l'estomac dégradant les protéines.
+peptide: Chaîne courte d'acides aminés.
+peptique: Relatif à la digestion, notamment ulcère de l'estomac.
+perception: Prise de conscience d'un stimulus sensoriel.
+perceptuel: Relatif à la perception sensorielle.
+perçu: Ce qui est ressenti ou compris par le patient.
+percussion: Technique d'examen par taper sur le corps pour apprécier les sons.
+percutané: Qui traverse la peau, notamment injection ou cathéter.
+perdre: Cesser d'avoir, notamment perte de sang ou conscience.
+père: Parent masculin, peut être présent lors de l'accouchement.
+perforation: Trou pathologique traversant la paroi d'un organe.
+perforé: Qui présente un ou plusieurs trous.
+performance: Capacité fonctionnelle ou résultat d'un test.
+perfusion: Administration lente et continue d'un liquide par voie veineuse.
+périanesthésique: Relatif à la période entourant l'anesthésie.
+périanal: Autour de l'anus.
+périartérite: Inflammation de la paroi externe d'une artère.
+périarthrite: Inflammation des tissus entourant une articulation.
+péricarde: Enveloppe fibreuse entourant le cœur.
+péricardite: Inflammation du péricarde.
+péridural: Espace situé autour de la dure-mère, anesthésie péridurale.
+péridurale: Anesthésie par injection dans l'espace péridural.
+périmètre: Limite, contour, ou champ visuel.
+périmétrie: Mesure du champ visuel.
+périnatal: Période entourant la naissance.
+périnatalité: Ensemble des soins autour de la naissance.
+périnée: Région située entre les organes génitaux et l'anus.
+périnéal: Relatif au périnée.
+périnéorraphie: Suture chirurgicale du périnée.
+période: Intervalle de temps, ou phase d'une maladie.
+périodicité: Caractère de ce qui revient à intervalles réguliers.
+périodique: Qui se répète à intervalles réguliers.
+périodontite: Inflammation des tissus de soutien de la dent.
+périoste: Membrane fibreuse recouvrant les os.
+périostite: Inflammation du périoste.
+péripatéticien: Relatif à la marche, ou personne pratiquant la prostitution de rue.
+périphérie: Zone externe, éloignée du centre.
+périphérique: Situé à la périphérie, notamment système nerveux périphérique.
+péristaltisme: Contractions musculaires propulsant le contenu du tube digestif.
+péristaltique: Relatif au péristaltisme.
+péritoine: Membrane tapissant la cavité abdominale.
+péritonéal: Relatif au péritoine.
+péritonite: Inflammation du péritoine, urgence chirurgicale.
+péri-ombilical: Autour du nombril.
+périvasculaire: Autour d'un vaisseau sanguin.
+perleche: Inflammation des commissures des lèvres, fissures aux coins de la bouche.
+permanence: Service de soins continu, notamment de nuit et weekend.
+permanent: Continu, persistant dans le temps.
+perméabilité: Capacité d'un tissu à laisser passer des substances.
+perméable: Qui laisse passer, notamment vaisseau non obstrué.
+permis: Autorisation légale, notamment permis de conduire après traitement.
+pernicieux: Grave, dangereux, notamment anémie pernicieuse.
+péroné: Os long latéral de la jambe, fibula.
+péronier: Relatif au péroné.
+peroxyde: Composé chimique oxydant, notamment peroxyde d'hydrogène.
+perpétuel: Continu, sans interruption.
+perquisition: Recherche domiciliaire par autorité judiciaire.
+persan: Relatif à la Perse, ou race de chat.
+persécution: Délire avec sentiment d'être victime de malveillance.
+persévération: Répétition involontaire et inappropriée d'un acte ou parole.
+persistance: Maintien dans le temps d'un symptôme ou condition.
+persistant: Qui dure, qui ne disparaît pas.
+personnalité: Ensemble des traits psychologiques caractérisant un individu.
+personnalisé: Adapté spécifiquement à un patient.
+personnel: Ensemble des employés d'un établissement de santé.
+personnel soignant: Ensemble des professionnels dispensant les soins.
+personne âgée: Individu généralement de plus de 65 ans.
+perspective: Point de vue, ou évolution prévisible.
+perspiration: Transpiration insensible à travers la peau.
+persuasion: Influence verbale visant à convaincre.
+perte: Diminution ou disparition d'une fonction, substance ou capacité.
+perte de connaissance: Syncope, évanouissement.
+perte de sang: Hémorragie, saignement.
+pertinent: Approprié, justifié médicalement.
+perturbateur: Qui trouble le fonctionnement normal.
+perturbation: Trouble, déséquilibre d'une fonction.
+pervers: Dévié de la normale, notamment comportement sexuel.
+perversion: Déviation pathologique d'un comportement.
+pesanteur: Sensation de lourdeur, ou force de gravité.
+pesée: Mesure du poids corporel.
+peser: Mesurer le poids.
+pessaire: Dispositif vaginal de soutien des organes pelviens.
+pessimisme: Tendance à voir les aspects négatifs.
+peste: Maladie infectieuse grave transmise par les puces de rongeurs.
+pesticide: Produit chimique détruisant les nuisibles, potentiellement toxique.
+pétéchie: Petite tache rouge cutanée par micro-hémorragie.
+petit: De faible dimension, notamment petit mal épileptique.
+petit bassin: Partie inférieure du bassin contenant organes reproducteurs.
+petit-déjeuner: Premier repas de la journée.
+petit mal: Forme d'épilepsie avec absences brèves.
+pétrifié: Figé, immobile par peur ou stupeur.
+pétrissage: Technique de massage par pression et malaxage.
+PET-scan: Tomographie par émission de positons, imagerie métabolique.
+peu: En faible quantité ou intensité.
+peur: Émotion d'alarme face à un danger perçu.
+pH: Mesure de l'acidité ou alcalinité d'une solution.
+phacoémulsification: Technique chirurgicale de la cataracte par ultrasons.
+phagocyte: Cellule capable d'englober et détruire des particules.
+phagocytose: Processus d'ingestion de particules par une cellule.
+phalange: Os des doigts et orteils.
+phalangette: Dernière phalange distale d'un doigt.
+phalangien: Relatif aux phalanges.
+phalangine: Deuxième phalange moyenne d'un doigt.
+phallus: Pénis, organe génital masculin.
+phanère: Production cornée de la peau, cheveux, poils, ongles.
+phantasme: Fantasme, production imaginaire.
+pharmaceutique: Relatif à la pharmacie et aux médicaments.
+pharmacie: Science du médicament, ou établissement dispensant les médicaments.
+pharmacie centrale: Service hospitalier gérant les médicaments.
+pharmacie clinique: Activité pharmaceutique au chevet du patient.
+pharmacien: Professionnel de santé spécialiste du médicament.
+pharmacienne: Professionnelle de santé spécialiste du médicament.
+pharmacocinétique: Étude du devenir du médicament dans l'organisme.
+pharmacodépendance: Dépendance à un médicament.
+pharmacodynamie: Étude des effets des médicaments sur l'organisme.
+pharmacogénétique: Étude de l'influence des gènes sur la réponse aux médicaments.
+pharmacologie: Science étudiant les médicaments et leurs effets.
+pharmacologue: Spécialiste de la pharmacologie.
+pharmacopée: Recueil officiel des médicaments et préparations.
+pharmacovigilance: Surveillance des effets indésirables des médicaments.
+pharyngé: Relatif au pharynx.
+pharyngite: Inflammation du pharynx, mal de gorge.
+pharynx: Carrefour entre voies digestives et respiratoires, gorge.
+phase: Étape d'un processus ou d'une maladie.
+phénicol: Famille d'antibiotiques.
+phénobarbitol: Médicament antiépileptique et sédatif.
+phénol: Antiseptique puissant utilisé pour la désinfection.
+phénomène: Manifestation observable d'un processus pathologique.
+phénotype: Ensemble des caractères observables d'un individu.
+phénylalanine: Acide aminé essentiel.
+phénylcétonurie: Maladie génétique métabolique dépistée à la naissance.
+phéochromocytome: Tumeur de la glande surrénale sécrétant des catécholamines.
+phérèse: Technique de prélèvement sélectif de composants sanguins.
+phimosis: Rétrécissement du prépuce empêchant le décalottage.
+phlébectomie: Ablation chirurgicale d'une veine variqueuse.
+phlébite: Inflammation d'une veine avec formation de caillot, thrombose veineuse.
+phlébographie: Radiographie des veines avec produit de contraste.
+phlébologie: Spécialité médicale des maladies veineuses.
+phlébotome: Insecte vecteur de la leishmaniose.
+phlébotomie: Incision d'une veine, saignée thérapeutique.
+phlegmon: Infection diffuse du tissu sous-cutané.
+phobie: Peur intense et irrationnelle d'un objet ou situation.
+phobique: Relatif à une phobie ou personne ayant des phobies.
+phocomèlie: Malformation congénitale avec membres courts ou absents.
+phonation: Production de la voix.
+phonétique: Relatif aux sons du langage.
+phoniatre: Médecin spécialisé dans les troubles de la voix.
+phoniatrie: Spécialité médicale des troubles de la voix.
+phonocardiogramme: Enregistrement graphique des bruits du cœur.
+phosphatase: Enzyme impliquée dans le métabolisme du phosphore.
+phosphate: Sel de l'acide phosphorique présent dans l'organisme.
+phosphène: Sensation lumineuse sans stimulus lumineux externe.
+phosphore: Minéral essentiel à la formation des os et dents.
+phosphorylation: Ajout d'un groupe phosphate à une molécule.
+photo-: Préfixe relatif à la lumière.
+photocoagulation: Coagulation de tissus par laser, notamment rétinien.
+photodermatose: Réaction cutanée anormale à la lumière.
+photophobie: Intolérance douloureuse à la lumière.
+photosensibilisant: Substance augmentant la sensibilité cutanée au soleil.
+photosensibilisation: Réaction cutanée excessive à la lumière après prise de médicament.
+photothérapie: Traitement par exposition à la lumière.
+phototype: Classification de la sensibilité de la peau au soleil.
+phrénatique: Relatif au diaphragme ou à l'esprit.
+phrénique: Relatif au diaphragme, notamment nerf phrénique.
+phtiriase: Infestation par les poux, pédiculose.
+phtisie: Tuberculose pulmonaire anciennement appelée ainsi.
+phylactère: Étiquette ou protection, ou amulette.
+phyllode: Tumeur du sein bénigne ou maligne.
+physiatre: Médecin spécialisé en médecine physique et réadaptation.
+physiatrie: Médecine physique et réadaptation.
+physicochimique: Relatif aux propriétés physiques et chimiques.
+physiologie: Science étudiant le fonctionnement normal des organismes vivants.
+physiologique: Normal, conforme au fonctionnement habituel.
+physiologiste: Spécialiste de la physiologie.
+physiopathologie: Étude des mécanismes des maladies.
+physiothérapie: Traitement par agents physiques comme chaleur, froid, électricité.
+physiothérapeute: Professionnel pratiquant la physiothérapie.
+physique: Relatif au corps, ou science de la matière.
+phytothérapie: Traitement par les plantes médicinales.
+pian: Maladie tropicale cutanée proche de la syphilis.
+pica: Trouble alimentaire avec ingestion de substances non comestibles.
+pick: Maladie neurodégénérative forme de démence.
+picotement: Sensation désagréable de piqûre légère.
+picrate: Sel explosif ou antiseptique.
+pictogramme: Symbole graphique sur médicaments indiquant précautions.
+pied: Extrémité du membre inférieur permettant la station debout.
+pied bot: Malformation congénitale du pied.
+pied d'athlète: Mycose cutanée entre les orteils.
+pied diabétique: Complications podologiques du diabète.
+pied plat: Affaissement de la voûte plantaire.
+pierre: Calcul formé dans un organe, lithiase.
+piézographie: Mesure des pressions, notamment urinaires.
+piézomètre: Appareil mesurant la pression.
+pigeon: Oiseau ou déformation thoracique en saillie.
+pigment: Substance colorée, notamment de la peau.
+pigmentation: Coloration par des pigments.
+pileux: Relatif aux poils.
+pilier: Structure de soutien anatomique.
+pilocarpine: Médicament stimulant les glandes, notamment salivaires.
+pilosité: Ensemble des poils du corps.
+pilule: Forme pharmaceutique orale de petite taille, notamment contraceptive.
+pilule contraceptive: Médicament hormonal prévenant la grossesse.
+pilule du lendemain: Contraception d'urgence post-coïtale.
+pince: Instrument chirurgical pour saisir ou clamper.
+pincement: Sensation ou geste de serrer entre deux doigts.
+pinéal: Relatif à la glande pinéale ou épiphyse cérébrale.
+pinéalome: Tumeur de la glande pinéale.
+pinta: Maladie tropicale cutanée dépigmentante.
+pipette: Instrument de prélèvement de liquide en petite quantité.
+piqûre: Introduction d'une aiguille dans la peau pour injection ou prélèvement.
+piqûre d'insecte: Lésion cutanée causée par un insecte piqueur.
+piriforme: En forme de poire, notamment muscle piriforme.
+piscine: Bassin pour natation et rééducation aquatique.
+pistage: Suivi de l'évolution d'une maladie ou traitement.
+pityriasis: Affection cutanée avec desquamation fine.
+pivampicilline: Antibiotique de la famille des pénicillines.
+pivot: Point d'appui pour rotation, ou élément central.
+placebo: Substance inactive donnée comme médicament dans essais cliniques.
+placenta: Organe reliant fœtus et mère pendant la grossesse.
+placenta prævia: Placenta recouvrant l'orifice du col utérin.
+placentaire: Relatif au placenta.
+placentophagie: Consommation du placenta après l'accouchement.
+plafond: Limite supérieure d'une mesure ou remboursement.
+plagiocéphalie: Déformation asymétrique du crâne du nourrisson.
+plaie: Lésion ouverte de la peau ou des tissus.
+plaie ouverte: Solution de continuité des tissus exposant les structures profondes.
+plain-pied: De niveau, sans marche ni escalier.
+plaine: Zone géographique plane.
+plaisir: Sensation agréable physique ou psychologique.
+plan: Niveau anatomique de référence, ou projet thérapeutique.
+plan de soins: Programme détaillé des soins à prodiguer.
+plancher: Surface inférieure d'une cavité, notamment pelvien.
+plancton: Micro-organismes aquatiques.
+planimétrie: Mesure de surfaces planes.
+planning: Organisation temporelle, notamment familial pour contraception.
+planning familial: Service de conseil en contraception et santé reproductive.
+plantar: Relatif à la plante du pied, plantaire.
+plantaire: Relatif à la plante du pied.
+plante: Végétal utilisé en phytothérapie, ou face inférieure du pied.
+plaque: Lésion plane étendue cutanée ou muqueuse, ou dépôt pathologique.
+plaque dentaire: Biofilm bactérien sur les dents.
+plaque motrice: Zone de jonction neuromusculaire.
+plaque sénile: Dépôt protéique cérébral dans la maladie d'Alzheimer.
+plasma: Partie liquide du sang sans cellules.
+plasmaphérèse: Échange plasmatique, épuration du plasma sanguin.
+plasmide: Petit ADN circulaire bactérien.
+plasmine: Enzyme dissolvant les caillots sanguins.
+plasminogène: Précurseur inactif de la plasmine.
+plasmodium: Parasite unicellulaire causant le paludisme.
+plaste: Suffixe désignant une réparation chirurgicale.
+plastie: Intervention chirurgicale reconstructrice ou réparatrice.
+plastique: Matière synthétique ou relatif à la chirurgie plastique.
+plastron: Protection thoracique rigide, ou signe clinique abdominal.
+plat: Sans relief, ou assiette pour repas.
+plateau: Phase stable d'évolution, ou support plat.
+platine: Métal précieux utilisé en chimiothérapie.
+plâtre: Matériau pour immobilisation d'un membre fracturé.
+plausible: Vraisemblable, possible.
+plèbe: Peuple, masse populaire.
+plein: Rempli complètement, ou période d'activité maximale.
+pléiotropie: Gène ayant plusieurs effets sur l'organisme.
+pléthore: Excès, surabondance.
+pléthorique: En excès, congestionné.
+pleural: Relatif à la plèvre.
+pleurésie: Épanchement de liquide dans la cavité pleurale.
+pleurétique: Relatif à la pleurésie.
+pleurodynie: Douleur de la paroi thoracique.
+pleurotomie: Incision chirurgicale de la plèvre.
+plèvre: Membrane entourant les poumons.
+pli: Repli cutané ou tissulaire, ou technique d'examen.
+pli cutané: Épaisseur de peau pincée pour mesurer masse grasse.
+pliométrie: Mesure des plis cutanés.
+plissement: Formation de plis.
+plomb: Métal lourd toxique.
+plombage: Ancienne obturation dentaire au plomb ou amalgame.
+plombémie: Taux de plomb dans le sang.
+plomberie: Système de tuyauterie, ou travaux dentaires familièrement.
+plongée: Immersion sous l'eau pouvant causer accidents de décompression.
+plongeur: Personne pratiquant la plongée sous-marine.
+plot: Électrode de surface pour électrocardiogramme.
+pluie: Précipitation atmosphérique d'eau.
+plume: Phanère des oiseaux, ou petit poids.
+pluralité: Caractère de ce qui est multiple.
+pluricellulaire: Composé de plusieurs cellules.
+pluridisciplinaire: Impliquant plusieurs disciplines médicales.
+plurifactoriel: Causé par plusieurs facteurs.
+pluripare: Femme ayant accouché plusieurs fois.
+pluripotent: Cellule capable de se différencier en plusieurs types cellulaires.
+plus: Davantage, en quantité supérieure.
+plusieurs: Plus d'un, un nombre indéterminé supérieur à deux.
+PMI: Protection maternelle et infantile, service de prévention.
+PMR: Personne à mobilité réduite.
+PMS: Syndrome prémenstruel, troubles avant les règles.
+pneumatique: Relatif à l'air ou gaz.
+pneumectomie: Ablation chirurgicale d'un poumon, pneumonectomie.
+pneumo-: Préfixe relatif au poumon ou à l'air.
+pneumococcique: Relatif au pneumocoque, bactérie causant pneumonies.
+pneumocoque: Bactérie fréquemment responsable de pneumonies.
+pneumocystose: Infection pulmonaire opportuniste à Pneumocystis.
+pneumogastrique: Ancien nom du nerf vague.
+pneumologie: Spécialité médicale étudiant les poumons et voies respiratoires.
+pneumologue: Médecin spécialisé dans les maladies respiratoires.
+pneumomédiastin: Présence anormale d'air dans le médiastin.
+pneumonectomie: Ablation chirurgicale complète d'un poumon.
+pneumonie: Infection du tissu pulmonaire.
+pneumopathie: Toute maladie du poumon.
+pneumopéritoine: Présence d'air dans la cavité abdominale.
+pneumothorax: Présence d'air dans la cavité pleurale collabant le poumon.
+poche: Cavité ou sac pathologique contenant du liquide.
+poche des eaux: Membrane contenant le liquide amniotique.
+podagre: Goutte localisée au gros orteil.
+podologie: Discipline étudiant le pied et ses affections.
+podologue: Professionnel spécialisé dans les soins et traitements du pied.
+poids: Masse corporelle mesurée en kilogrammes.
+poids de naissance: Masse du nouveau-né à la naissance.
+poignet: Articulation entre avant-bras et main.
+poil: Phanère pileux recouvrant la peau.
+poing: Main fermée.
+point: Endroit précis, ou unité de suture chirurgicale.
+point d'acupuncture: Localisation précise pour insertion d'aiguille en acupuncture.
+point de côté: Douleur aiguë thoracique ou abdominale à l'effort.
+point de suture: Fil maintenant les bords d'une plaie.
+pointe: Extrémité aiguë, ou apex d'un organe.
+pointillé: Constitué de petits points, ou tracé discontinu.
+pointu: Se terminant en pointe.
+poison: Substance toxique dangereuse pour l'organisme.
+poisson: Animal aquatique, aliment riche en oméga-3.
+poitrine: Partie antérieure du thorax.
+poivre: Épice pouvant irriter les muqueuses.
+polarisation: Orientation d'ondes ou charges électriques.
+polarisé: Orienté dans une direction privilégiée.
+pôle: Extrémité d'un organe ou d'un axe anatomique.
+polémiquer: Débattre de façon controversée.
+poliomyélite: Maladie virale attaquant la moelle épinière causant paralysies.
+pollen: Grain reproducteur végétal allergisant.
+pollinose: Allergie au pollen, rhume des foins.
+polluant: Substance contaminant l'environnement.
+pollution: Contamination de l'environnement nuisible à la santé.
+polo: Sport ou type de vêtement.
+poly-: Préfixe signifiant plusieurs ou multiple.
+polyaddiction: Dépendance à plusieurs substances simultanément.
+polyalgies: Douleurs multiples diffuses.
+polyamide: Polymère synthétique utilisé en chirurgie.
+polyarthralgie: Douleurs touchant plusieurs articulations.
+polyarthrite: Inflammation de plusieurs articulations simultanément.
+polyarthrite rhumatoïde: Maladie auto-immune inflammatoire chronique des articulations.
+polychimiothérapie: Association de plusieurs médicaments anticancéreux.
+polychrome: De plusieurs couleurs.
+polyclinique: Établissement de soins privé regroupant plusieurs spécialités.
+polycorie: Présence de plusieurs pupilles dans un iris.
+polycythémie: Augmentation excessive du nombre de globules rouges.
+polydipsie: Soif excessive avec consommation d'eau importante.
+polyendocrinopathie: Atteinte de plusieurs glandes endocrines.
+polyéthylène: Matière plastique utilisée en prothèses.
+polyglobulie: Augmentation du nombre de globules rouges dans le sang.
+polyhandicap: Association de plusieurs handicaps sévères.
+polymédication: Prise simultanée de plusieurs médicaments.
+polymère: Grande molécule formée par répétition d'unités.
+polymérisation: Formation d'un polymère.
+polyméthylméthacrylate: Résine synthétique utilisée en chirurgie.
+polymorphe: Qui peut prendre plusieurs formes.
+polymorphisme: Variation de forme ou génétique.
+polymyalgie: Douleurs musculaires diffuses multiples.
+polymyosite: Inflammation de plusieurs muscles.
+polynévrite: Atteinte inflammatoire de plusieurs nerfs périphériques.
+polyneuropathie: Atteinte de plusieurs nerfs périphériques.
+polynucléaire: Globule blanc à noyau multilobé, granulocyte.
+polype: Tumeur bénigne pédiculée sur une muqueuse.
+polypectomie: Ablation chirurgicale d'un polype.
+polypeptide: Chaîne d'acides aminés formant une protéine.
+polyphagie: Consommation excessive de nourriture.
+polypharmacie: Usage excessif de médicaments multiples.
+polypnée: Respiration rapide et superficielle.
+polypose: Présence de nombreux polypes.
+polyposique: Relatif à la polypose.
+polyradiculonévrite: Inflammation simultanée de plusieurs racines nerveuses et nerfs.
+polysaccharide: Glucide complexe formé de nombreux sucres simples.
+polysérite: Inflammation de plusieurs séreuses.
+polysialie: Salivation excessive.
+polysomnographie: Enregistrement de plusieurs paramètres durant le sommeil.
+polysplenie: Présence de plusieurs rates.
+polytraumatisé: Victime de traumatismes multiples.
+polyurie: Émission excessive d'urine en grande quantité.
+polyvalent: Qui peut traiter plusieurs types de patients ou pathologies.
+pommade: Préparation médicamenteuse grasse à application cutanée.
+pomme: Fruit comestible.
+pomme d'Adam: Saillie du cartilage thyroïde visible au cou chez l'homme.
+pommette: Saillie de l'os malaire sur la joue.
+pompage: Technique de massage ou évacuation de liquide.
+pompe: Système propulsant un fluide, ou dispositif médical.
+pompe à insuline: Appareil délivrant de l'insuline en continu.
+ponction: Prélèvement de liquide par introduction d'une aiguille.
+ponction lombaire: Prélèvement de liquide céphalorachidien dans le dos.
+ponctionner: Prélever un liquide par ponction.
+ponctuel: Limité à un point précis, ou respectant les horaires.
+pondéral: Relatif au poids corporel.
+pondération: Équilibre, mesure dans les réactions.
+pont: Structure anatomique reliant deux parties, ou partie du tronc cérébral.
+pontage: Intervention créant un court-circuit vasculaire, bypass.
+pool: Réserve ou ensemble disponible, notamment de plaquettes.
+poplité: Creux situé derrière le genou.
+population: Ensemble des habitants d'un territoire.
+porc: Animal ou viande pouvant transmettre certaines maladies.
+porcelaine: Matériau céramique utilisé en dentisterie.
+pore: Minuscule orifice cutané d'une glande sudoripare.
+poreux: Qui présente des pores, perméable.
+porphyrie: Maladie métabolique héréditaire affectant la synthèse de l'hème.
+port: Action de porter, ou position du corps.
