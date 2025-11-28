@@ -61,6 +61,7 @@ def health():
 def run():
     app.run(host="0.0.0.0", port=10000)
 
+# Thread Flask en daemon pour ne pas bloquer le bot
 Thread(target=run, daemon=True).start()
 
 # ----------------------------------------
