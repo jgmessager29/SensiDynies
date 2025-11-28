@@ -38,6 +38,16 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 bot.remove_command("help")
 
 # ----------------------------------------
+# Bloquer le préfixe "!"
+# ----------------------------------------
+@bot.check
+async def block_prefix(ctx):
+    if ctx.message.content.startswith("/"):
+        await ctx.send("❌ Les commandes avec ce préfixe sont désactivées pour le moment.")
+        return False  # Bloque l'exécution
+    return True
+    
+# ----------------------------------------
 # Mini serveur Flask pour Render
 # ----------------------------------------
 app = Flask('')
