@@ -2523,3 +2523,970 @@ proverbe: Sentence populaire exprimant une vérité.
 proverbial: Devenu célèbre, bien connu.
 providence: Protection divine ou personne secourable.
 providentiel: Qui arrive à point nommé, opportun.
+province: Division territoriale régionale.
+provincial: Relatif à la province.
+proviseur: Directeur d'un lycée.
+provision: Réserve, stock constitué.
+provisionnel: Temporaire, en attente de définitif.
+provisoire: Temporaire, non définitif.
+provisoirement: De façon temporaire.
+provocant: Qui provoque, qui défie.
+provocateur: Qui provoque une réaction.
+provocation: Action de provoquer, défi.
+provoquer: Causer, déclencher un phénomène.
+proxénète: Personne tirant profit de la prostitution d'autrui.
+proxénétisme: Activité de proxénète.
+proximal: Proche du point d'attache ou du centre du corps.
+proximité: Caractère de ce qui est proche dans l'espace.
+prudence: Attitude de précaution et de réflexion.
+prudent: Qui agit avec précaution et réflexion.
+prune: Fruit du prunier.
+pruneau: Prune séchée, laxatif naturel.
+prunelle: Pupille de l'œil.
+prurigineux: Qui provoque des démangeaisons.
+prurigo: Affection cutanée avec démangeaisons et lésions de grattage.
+prurit: Démangeaison, sensation donnant envie de se gratter.
+PSA: Antigène prostatique spécifique, marqueur du cancer de la prostate.
+psalmodie: Chant religieux monotone.
+psalmodier: Réciter sur un ton monotone.
+psaume: Chant religieux biblique.
+pseudo-: Préfixe signifiant faux, apparent.
+pseudarthrose: Absence de consolidation d'une fracture.
+pseudoéphedrine: Médicament décongestionnant nasal.
+pseudomembrane: Fausse membrane formée par exsudat.
+pseudomonas: Genre bactérien causant infections nosocomiales.
+pseudonyme: Faux nom utilisé pour dissimuler l'identité.
+pseudopode: Prolongement temporaire de certaines cellules pour se déplacer.
+psi: Lettre grecque, unité de pression.
+psittacose: Maladie infectieuse transmise par les perroquets.
+psoas: Muscle profond de la hanche et du tronc.
+psoralène: Substance photosensibilisante utilisée en dermatologie.
+psoriasis: Maladie inflammatoire chronique de la peau avec plaques rouges.
+psychanalyse: Méthode thérapeutique des troubles psychiques par investigation de l'inconscient.
+psychanalyste: Praticien de la psychanalyse.
+psychasthénie: Trouble anxieux avec obsessions et fatigabilité mentale.
+psyché: Esprit, âme, ou grand miroir.
+psychédélique: Qui produit des hallucinations et modifications de conscience.
+psychiatre: Médecin spécialisé dans les maladies mentales.
+psychiatrie: Spécialité médicale des troubles mentaux et comportementaux.
+psychiatrique: Relatif à la psychiatrie ou aux maladies mentales.
+psychique: Relatif au psychisme, à l'esprit.
+psychisme: Ensemble des phénomènes et processus mentaux.
+psycho-: Préfixe relatif au psychisme.
+psychoactif: Qui agit sur le psychisme, modifiant l'état mental.
+psychoaffectif: Relatif aux émotions et à l'affectivité.
+psychoéducation: Enseignement sur la maladie mentale au patient et sa famille.
+psychogène: D'origine psychologique sans cause organique.
+psychogériatrie: Psychiatrie des personnes âgées.
+psychologie: Science étudiant les comportements et processus mentaux.
+psychologique: Relatif à la psychologie ou au psychisme.
+psychologue: Professionnel spécialisé en psychologie.
+psychométrie: Mesure des caractéristiques psychologiques.
+psychomoteur: Relatif aux relations entre psychisme et motricité.
+psychomotricien: Professionnel rééduquant les troubles psychomoteurs.
+psychomotricienne: Professionnelle rééduquant les troubles psychomoteurs.
+psychomotricité: Ensemble des fonctions motrices liées au psychisme.
+psychopathe: Personne atteinte de trouble de la personnalité antisociale.
+psychopathie: Trouble de la personnalité caractérisé par absence d'empathie.
+psychopathologie: Étude scientifique des troubles mentaux.
+psychopédagogue: Spécialiste des troubles d'apprentissage.
+psychopédagogie: Discipline entre psychologie et pédagogie.
+psychose: Trouble mental grave avec perte de contact avec la réalité.
+psychosocial: Relatif aux aspects psychologiques et sociaux.
+psychosomatique: Trouble physique d'origine psychologique.
+psychostimulant: Substance stimulant l'activité mentale.
+psychothérapeute: Praticien de la psychothérapie.
+psychothérapie: Traitement des troubles psychiques par méthodes psychologiques.
+psychotique: Relatif à la psychose ou personne atteinte de psychose.
+psychotrope: Substance agissant sur le psychisme.
+psyllium: Plante dont les graines sont laxatives.
+ptérygion: Excroissance conjonctivale envahissant la cornée.
+ptôse: Chute, descente anormale d'un organe.
+ptose: Chute de la paupière supérieure.
+ptôsis: Abaissement pathologique d'un organe.
+ptyalisme: Salivation excessive.
+pubalgie: Douleur de la région pubienne chez le sportif.
+puberté: Période de développement des caractères sexuels.
+pubère: Qui a atteint la puberté.
+pubertaire: Relatif à la puberté.
+pubescent: Qui entre dans la puberté.
+pubien: Relatif au pubis.
+pubis: Os de la partie antérieure du bassin.
+public: Qui concerne la collectivité ou établissement non privé.
+publication: Action de publier ou document publié.
+publicité: Promotion commerciale ou caractère public.
+publier: Rendre public, faire paraître.
+publique: Qui concerne l'ensemble des citoyens.
+puce: Insecte piqueur parasite transmettant des maladies.
+pudding: Dessert ou signe radiologique.
+pudeur: Sentiment de gêne devant l'intimité.
+pudibond: Qui affecte une pudeur excessive.
+pudique: Qui manifeste de la pudeur.
+puériculteur: Professionnel spécialisé dans les soins aux jeunes enfants.
+puéricultrice: Professionnelle spécialisée dans les soins aux jeunes enfants.
+puériculture: Ensemble des soins et techniques d'élevage des jeunes enfants.
+puéril: Enfantin, immature.
+puérilisme: Régression vers un comportement infantile.
+puerpéral: Relatif à la période suivant l'accouchement.
+puerpéralité: Période des suites de couches.
+puis: Ensuite, après cela.
+puisard: Puits d'absorption pour eaux usées.
+puisatier: Personne creusant des puits.
+puiser: Prélever un liquide ou tirer une ressource.
+puisque: Étant donné que, du fait que.
+puissamment: De façon puissante, intensément.
+puissance: Force, intensité d'action.
+puissant: Fort, qui a une grande efficacité.
+puits: Excavation profonde pour atteindre l'eau.
+pulluler: Se multiplier abondamment.
+pulmonaire: Relatif aux poumons.
+pulpe: Partie molle d'un organe, notamment dentaire ou digitale.
+pulpectomie: Ablation de la pulpe dentaire.
+pulpite: Inflammation de la pulpe dentaire.
+pulsatif: Qui bat de façon rythmée, pulsatile.
+pulsatile: Qui présente des pulsations rythmiques.
+pulsation: Battement rythmique, notamment cardiaque ou artériel.
+pulsion: Force psychique inconsciente poussant à l'action.
+pulvérisation: Action de réduire en fines particules ou spray.
+pulvérisateur: Dispositif projetant un liquide en fines gouttelettes.
+pulvériser: Réduire en poudre fine ou projeter en spray.
+pulvérulent: Qui a l'aspect d'une poudre fine.
+punaise: Insecte parasite hématophage.
+punch: Boisson ou capacité de frappe.
+punctiforme: En forme de point.
+punction: Ponction, prélèvement par aiguille.
+punir: Infliger une sanction.
+punitif: Qui a pour but de punir.
+punition: Sanction infligée pour une faute.
+pupillaire: Relatif à la pupille de l'œil.
+pupille: Orifice central de l'iris régulant l'entrée de lumière dans l'œil.
+pupitre: Support incliné pour lire ou écrire.
+pur: Sans mélange, non contaminé.
+purée: Aliment réduit en pâte lisse.
+purement: Exclusivement, uniquement.
+pureté: Qualité de ce qui est pur, absence de contamination.
+purgatif: Médicament provoquant l'évacuation intestinale.
+purgation: Évacuation intestinale provoquée.
+purgatoire: Lieu d'expiation selon la religion catholique.
+purge: Évacuation, notamment intestinale.
+purger: Évacuer, nettoyer ou subir une peine.
+purification: Action de rendre pur, décontamination.
+purifier: Rendre pur, éliminer les impuretés.
+purin: Liquide provenant du fumier.
+purine: Composé organique dont dérivent acide urique et bases nucléiques.
+purpura: Taches rouges ou violacées cutanées par hémorragie sous-cutanée.
+purpurique: Relatif au purpura.
+purulent: Qui contient du pus.
+pus: Liquide jaunâtre formé lors d'une infection, exsudat inflammatoire.
+pusillanime: Qui manque de courage, craintif.
+pusillanimité: Manque de courage.
+pustule: Lésion cutanée surélevée contenant du pus.
+pustuleux: Qui présente des pustules.
+putamen: Noyau gris du cerveau impliqué dans le mouvement.
+putatif: Supposé, présumé.
+putréfaction: Décomposition de matières organiques.
+putréfier: Se décomposer, pourrir.
+putrescible: Qui peut se putréfier.
+putride: En état de putréfaction, nauséabond.
+putridité: État de ce qui est putride.
+PVA: Prise en charge de victimes d'accident.
+PVC: Polychlorure de vinyle, matière plastique médicale.
+pyélite: Inflammation du bassinet du rein.
+pyélographie: Radiographie des voies urinaires avec produit de contraste.
+pyélonéphrite: Infection bactérienne du rein et du bassinet.
+pygmée: Personne de très petite taille.
+pyjama: Vêtement de nuit ou tenue hospitalière.
+pylore: Orifice de sortie de l'estomac vers le duodénum.
+pylorique: Relatif au pylore.
+pylorospasme: Contraction spasmodique du pylore.
+pyocyanique: Relatif au bacille pyocyanique, Pseudomonas aeruginosa.
+pyodermite: Infection cutanée suppurative.
+pyogène: Qui produit du pus.
+pyorrhée: Écoulement de pus, notamment gingival.
+pyosalpinx: Accumulation de pus dans une trompe de Fallope.
+pyramidal: En forme de pyramide, ou relatif au faisceau pyramidal nerveux.
+pyramide: Structure anatomique en forme de pyramide, notamment rénale.
+pyrazolé: Classe de médicaments anti-inflammatoires.
+pyrèthre: Insecticide naturel extrait d'une plante.
+pyrexie: Fièvre, élévation de la température corporelle.
+pyridine: Composé chimique utilisé en synthèse pharmaceutique.
+pyridoxine: Vitamine B6, essentielle au métabolisme.
+pyrimidine: Base azotée constituant les acides nucléiques.
+pyrogène: Substance provoquant la fièvre.
+pyrolyse: Décomposition chimique par la chaleur.
+pyromane: Personne atteinte de pyromanie.
+pyromanie: Impulsion pathologique à allumer des feux.
+pyrose: Sensation de brûlure remontant de l'estomac, pyrosis.
+pyrosis: Brûlure d'estomac remontant vers l'œsophage.
+pyrotechnie: Art des feux d'artifice.
+pyruvate: Sel de l'acide pyruvique, intermédiaire métabolique.
+pyurie: Présence de pus dans les urines.
+QCM: Questionnaire à choix multiples, outil d'évaluation.
+QI: Quotient intellectuel, mesure des capacités cognitives.
+quadrant: Quart d'un cercle ou d'une zone anatomique.
+quadriceps: Muscle à quatre chefs de la cuisse.
+quadri: Préfixe signifiant quatre.
+quadrilatère: Figure géométrique à quatre côtés.
+quadriplégie: Paralysie des quatre membres.
+quadriplégique: Personne atteinte de quadriplégie.
+quadrupède: Animal marchant sur quatre pattes.
+quadruple: Multiplié par quatre.
+quadruplet: Groupe de quatre enfants nés d'une même grossesse.
+quadrupler: Multiplier par quatre.
+qualifiable: Qui peut être qualifié.
+qualificatif: Qui qualifie, qui caractérise.
+qualification: Compétence reconnue dans un domaine.
+qualifié: Qui possède les compétences requises.
+qualifier: Caractériser, attribuer une qualité.
+qualitatif: Relatif à la qualité, non quantifiable.
+qualité: Caractéristique, propriété ou niveau d'excellence.
+qualité de vie: Perception subjective du bien-être physique et psychologique.
+quand: À quel moment, lorsque.
+quant: Pour ce qui concerne.
+quantifiable: Qui peut être mesuré en quantité.
+quantificateur: Élément permettant de quantifier.
+quantification: Action de mesurer en quantité.
+quantifier: Mesurer, évaluer en quantité.
+quantitatif: Relatif à la quantité, mesurable.
+quantité: Nombre, mesure d'une grandeur.
+quantum: Quantité élémentaire indivisible.
+quarantaine: Isolement de 40 jours ou environ, mesure sanitaire.
+quarante: Nombre 40.
+quart: Quatrième partie d'un tout.
+quartier: Partie d'une ville ou portion.
+quartz: Minéral cristallin utilisé en technologie médicale.
+quasi: Presque, pour ainsi dire.
+quasiment: Presque, pratiquement.
+quaternaire: De quatrième ordre, ou période géologique.
+quatorzaine: Isolement de quatorze jours.
+quatorze: Nombre 14.
+quatre: Nombre 4.
+quatrième: Qui occupe le rang numéro quatre.
+que: Pronom relatif ou conjonction.
+quel: Pronom ou adjectif interrogatif.
+quelconque: N'importe lequel, ordinaire.
+quelque: Un certain, environ.
+quelquefois: Parfois, de temps en temps.
+quelques: Un petit nombre indéterminé.
+quelqu'un: Une personne indéterminée.
+quémander: Solliciter avec insistance.
+querelle: Dispute, désaccord.
+quereller: Disputer, réprimander.
+querelleur: Qui aime les disputes.
+quérir: Chercher, aller chercher.
+question: Demande d'information ou problème.
+questionnaire: Série de questions pour recueillir des informations.
+questionner: Poser des questions, interroger.
+quête: Recherche, collecte.
+quêter: Rechercher, mendier.
+quetsche: Variété de prune.
+queue: Appendice terminal ou file d'attente.
+qui: Pronom relatif ou interrogatif.
+quiconque: N'importe qui, toute personne.
+quiescence: État de repos, d'inactivité.
+quiescent: Au repos, inactif.
+quiet: Tranquille, calme.
+quiétude: Tranquillité, calme.
+quinine: Alcaloïde antipaludéen extrait du quinquina.
+quinoléine: Composé chimique utilisé en pharmacologie.
+quinolone: Famille d'antibiotiques.
+quinquagénaire: Personne âgée de 50 à 59 ans.
+quinquennal: Qui dure cinq ans ou revient tous les cinq ans.
+quinquina: Arbre dont l'écorce contient la quinine.
+quintessence: Essence la plus pure, élément essentiel.
+quintuple: Multiplié par cinq.
+quintuplés: Cinq enfants nés d'une même grossesse.
+quintupler: Multiplier par cinq.
+quinzaine: Période d'environ quinze jours.
+quinze: Nombre 15.
+quinzième: Qui occupe le rang numéro quinze.
+quiproquo: Méprise, malentendu.
+quittance: Reçu attestant un paiement.
+quitte: Libéré d'une dette ou obligation.
+quitter: Partir, laisser.
+quitus: Décharge définitive d'une obligation.
+quoi: Pronom interrogatif ou relatif.
+quoique: Bien que, malgré que.
+quorum: Nombre minimum de membres présents pour délibérer.
+quota: Contingent, part attribuée.
+quote-part: Part qui revient à chacun.
+quotidien: De chaque jour, journalier.
+quotidiennement: Chaque jour, tous les jours.
+quotient: Résultat d'une division.
+quotient intellectuel: Mesure standardisée de l'intelligence.
+quotité: Part, portion déterminée.
+rabâchage: Répétition lassante.
+rabâcher: Répéter de façon lassante.
+rabais: Réduction de prix.
+rabaisser: Diminuer, déprécier.
+rabat: Partie repliée d'un vêtement.
+rabattement: Action de rabattre.
+rabattre: Replier, réduire.
+rabbin: Chef religieux juif.
+râble: Région lombaire de certains animaux.
+râblé: Court et trapu, musclé.
+rabot: Outil de menuiserie.
+raboter: Aplanir avec un rabot.
+raboteux: Rugueux, inégal.
+rabougri: Chétif, mal développé.
+rabrouer: Repousser rudement.
+racaille: Populace, gens méprisables.
+raccommodage: Réparation, rapiéçage.
+raccommodement: Réconciliation.
+raccommoder: Réparer, réconcilier.
+raccompagner: Accompagner quelqu'un qui s'en va.
+raccord: Jonction entre deux éléments.
+raccordement: Action de raccorder, liaison.
+raccorder: Relier, joindre.
+raccourci: Chemin plus court, abréviation.
+raccourcir: Rendre plus court.
+raccourcissement: Action de devenir plus court.
+raccroc: Par hasard, fortuitement.
+raccrocher: Rattacher, ou remettre en place.
+race: Groupe d'individus présentant des caractères communs.
+racémique: Se dit d'un mélange de deux énantiomères.
+racer: Voiture de course.
+rachat: Action de racheter.
+racheter: Acheter de nouveau ou compenser.
+rachialgie: Douleur de la colonne vertébrale.
+rachianesthésie: Anesthésie par injection dans le canal rachidien.
+rachidien: Relatif à la colonne vertébrale.
+rachis: Colonne vertébrale.
+rachitique: Atteint de rachitisme ou chétif.
+rachitisme: Maladie osseuse par carence en vitamine D chez l'enfant.
+racial: Relatif à la race.
+racine: Partie d'un organe implantée, notamment dentaire ou nerveuse.
+racisme: Discrimination fondée sur la race ou l'origine.
+raciste: Qui manifeste du racisme.
+racket: Extorsion par intimidation.
+racketter: Pratiquer le racket.
+raclage: Action de racler.
+râclement: Bruit rauque en raclant, notamment gorge.
+racler: Gratter, frotter pour nettoyer.
+raclette: Instrument pour racler ou plat fromager.
+racloir: Outil pour racler.
+raclure: Résidu obtenu en raclant.
+racolage: Action d'attirer par racolage.
+racoler: Attirer de manière insistante.
+racoleur: Qui racole, aguicheur.
+racontable: Qui peut être raconté.
+racontar: Commérage, rumeur.
+raconter: Narrer, relater un événement.
+raconteur: Personne qui raconte.
+racornir: Durcir, dessécher.
+racornissement: État de ce qui est racorni.
+radar: Système de détection par ondes radio.
+rade: Port naturel ou situation difficile.
+radeau: Embarcation plate rudimentaire.
+radial: Relatif au radius, ou disposé en rayons.
+radian: Unité de mesure d'angle.
+radiance: Éclat lumineux.
+radiant: Qui rayonne, brillant.
+radiateur: Appareil de chauffage ou de refroidissement.
+radiation: Émission de rayonnement ou radiation d'une liste.
+radical: Fondamental, extrême, ou groupe chimique.
+radicalaire: Relatif aux radicaux libres chimiques.
+radicalisation: Adoption de positions extrêmes.
+radicaliser: Rendre radical, extrême.
+radicalité: Caractère radical.
+radicalement: De façon radicale, totalement.
+radicelle: Petite racine secondaire.
+radiculaire: Relatif aux racines nerveuses.
+radiculalgie: Douleur d'une racine nerveuse.
+radiculite: Inflammation d'une racine nerveuse.
+radiculopathie: Atteinte d'une racine nerveuse.
+radier: Rayer d'une liste, supprimer.
+radiesthésie: Pratique prétendant détecter des ondes avec une baguette.
+radiesthésiste: Praticien de la radiesthésie.
+radieux: Rayonnant de joie, lumineux.
+radin: Avare, pingre.
+radinerie: Avarice excessive.
+radio: Radiographie, radiologie, ou poste récepteur.
+radioactif: Qui émet des rayonnements ionisants.
+radioactivité: Propriété de certains atomes d'émettre des rayonnements.
+radiobiologie: Étude des effets des radiations sur les êtres vivants.
+radiocarbone: Isotope radioactif du carbone pour datation.
+radiocarpien: Relatif à l'articulation du poignet.
+radiodermite: Lésion cutanée causée par les rayonnements.
+radiodiagnostic: Diagnostic par imagerie radiologique.
+radiodiffuser: Diffuser par ondes radio.
+radiodiffusion: Transmission par ondes radio.
+radioélément: Élément chimique radioactif.
+radiofréquence: Onde électromagnétique utilisée en médecine.
+radiogoniomètre: Appareil de repérage par ondes radio.
+radiogramme: Image obtenue par radiographie.
+radiographie: Technique d'imagerie par rayons X.
+radiographier: Réaliser une radiographie.
+radiographique: Relatif à la radiographie.
+radioguidage: Guidage par ondes radio.
+radioguider: Guider à distance par radio.
+radio-immunologie: Technique utilisant isotopes radioactifs et immunologie.
+radio-isotope: Isotope radioactif utilisé en médecine.
+radiolésion: Lésion causée par les radiations.
+radiologie: Spécialité médicale utilisant les rayonnements pour diagnostic et traitement.
+radiologique: Relatif à la radiologie.
+radiologue: Médecin spécialisé en radiologie.
+radiolyse: Décomposition chimique par rayonnement.
+radiomètre: Appareil mesurant les radiations.
+radionécrose: Nécrose tissulaire causée par rayonnement.
+radiopaque: Qui arrête les rayons X, visible en radiographie.
+radiophare: Émetteur radio servant de repère.
+radiophonie: Transmission du son par ondes radio.
+radiophonique: Relatif à la radiophonie.
+radioprotection: Ensemble des mesures protégeant des rayonnements ionisants.
+radioreportage: Reportage diffusé à la radio.
+radioreporter: Journaliste de radio.
+radiorésistant: Résistant aux radiations.
+radioscope: Appareil de radioscopie.
+radioscopie: Examen radiologique en temps réel.
+radioscopique: Relatif à la radioscopie.
+radiosensibilité: Sensibilité aux rayonnements ionisants.
+radiosensible: Sensible aux radiations.
+radiosonde: Ballon météorologique équipé d'émetteur.
+radiotélégraphie: Télégraphie sans fil par ondes radio.
+radiotéléphone: Téléphone sans fil par ondes radio.
+radiotéléphonie: Téléphonie par ondes radio.
+radiotélescope: Télescope captant les ondes radio cosmiques.
+radiotélévision: Organisme gérant radio et télévision.
+radiothérapeute: Médecin spécialisé en radiothérapie.
+radiothérapie: Traitement du cancer par rayonnements ionisants.
+radiotoxique: Toxique par radioactivité.
+radis: Plante potagère à racine comestible.
+radius: Os latéral de l'avant-bras.
+radium: Élément chimique radioactif.
+radotage: Propos répétitifs et incohérents.
+radoter: Tenir des propos incohérents et répétitifs.
+radoteur: Personne qui radote.
+radoub: Réparation d'un navire.
+radouber: Réparer un navire.
+radoucir: Rendre plus doux, atténuer.
+radoucissement: Action de radoucir, amélioration.
+rafale: Coup de vent violent et bref.
+raffermir: Rendre plus ferme.
+raffermissement: Action de raffermir.
+raffinage: Purification d'une substance.
+raffiné: Purifié, ou d'une grande délicatesse.
+raffinement: Grande délicatesse, perfectionnement.
+raffiner: Purifier, perfectionner.
+raffinerie: Usine de raffinage.
+raffineur: Qui raffine.
+raffoler: Aimer passionnément.
+raffut: Tapage, vacarme.
+rafiot: Vieux bateau en mauvais état.
+rafistolage: Réparation sommaire.
+rafistoler: Réparer sommairement.
+rafle: Arrestation massive ou partie centrale d'une grappe.
+rafler: Emporter rapidement tout ce qu'on peut.
+rafraîchir: Rendre frais, ou remettre à neuf.
+rafraîchissant: Qui rafraîchit, désaltérant.
+rafraîchissement: Action de rafraîchir, boisson fraîche.
+ragaillardir: Redonner de la vigueur, revigorer.
+rage: Maladie virale mortelle transmise par morsure, ou colère violente.
+rager: Éprouver une rage impuissante.
+rageur: Qui manifeste de la rage, irrité.
+rageusement: Avec rage, furieusement.
+raglan: Type de manche de vêtement.
+ragondin: Rongeur aquatique.
+ragot: Commérage malveillant.
+ragoût: Plat mijoté en sauce.
+ragoûtant: Appétissant, attirant.
+rai: Rayon de lumière ou de roue.
+raide: Rigide, tendu, sans souplesse.
+raideur: Manque de souplesse, rigidité.
+raideur: Manque de souplesse, rigidité musculaire ou articulaire.
+raideur articulaire: Limitation des mouvements d'une articulation.
+raideur musculaire: Tension excessive et permanente d'un muscle.
+raideur de la nuque: Tension douloureuse des muscles cervicaux, signe de méningite.
+rainure: Sillon anatomique dans un os ou un organe.
+raison: Faculté mentale de jugement et de logique.
+raisonnement: Processus cognitif de pensée logique.
+râle: Bruit respiratoire anormal perçu à l'auscultation pulmonaire.
+râle crépitant: Bruit fin évoquant un crépitement, signe d'œdème pulmonaire.
+râle sibilant: Sifflement respiratoire aigu lors de l'expiration.
+râle ronflant: Bruit grave lors de la respiration, encombrement bronchique.
+ralentissement: Diminution de la vitesse ou du rythme, notamment psychomoteur.
+ralentissement psychomoteur: Diminution de l'activité mentale et motrice.
+ramollissement: Diminution de la consistance d'un tissu.
+ramollissement cérébral: Nécrose du tissu cérébral, infarctus cérébral.
+rampe: Barre de soutien pour faciliter la marche et les déplacements.
+ramus: Branche d'un nerf, d'une artère ou d'un os.
+rancidité: Altération des graisses devenant rances.
+randomisation: Attribution aléatoire des patients dans un essai clinique.
+randomisé: Réparti de façon aléatoire dans une étude.
+rang: Position dans une classification ou hiérarchie.
+ranidine: Ancien nom de la ranitidine, médicament antiulcéreux.
+ranitidine: Médicament réduisant la sécrétion acide gastrique.
+ranula: Kyste salivaire sous la langue, grenouillette.
+ranvier: Relatif aux nœuds de Ranvier sur les fibres nerveuses myélinisées.
+raphe: Ligne de jonction médiane entre deux moitiés symétriques d'un organe.
+raphe médian: Ligne de fusion embryonnaire au milieu d'une structure.
+rapide: Qui se produit en peu de temps, évolution accélérée.
+rapidité: Vitesse d'apparition ou d'évolution d'un phénomène.
+rappel: Injection de rappel pour renforcer l'immunité vaccinale.
+rappel vaccinal: Administration répétée d'un vaccin pour maintenir l'immunité.
+rapport: Compte-rendu médical ou relation entre données.
+rapport médical: Document décrivant l'état de santé et les soins prodigués.
+rapport sexuel: Activité sexuelle entre partenaires.
+rapprochement: Mise en relation de symptômes ou de données cliniques.
+rapprocher: Établir un lien entre plusieurs éléments diagnostiques.
+rapt: Enlèvement, notamment dans le contexte médico-légal.
+rare: Peu fréquent, notamment maladie rare.
+raréfaction: Diminution de la densité d'un tissu, notamment osseuse.
+raréfaction osseuse: Diminution de la densité minérale osseuse, ostéopénie.
+rarement: Avec une faible fréquence.
+rareté: Caractère peu fréquent d'une maladie ou condition.
+RAS: Rien à signaler, mention dans un examen normal.
+rash: Éruption cutanée soudaine et diffuse.
+rash cutané: Apparition rapide de lésions sur la peau.
+rasoir: Instrument pour couper les poils à ras de la peau.
+rassasiant: Qui satisfait rapidement l'appétit.
+rassasiement: Satisfaction de la faim.
+rassasier: Satisfaire complètement la faim.
+rassurant: Qui apaise l'anxiété, signe clinique favorable.
+rassurer: Apaiser l'inquiétude d'un patient.
+rat: Rongeur pouvant transmettre des maladies à l'homme.
+rate: Organe lymphoïde abdominal filtrant le sang et stockant les globules rouges.
+ratelier: Prothèse dentaire complète amovible, dentier.
+rater: Manquer, échouer, notamment un diagnostic.
+ratio: Rapport entre deux grandeurs.
+ration: Quantité d'aliment pour un repas ou une journée.
+ration alimentaire: Quantité de nourriture nécessaire quotidiennement.
+rationnel: Conforme à la raison et à la logique médicale.
+rationnellement: De façon logique et raisonnée.
+rationnement: Limitation des quantités, notamment alimentaires.
+rationner: Limiter les apports, restreindre.
+rattrapage: Compensation d'un retard de croissance ou développement.
+rattrapage statural: Récupération de la croissance après maladie.
+rattraper: Compenser un retard, récupérer.
+rauque: Voix enrouée, éraillée, dysphonique.
+raucité: Enrouement, altération du timbre de la voix.
+ravage: Dégât important causé par une maladie.
+ravagé: Très marqué par la maladie ou le vieillissement.
+ravager: Détruire progressivement, dégrader gravement.
+ravalement: Dégradation de l'état général.
+ravin: Dépression allongée, ou terme anatomique ancien.
+ravitaillement: Approvisionnement en nourriture et nutriments.
+ravitailler: Fournir en nourriture et liquides.
+ravi: Très satisfait, notamment de résultats thérapeutiques.
+ravissement: État d'enchantement extrême.
+réabsorber: Absorber de nouveau dans l'organisme.
+réabsorption: Absorption d'une substance déjà sécrétée ou filtrée.
+réabsorption tubulaire: Récupération de substances dans les tubules rénaux.
+réaccoutumance: Nouvelle accoutumance à une substance.
+réaction: Réponse de l'organisme à un stimulus.
+réaction adverse: Effet indésirable à un médicament ou traitement.
+réaction allergique: Réponse immunitaire excessive à un allergène.
+réaction anaphylactique: Réaction allergique grave et généralisée.
+réaction croisée: Réaction immunologique entre antigènes similaires.
+réaction cutanée: Manifestation visible sur la peau.
+réaction fébrile: Élévation de température en réponse à une agression.
+réaction immunitaire: Réponse du système immunitaire.
+réaction inflammatoire: Réponse locale à une agression tissulaire.
+réaction transfusionnelle: Réaction lors d'une transfusion sanguine.
+réactiver: Rendre de nouveau actif, notamment virus latent.
+réactivation: Reprise d'activité d'un agent pathogène latent.
+réactivité: Capacité à réagir à un stimulus.
+réactogène: Qui provoque une réaction, notamment vaccin.
+réadaptation: Processus de récupération des capacités fonctionnelles.
+réadaptation cardiaque: Rééducation après maladie cardiaque.
+réadaptation fonctionnelle: Récupération des fonctions perdues.
+réadapter: Adapter de nouveau, rééduquer.
+réadmission: Nouvelle hospitalisation pour même pathologie.
+réaffectation: Attribution à un nouveau service ou traitement.
+réagir: Répondre à un stimulus ou traitement.
+réajustement: Modification d'un traitement ou dosage.
+réajuster: Modifier pour optimiser, adapter.
+réalignement: Remise en position correcte, notamment os.
+réaligner: Remettre dans l'axe correct.
+réalimentation: Reprise progressive de l'alimentation.
+réalimenter: Recommencer à alimenter.
+réalisable: Qui peut être effectué, faisable.
+réalisation: Accomplissement, exécution d'un acte médical.
+réaliser: Effectuer, accomplir un acte ou examen.
+réalisme: Perception objective de la réalité.
+réaliste: Conforme à la réalité, objectif.
+réalité: Ce qui existe effectivement.
+réaménagement: Modification d'un traitement ou protocole.
+réaménager: Modifier l'organisation d'un traitement.
+réanimateur: Médecin spécialisé en réanimation.
+réanimation: Spécialité médicale des défaillances vitales graves.
+réanimation cardiopulmonaire: Manœuvres pour restaurer circulation et respiration.
+réanimation néonatale: Soins intensifs aux nouveau-nés en détresse.
+réanimer: Restaurer les fonctions vitales.
+réapparition: Survenue à nouveau de symptômes.
+réapparaître: Se manifester de nouveau.
+réapprendre: Apprendre de nouveau après oubli ou perte.
+réapprentissage: Processus d'apprentissage après perte de fonction.
+réapprovisionner: Fournir de nouveau en médicaments ou matériel.
+réarmement: Restauration de la capacité de réponse.
+réarrangement: Modification de structure, notamment génétique.
+réassurance: Action de rassurer de nouveau.
+réassurer: Rassurer à nouveau un patient anxieux.
+rebond: Réapparition de symptômes après amélioration.
+rebond viral: Réapparition de la charge virale.
+rebondir: Réapparaître après amélioration.
+rebord: Bord saillant d'une structure anatomique.
+rebord costal: Bord inférieur de la cage thoracique.
+rebord orbitaire: Bord de l'orbite osseuse de l'œil.
+rébarbatif: Rebutant, désagréable.
+rebelle: Qui résiste au traitement, réfractaire.
+rébellion: Résistance à l'autorité ou au traitement.
+rebondi: Arrondi, charnu.
+rebours: À l'inverse, dans le sens contraire.
+rebrousser: Aller en sens inverse.
+rebroussement: Mouvement en sens inverse.
+rebut: Déchet, élément éliminé.
+rebuter: Décourager, repousser.
+recacheter: Fermer de nouveau hermétiquement.
+récalcitrant: Résistant, qui refuse le traitement.
+récapitulatif: Résumé, synthèse.
+récapitulation: Résumé des éléments essentiels.
+récapituler: Résumer les points principaux.
+recel: Détention illégale de biens volés.
+receler: Détenir illégalement.
+receleur: Qui recèle des biens illégaux.
+récemment: Depuis peu de temps.
+recensement: Dénombrement systématique d'une population.
+recenser: Dénombrer, inventorier.
+récent: Qui s'est produit il y a peu de temps.
+réceptacle: Cavité recevant quelque chose.
+récepteur: Structure cellulaire fixant une molécule spécifique.
+récepteur hormonal: Site de liaison d'une hormone sur une cellule.
+récepteur membranaire: Protéine de membrane captant des signaux.
+récepteur sensoriel: Structure captant les stimuli sensoriels.
+réceptif: Capable de recevoir, sensible.
+réception: Action de recevoir, accueil.
+réceptionniste: Personne accueillant les patients.
+réceptivité: Capacité à recevoir et réagir.
+recès: Enfoncement, cavité anatomique.
+recette: Formule, ordonnance de préparation.
+recevabilité: Caractère de ce qui peut être accepté.
+recevable: Qui peut être accepté, admissible.
+receveur: Personne qui reçoit, notamment organe ou sang.
+receveur universel: Personne du groupe sanguin AB pouvant recevoir tout sang.
+recevoir: Accueillir, obtenir ou subir.
+rechange: Remplacement, substitution.
+réchapper: Survivre, échapper à un danger mortel.
+recharge: Renouvellement d'un traitement ou dispositif.
+rechargeable: Qui peut être rechargé.
+recharger: Renouveler un traitement ou approvisionnement.
+réchaud: Appareil de chauffage portable.
+réchauffement: Élévation de la température.
+réchauffer: Augmenter la température.
+rêche: Rugueux au toucher.
+recherche: Investigation scientifique ou diagnostic.
+recherche clinique: Étude sur des patients pour tester traitements.
+recherche de sang: Test détectant du sang occulte.
+recherche fondamentale: Recherche des mécanismes biologiques de base.
+recherche médicale: Investigation scientifique en médecine.
+rechercher: Chercher à découvrir ou identifier.
+rechigner: Montrer de la répugnance, résister.
+rechute: Réapparition d'une maladie après amélioration ou guérison.
+rechuter: Avoir une rechute, retomber malade.
+récidive: Réapparition d'une maladie après guérison apparente.
+récidivant: Qui récidive, se reproduit.
+récidiver: Se reproduire après traitement.
+récidiviste: Qui commet de nouvelles infractions, ou maladie qui récidive.
+récif: Formation rocheuse sous-marine.
+récipendaire: Personne qui reçoit un titre ou distinction.
+récipient: Contenant pour liquide ou substance.
+réciprocité: Caractère réciproque d'une relation.
+réciproque: Mutuel, qui s'exerce dans les deux sens.
+réciproquement: De façon réciproque, mutuellement.
+récit: Narration d'événements, notamment anamnèse.
+récital: Représentation musicale.
+récitatif: Chant déclamé.
+récitation: Action de réciter de mémoire.
+réciter: Dire de mémoire.
+réclamation: Demande insistante, protestation.
+réclamer: Demander avec insistance.
+reclassement: Attribution d'une nouvelle classification.
+reclasser: Classer de nouveau différemment.
+réclusion: Enfermement, isolement.
+recoin: Endroit retiré, angle caché.
+récolte: Action de recueillir, notamment prélèvements.
+récolter: Recueillir, collecter.
+recommandable: Digne d'être recommandé.
+recommandation: Conseil, préconisation thérapeutique.
+recommandé: Conseillé, préconisé.
+recommander: Conseiller vivement, préconiser.
+recommencement: Action de recommencer.
+recommencer: Commencer de nouveau.
+récompense: Gratification pour mérite.
+récompenser: Gratifier pour un mérite.
+recomposer: Composer de nouveau.
+recomposition: Action de recomposer.
+réconciliation: Rétablissement de bonnes relations.
+réconcilier: Rétablir l'harmonie entre personnes.
+reconditionner: Conditionner de nouveau.
+reconduction: Prolongation, renouvellement.
+reconduire: Prolonger, renouveler.
+réconfort: Soutien moral, consolation.
+réconfortant: Qui apporte du réconfort.
+réconforter: Apporter du réconfort, consoler.
+reconnaissance: Identification, ou gratitude.
+reconnaissable: Qui peut être identifié.
+reconnaissant: Qui éprouve de la gratitude.
+reconnaître: Identifier, ou admettre.
+reconnu: Identifié, admis officiellement.
+reconquérir: Conquérir de nouveau.
+reconquête: Action de reconquérir.
+reconsidération: Nouvel examen d'une question.
+reconsidérer: Examiner de nouveau.
+reconstituer: Reformer, rétablir dans son état initial.
+reconstituant: Substance redonnant des forces, tonique.
+reconstitution: Action de reconstituer, rétablissement.
+reconstruction: Réparation chirurgicale reconstructrice.
+reconstruction mammaire: Chirurgie refaisant un sein après ablation.
+reconstruire: Rebâtir, réparer chirurgicalement.
+reconversion: Changement d'orientation professionnelle.
+reconvertir: Changer d'orientation.
+recopier: Copier de nouveau.
+record: Performance exceptionnelle.
+recoudre: Suturer, coudre de nouveau.
+recoupement: Vérification par confrontation d'informations.
+recouper: Vérifier par confrontation.
+recourber: Courber, ployer.
+recourbé: Qui présente une courbure.
+recourbement: Action de recourber, courbure.
+recourir: Avoir recours, faire appel.
+recours: Action de recourir, appel à une aide.
+recouvrement: Action de recouvrer, récupération.
+recouvrer: Récupérer, retrouver.
+recouvrir: Couvrir entièrement.
+recracher: Cracher ce qu'on a en bouche.
+récréatif: Qui procure un délassement.
+récréation: Moment de détente et repos.
+récréer: Créer de nouveau, ou divertir.
+récrier: Protester vivement.
+récrimination: Plainte amère, reproche.
+récriminer: Se plaindre amèrement.
+recroquevillé: Replié sur soi-même, ratatiné.
+recroqueviller: Replier sur soi, rétracter.
+recroquevillement: État de ce qui est recroquevillé.
+recru: Très fatigué, épuisé.
+recrudescence: Réapparition avec intensité accrue.
+recrudescent: Qui connaît une recrudescence.
+recrue: Nouvelle personne engagée.
+recrutement: Action de recruter du personnel.
+recruter: Engager du personnel.
+rectal: Relatif au rectum.
+rectangle: Figure géométrique à quatre angles droits.
+rectangulaire: En forme de rectangle.
+recteur: Dirigeant d'une académie universitaire.
+rectifiable: Qui peut être corrigé.
+rectificatif: Qui corrige une erreur.
+rectification: Correction d'une erreur.
+rectifier: Corriger, rendre exact.
+rectiligne: En ligne droite.
+rectite: Inflammation de la muqueuse rectale.
+rectitude: Caractère de ce qui est droit.
+recto: Première face d'une feuille.
+rectocèle: Hernie du rectum dans le vagin.
+rectocolite: Inflammation du rectum et du côlon.
+rectopexie: Fixation chirurgicale du rectum.
+rectoscope: Instrument d'examen du rectum.
+rectoscopie: Examen endoscopique du rectum.
+rectosigmoïdoscopie: Examen du rectum et sigmoïde.
+rectovaginal: Entre le rectum et le vagin.
+rectum: Dernière portion du gros intestin avant l'anus.
+reçu: Document attestant réception d'un paiement.
+recueil: Collection, rassemblement de documents.
+recueillement: État de concentration méditative.
+recueillir: Collecter, rassembler des informations ou prélèvements.
+recuire: Cuire de nouveau.
+recuit: Cuit de nouveau, ou fatigué.
+recul: Mouvement vers l'arrière, ou perspective temporelle.
+reculade: Mouvement de recul, abandon.
+reculé: Éloigné dans le temps ou l'espace.
+reculer: Se déplacer vers l'arrière, ou reporter.
+reculons: En arrière, à rebours.
+récupérable: Qui peut être récupéré.
+récupérateur: Qui récupère.
+récupération: Rétablissement après effort ou maladie.
+récupération fonctionnelle: Restauration des capacités après lésion.
+récupération post-opératoire: Période de rétablissement après chirurgie.
+récupérer: Retrouver ses forces, recouvrer.
+récurage: Action de récurer, nettoyage énergique.
+récurer: Nettoyer énergiquement par frottement.
+récurrence: Réapparition répétée d'un phénomène.
+récurrent: Qui réapparaît régulièrement, répétitif.
+récursif: Qui procède par répétition.
+récusable: Qui peut être récusé.
+récusation: Refus d'accepter un juge ou expert.
+récuser: Refuser, rejeter.
+recyclable: Qui peut être recyclé.
+recyclage: Formation continue ou traitement des déchets.
+recycler: Traiter pour réutiliser, ou se former continuellement.
+rédacteur: Personne qui rédige des documents.
+rédaction: Action de rédiger, texte rédigé.
+rédactionnel: Relatif à la rédaction.
+reddition: Action de se rendre, capitulation.
+rédempteur: Qui rachète, qui sauve.
+rédemption: Rachat, salut.
+redescendre: Descendre de nouveau.
+redevable: Qui doit quelque chose.
+redevance: Somme due périodiquement.
+redevenir: Devenir de nouveau.
+redevoir: Devoir encore.
+rédhibitoire: Qui constitue un empêchement absolu.
+rediffuser: Diffuser de nouveau.
+rediffusion: Nouvelle diffusion.
+rédiger: Écrire, composer un texte.
+rédimer: Racheter une faute.
+redingote: Vêtement long ajusté.
+redire: Dire de nouveau, ou critiquer.
+rediscuter: Discuter de nouveau.
+redistribuer: Distribuer de nouveau différemment.
+redistribution: Nouvelle distribution.
+redite: Répétition inutile.
+redondance: Répétition superflue.
+redondant: Superflu, répétitif.
+redonner: Donner de nouveau, rendre.
+redorer: Dorer de nouveau.
+redoublant: Élève qui refait une année.
+redoublement: Action de redoubler, répétition.
+redoubler: Augmenter fortement, ou refaire une année.
+redoutable: À craindre, dangereux.
+redouter: Craindre vivement.
+redoux: Radoucissement de la température.
+redressement: Action de redresser, remise droite.
+redresser: Remettre droit, corriger.
+redresseur: Qui redresse.
+réductase: Enzyme catalysant une réduction chimique.
+réducteur: Qui réduit, diminue.
+réductible: Qui peut être réduit.
+réduction: Diminution, ou remise en place d'une fracture.
+réduction de fracture: Remise en position correcte des fragments osseux.
+réduction mammaire: Chirurgie diminuant le volume des seins.
+réduire: Diminuer, ramener à un état moindre.
+réduit: Diminué, ou petite pièce.
+réécrire: Écrire de nouveau.
+réécriture: Action de réécrire.
+rééducation: Traitement visant à restaurer les capacités fonctionnelles.
+rééducation fonctionnelle: Récupération des fonctions motrices perdues.
+rééducation périnéale: Renforcement des muscles du périnée.
+rééducation respiratoire: Exercices améliorant la fonction respiratoire.
+rééduquer: Effectuer une rééducation, réapprendre.
+réel: Qui existe effectivement, concret.
+réélection: Nouvelle élection.
+réélire: Élire de nouveau.
+réellement: De façon réelle, effectivement.
+réembaucher: Embaucher de nouveau.
+réémetteur: Dispositif réémettant un signal.
+réémettre: Émettre de nouveau.
+réemploi: Nouvelle utilisation.
+réemployer: Employer de nouveau.
+réengagement: Nouvel engagement.
+réengager: Engager de nouveau.
+réensemencement: Nouvelle introduction de bactéries.
+réensemencer: Introduire de nouveau des germes.
+rééquilibrage: Action de rétablir l'équilibre.
+rééquilibrer: Rétablir l'équilibre.
+réescompte: Escompte d'un effet déjà escompté.
+réescompter: Escompter de nouveau.
+réessayer: Essayer de nouveau.
+réévaluation: Nouvelle évaluation.
+réévaluer: Évaluer de nouveau.
+réexamen: Nouvel examen médical ou académique.
+réexaminer: Examiner de nouveau.
+réexpédier: Expédier de nouveau.
+réexpédition: Nouvelle expédition.
+réexporter: Exporter ce qui a été importé.
+réexportation: Action de réexporter.
+refaire: Faire de nouveau.
+réfection: Réparation, remise en état.
+réfectoire: Salle à manger collective.
+référé: Procédure judiciaire d'urgence.
+référence: Point de comparaison, ou recommandation.
+référencement: Action de référencer, catalogage.
+référencer: Inscrire dans une liste de référence.
+référenciel: Système de référence.
+référendum: Consultation populaire par vote.
+référent: Personne ou point de référence.
+référentiel: Ensemble de références.
+référer: Faire référence, en rapporter.
+refermer: Fermer de nouveau.
+refiler: Transmettre, notamment maladie.
+réfléchi: Pensé mûrement, ou renvoyé par réflexion.
+réfléchir: Penser, méditer ou renvoyer la lumière.
+réfléchissant: Qui réfléchit la lumière.
+reflet: Image réfléchie, ou manifestation indirecte.
+refléter: Renvoyer une image, ou manifester.
+refleurir: Fleurir de nouveau.
+reflex: Appareil photo à visée reflex.
+réflexe: Réaction automatique involontaire à un stimulus.
+réflexe achilléen: Contraction du mollet par percussion du tendon d'Achille.
+réflexe nauséeux: Contraction pharyngée provoquant nausée ou vomissement.
+réflexe ostéotendineux: Contraction musculaire par percussion du tendon.
+réflexe photomoteur: Contraction pupillaire à la lumière.
+réflexe rotulien: Contraction du quadriceps par percussion rotulienne.
+réflexion: Pensée approfondie, ou renvoi de la lumière.
+réflexité: Caractère réflexe d'une réaction.
+réflexivité: Capacité à se prendre soi-même comme objet de réflexion.
+réflexogène: Qui déclenche un réflexe.
+réflexologie: Thérapie par stimulation de zones réflexes.
+réflexothérapie: Traitement par stimulation de points réflexes.
+refluer: Couler en sens inverse.
+reflux: Retour en arrière d'un liquide.
+reflux gastro-œsophagien: Remontée du contenu gastrique dans l'œsophage.
+reflux vésico-urétéral: Remontée d'urine de la vessie vers les reins.
+refondre: Fondre de nouveau, ou restructurer.
+refonte: Restructuration profonde.
+réformateur: Qui réforme, qui transforme.
+réforme: Transformation, amélioration.
+réformé: Exclu du service militaire pour raison médicale.
+réformer: Transformer, améliorer.
+refoulement: Mécanisme de défense psychologique repoussant dans l'inconscient.
+refouler: Repousser, ou refuser l'accès.
+réfractaire: Résistant au traitement habituel.
+réfracter: Dévier la trajectoire d'un rayon lumineux.
+réfractif: Relatif à la réfraction.
+réfraction: Déviation d'un rayon lumineux traversant un milieu.
+réfractomètre: Appareil mesurant l'indice de réfraction.
+réfractométrie: Mesure de l'indice de réfraction.
+refrain: Partie répétée d'une chanson.
+refréner: Contenir, maîtriser.
+réfrigérant: Qui refroidit.
+réfrigérateur: Appareil de conservation par le froid.
+réfrigération: Refroidissement, conservation par le froid.
+réfrigérer: Refroidir, conserver au froid.
+refroidir: Diminuer la température.
+refroidissement: Baisse de température, ou infection virale bénigne.
+refuge: Lieu protégé, abri.
+réfugié: Personne ayant fui son pays.
+réfugier: Mettre ou se mettre à l'abri.
+refus: Action de refuser, rejet.
+refus de soins: Droit du patient de refuser un traitement.
+refuser: Ne pas accepter, rejeter.
+réfutable: Qui peut être réfuté.
+réfutation: Action de réfuter, démonstration de fausseté.
+réfuter: Démontrer la fausseté de quelque chose.
+regagner: Gagner de nouveau, ou retourner.
+regain: Repousse, renouveau.
+régal: Plaisir gustatif intense.
+régaler: Offrir un bon repas, faire plaisir.
+regard: Action de regarder, ou ouverture d'accès.
+regardant: Qui regarde la dépense, économe.
+regarder: Diriger les yeux vers, observer.
+régate: Course de voiliers.
+régater: Participer à une régate.
+regeler: Geler de nouveau.
+régence: Gouvernement exercé durant minorité d'un souverain.
+régénérateur: Qui régénère.
+régénération: Reconstitution d'un tissu détruit.
+régénération tissulaire: Réparation et reconstruction d'un tissu.
+régénérer: Reconstituer, renouveler.
+régent: Qui exerce la régence.
+régenter: Diriger de façon autoritaire.
+régie: Mode d'administration direct.
+regimber: Résister avec force, se révolter.
+régime: Ensemble de règles alimentaires, ou système politique.
+régime alimentaire: Habitudes et règles d'alimentation.
+régime hypocalorique: Alimentation pauvre en calories pour perdir du poids.
+régime hyposodé: Alimentation pauvre en sel.
+régime sans gluten: Alimentation excluant le gluten.
+régiment: Unité militaire.
+région: Zone géographique ou anatomique.
+région abdominale: Zone spécifique de l'abdomen.
+région anatomique: Territoire défini du corps.
