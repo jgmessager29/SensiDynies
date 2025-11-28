@@ -489,8 +489,6 @@ async def on_command_error(ctx, error):
 # ----------------------------------------
 # FLASK POUR RENDER
 # ----------------------------------------
-import os
-
 app = Flask("SensiDynies")
 
 @app.route("/")
