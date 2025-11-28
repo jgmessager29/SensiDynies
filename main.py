@@ -103,9 +103,15 @@ recent_bans = set()
 
 @bot.event
 async def on_member_join(member):
-    channel = member.guild.get_channel(LOG_CHANNEL_ID)
-    if channel:
-        await channel.send("**Arrivée**", f"🛬 **{member}** a rejoint le serveur !", color=discord.Color.pink())
+    # Salon de log
+    log_channel = member.guild.get_channel(LOG_CHANNEL_ID)
+    if log_channel:
+        embed = discord.Embed(
+            title="Arrivée",
+            description=f"🛬 {member.mention} a rejoint le serveur !",
+            color=discord.Color.pink()
+        )
+        await log_channel.send(embed=embed)
         
 @bot.event
 async def on_member_remove(member):
@@ -146,10 +152,13 @@ async def on_presence_update(before, after):
 # ----------------------------------------
 @bot.event
 async def on_member_join(member):
-    channel = member.guild.get_channel(1440448854347616290)
-    if channel:
+    # Salon de bienvenue
+    welcome_channel = member.guild.get_channel(1440448854347616290)
+    if welcome_channel:
         member_number = len(member.guild.members)
-        await channel.send(f"{member.mention}")
+        # Ping du membre
+        await welcome_channel.send(f"{member.mention}")
+        # Embed de bienvenue
         embed = discord.Embed(
             title=f"🌿 Bienvenue {member.display_name} 🌿",
             description=(
@@ -158,8 +167,10 @@ async def on_member_join(member):
             ),
             color=discord.Color.pink()
         )
-        embed.set_footer(text="Bot SensiDynies et Discord créés par Joguy, CEO Trisked : https://www.trisked.fr")
-        await channel.send(embed=embed)
+        embed.set_footer(
+            text="Bot SensiDynies et Discord créés par Joguy, CEO Trisked : https://www.trisked.fr"
+        )
+        await welcome_channel.send(embed=embed)
 
 # ----------------------------------------
 # RÉACTIONS AUTOMATIQUES AUX MESSAGES
