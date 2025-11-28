@@ -59,21 +59,23 @@ async def on_message(message):
     await bot.process_commands(message)
 
 # ----------------------------------------
-# STATUT DU BOT AU LANCEMENT
+# STATUT DU BOT AU LANCEMENT + Task de reconnexion
 # ----------------------------------------
 @bot.event
 async def on_ready():
     if bot.user is None:
         return
+
     print(f"Bot connecté en tant que {bot.user}")
     print(f"Bot ID: {bot.user.id}")
     print(f"Connecté à {len(bot.guilds)} serveur(s)")
+
     await bot.change_presence(
         activity=discord.Activity(type=discord.ActivityType.watching, name="!aide pour les commandes."),
         status=discord.Status.online
     )
     print("Statut du bot défini avec succès !")
-    
+
     # Log dans le salon
     await send_embed_to_channels(
         title="Bot connecté",
@@ -81,26 +83,8 @@ async def on_ready():
         color=discord.Color.pink(),
         channels=[LOG_CHANNEL_ID]
     )
-# ----------------------------------------
-# TASK : Vérifie si le bot est connecté
-# ----------------------------------------
-@tasks.loop(seconds=30)  # vérifie toutes les 30 secondes
-async def check_bot_connection():
-    if bot.is_closed():  # Discord.py détecte si le bot est fermé
-        print("⚠️ Bot déconnecté, tentative de reconnexion...")
-        try:
-            await bot.login(TOKEN)
-            await bot.connect()
-            print("✅ Bot reconnecté avec succès !")
-        except Exception as e:
-            print(f"Erreur lors de la reconnexion : {e}")
 
-# Démarrer la task quand le bot est prêt
-@bot.event
-async def on_ready():
-    print(f"Bot connecté en tant que {bot.user}")
-    print(f"Connecté à {len(bot.guilds)} serveur(s)")
-    
+    # Démarrer la task de vérification si elle n'est pas déjà en cours
     if not check_bot_connection.is_running():
         check_bot_connection.start()
         
