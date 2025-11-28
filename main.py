@@ -76,18 +76,27 @@ async def on_ready():
 # ----------------------------------------
 LOG_CHANNEL_ID = 1443209968865116271
 
-async def send_log_embed(title, description, color=discord.Color.pink()):
+# ----------------------------------------
+# FONCTION D'ENVOI D'EMBED LOGS
+# ----------------------------------------
+async def send_log_embed(title, description, color):
     channel = bot.get_channel(LOG_CHANNEL_ID)
-    if channel:
-        embed = discord.Embed(title=title, description=description, color=color)
-        await channel.send(embed=embed)
+    if channel is None:
+        print("⚠️ ERREUR : Salon introuvable ! Mauvais ID ?")
+        return
+    embed = discord.Embed(title=title, description=description, color=color)
+    await channel.send(embed=embed)
+
+# ----------------------------------------
+# EVENTS : JOIN / LEAVE / BAN / KICK
+# ----------------------------------------
 
 recent_kicks = set()
 recent_bans = set()
 
-# SALON DE LOGS EVENEMENTS
 @bot.event
 async def on_member_join(member):
+    print(f"Nouveau membre détecté : {member}")
     await send_log_embed("**Arrivée**", f"🛬 **{member}** a rejoint le serveur !", color=discord.Color.pink())
 
 @bot.event
