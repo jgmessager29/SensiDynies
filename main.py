@@ -58,7 +58,7 @@ Thread(target=run).start()
 # ----------------------------------------
 LOG_CHANNEL_ID = 1443209968865116271  # Remplace par l'ID réel du salon #bot-logs
 
-async def send_log_embed(title, description, color=discord.Color.blue()):
+async def send_log_embed(title, description, color=discord.Color.pink()):
     channel = bot.get_channel(LOG_CHANNEL_ID)
     if channel:
         embed = discord.Embed(title=title, description=description, color=discord.Color.pink())
@@ -67,24 +67,33 @@ async def send_log_embed(title, description, color=discord.Color.blue()):
 # Arrivée d’un membre
 @bot.event
 async def on_member_join(member):
-    await send_embed(f"🛬 {member} a rejoint le serveur !")
+    await send_log_embed("**Arrivée **", f"🛬 {member} a rejoint le serveur !")
 # Départ d’un membre
 @bot.event
 async def on_member_remove(member):
-    await send_embed(f"🛫 {member} a quitté le serveur.")
+    await send_log_embed("**Départ **", f"🛫 {member} a quitté le serveur.")
 
 # Exclusion d’un membre
 @bot.event
 async def on_member_ban(guild, user):
-    await send_embed(f"⛔ {user} a été banni du serveur {guild.name}.")
+    await send_log_embed("**Exclusion **", f"⛔ {user} a été banni du serveur {guild.name}.")
 
 # Changement de pseudo
 @bot.event
 async def on_member_update(before, after):
     if before.display_name != after.display_name:
-        await send_embed(f"✏️ {before} a changé de pseudo → {after.display_name}")
+        await send_log_embed("**Pseudo **", f"✏️ {before.display_name} → {after.display_name}")
 
-
+# Connexion / déconnexion des bots
+@bot.event
+async def on_presence_update(before, after):
+    # Vérifie si c'est un bot
+    if after.bot:
+        if before.status != after.status:
+            if str(after.status) == "online":
+                await send_log_embed(title="Bot connecté", description=f"{after} est maintenant en ligne", color=discord.Color.pink())
+            elif str(after.status) == "offline":
+                await send_log_embed(title="Bot déconnecté", description=f"{after} est maintenant hors ligne", color=discord.Color.pink()) 
 # ----------------------------------------
 # FIN CONFIGURATION DU SALON DE LOGS
 # ----------------------------------------
@@ -431,12 +440,19 @@ ADMIN_ROLE_ID = 1443251737803751484
 async def effacer(ctx, amount: int):
         # Vérifie si l'utilisateur possède le rôle Admin
         if ADMIN_ROLE_ID not in [role.id for role in ctx.author.roles]:
-            await ctx.send("🚫 Cette commande est réservée aux administrateurs.", delete_after=60)
+            await ctx.send("🚫 Cette commande est réservée aux administrateurs.", delete_after=30)
             return
 
         # Suppression des messages
         await ctx.channel.purge(limit=amount)
-        await ctx.send(f"💊 **Posologie :** Messages effacés x{amount} ! Le canal est maintenant totalement indemne, aucun antidouleur requis!", delete_after=60)
+        await ctx.send(f"💊 **Posologie :** Messages effacés x{amount} ! Le canal est maintenant totalement indemne, aucun antidouleur requis!", delete_after=30)
+
+    # --- AJOUT DU LOG ---
+    await send_log_embed(
+        title="**!effacer **",
+        description=f"⚠️ {ctx.author} a effacé {amount} messages dans #{ctx.channel.name}",
+        color=discord.Color.pink()
+
 # FIN - Suppression des messages
 
 # ----------------------------------------
