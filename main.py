@@ -1,29 +1,29 @@
 # ----------------------------------------
-# IMPORTS ET CONFIGURATION
+# IMPORTS STANDARD
 # ----------------------------------------
-# Pour accéder aux variables d'environnement
-import os   
-
+import os
 from datetime import datetime, timezone, timedelta
-
-# Bibliothèque Discord
-import discord    
-from discord.ui import View, Button
 import random
 
-# Pour gérer les commandes du bot
-from discord.ext import commands     
+# ----------------------------------------
+# IMPORTS DISCORD
+# ----------------------------------------
+import discord
+from discord.ui import View, Button
+from discord.ext import commands
 
-# Pour charger les variables d'environnement depuis .env
-from dotenv import load_dotenv       
-
-# Flask pour garder le bot actif sur Render
+# ----------------------------------------
+# HÉBERGEMENT
+# ----------------------------------------
+from dotenv import load_dotenv
 from flask import Flask
 from threading import Thread
 
-# Charger les variables d'environnement depuis le fichier .env (local)
+# ----------------------------------------
+# CONFIGURATION 
+# ----------------------------------------
+# Charger les variables d'environnement depuis le fichier .env
 load_dotenv()
-
 # Token Discord depuis variable d'environnement Render
 TOKEN = os.environ.get("DISCORD_BOT_TOKEN")
 
@@ -34,7 +34,7 @@ intents = discord.Intents.default()
 intents.message_content = True
 intents.members = True
 
-bot = commands.Bot(command_prefix="!", intents=intents)  
+bot = commands.Bot(command_prefix="!", intents=intents)
 bot.remove_command("help")
 
 # ----------------------------------------
@@ -56,26 +56,40 @@ def run():
 Thread(target=run).start()
 
 # ----------------------------------------
+# STATUT DU BOT AU LANCEMENT
+# ----------------------------------------
+@bot.event
+async def on_ready():
+    if bot.user is None:
+        return
+    print(f"Bot connecté en tant que {bot.user}")
+    print(f"Bot ID: {bot.user.id}")
+    print(f"Connecté à {len(bot.guilds)} serveur(s)")
+    await bot.change_presence(
+        activity=discord.Activity(type=discord.ActivityType.watching, name="!aide pour les commandes."),
+        status=discord.Status.online
+    )
+    print("Statut du bot défini avec succès !")
+
+# ----------------------------------------
 # CONFIGURATION DU SALON DE LOGS
 # ----------------------------------------
-LOG_CHANNEL_ID = 1443209968865116271  # Remplace par l'ID réel du salon #bot-logs
+LOG_CHANNEL_ID = 1443209968865116271
 
 async def send_log_embed(title, description, color=discord.Color.pink()):
     channel = bot.get_channel(LOG_CHANNEL_ID)
     if channel:
-        embed = discord.Embed(title=title, description=description, color=discord.Color.pink())
+        embed = discord.Embed(title=title, description=description, color=color)
         await channel.send(embed=embed)
-        
-# Sets pour éviter doublons
+
 recent_kicks = set()
 recent_bans = set()
 
-# Arrivée
+# SALON DE LOGS EVENEMENTS
 @bot.event
 async def on_member_join(member):
     await send_log_embed("**Arrivée**", f"🛬 **{member}** a rejoint le serveur !", color=discord.Color.pink())
 
-# Départ (volontaire ou kick)
 @bot.event
 async def on_member_remove(member):
     guild = member.guild
@@ -84,10 +98,8 @@ async def on_member_remove(member):
             recent_kicks.add(member.id)
             await send_log_embed("**Expulsion**", f"⚠️ **{member}** a été expulsé par {entry.user}.", color=discord.Color.pink())
             return
-    # Si pas trouvé dans les kicks => départ volontaire
     await send_log_embed("**Départ**", f"🛫 **{member}** a quitté le serveur volontairement.", color=discord.Color.pink())
 
-# Bannissement
 @bot.event
 async def on_member_ban(guild, user):
     if user.id not in recent_bans:
@@ -96,38 +108,81 @@ async def on_member_ban(guild, user):
             if entry.target.id == user.id:
                 await send_log_embed("**Bannissement**", f"⛔ **{user}** a été banni par {entry.user}.", color=discord.Color.pink())
                 return
-        # Fallback si pas trouvé
         await send_log_embed("**Bannissement**", f"⛔ **{user}** a été banni du serveur.", color=discord.Color.pink())
 
-# Changement de pseudo
 @bot.event
 async def on_member_update(before, after):
     if before.display_name != after.display_name and not before.bot:
-        await send_log_embed("**Changement de pseudo**", f"✏️ **{before}** a changé de pseudo → **{after.display_name}**", color=discord.Color.pink())
-        
+        await send_log_embed("**Changement de pseudo**", f"✏️ **{before}** a changé de pseudo en **{after.display_name}**", color=discord.Color.pink())
 
-# Connexion / déconnexion des bots
 @bot.event
 async def on_presence_update(before, after):
-    # Vérifie si c'est un bot
     if after.bot:
         if before.status != after.status:
             if str(after.status) == "online":
                 await send_log_embed(title="Bot connecté", description=f"{after} est maintenant en ligne", color=discord.Color.pink())
             elif str(after.status) == "offline":
-                await send_log_embed(title="Bot déconnecté", description=f"{after} est maintenant hors ligne", color=discord.Color.pink()) 
-# ----------------------------------------
-# FIN CONFIGURATION DU SALON DE LOGS
-# ----------------------------------------
+                await send_log_embed(title="Bot déconnecté", description=f"{after} est maintenant hors ligne", color=discord.Color.pink())
 
 # ----------------------------------------
-# HELP PERSONNALISE EN FRANCAIS (!aide)
+# MESSAGE DE BIENVENUE
 # ----------------------------------------
-# Commande !aide entièrement personnalisée 3 catégories avec backticks
+@bot.event
+async def on_member_join(member):
+    channel = member.guild.get_channel(1440448854347616290)
+    if channel:
+        member_number = len(member.guild.members)
+        await channel.send(f"{member.mention}")
+        embed = discord.Embed(
+            title=f"🌿 Bienvenue {member.display_name} 🌿",
+            description=(
+                f"**Tu es le {member_number}ème membre à rejoindre le serveur !**\n\n"
+                "Ici, tu trouveras un espace sûr pour échanger et partager.\n\n"
+            ),
+            color=discord.Color.pink()
+        )
+        embed.set_footer(text="Bot SensiDynies et Discord créés par Joguy, CEO Trisked : https://www.trisked.fr")
+        await channel.send(embed=embed)
+
+# ----------------------------------------
+# RÉACTIONS AUTOMATIQUES AUX MESSAGES
+# ----------------------------------------
+@bot.event
+async def on_message(message):
+    if message.author == bot.user:
+        return
+    if "sensidynies" in message.content.lower():
+        await message.add_reaction("🛸")
+    if "fibromyalgie" in message.content.lower():
+        await message.add_reaction("🫂")
+    await bot.process_commands(message)
+
+# ----------------------------------------
+# CHARGEMENT FICHIERS DES COMMANDES
+# ----------------------------------------
+def load_dico():
+    dico = {}
+    with open("dico.txt", "r", encoding="utf-8") as f:
+        for line in f:
+            if line.strip():
+                key, value = line.strip().split(":", 1)
+                dico[key.lower()] = value.strip()
+    return dico
+
+medical_dict = load_dico()
+
+def load_blagues():
+    with open("blagues.txt", "r", encoding="utf-8") as f:
+        return [line.strip() for line in f if line.strip()]
+
+blagues = load_blagues()
+
+# ----------------------------------------
+# COMMANDE !aide
+# ----------------------------------------
 @bot.command(name="aide", help="Affiche la liste des commandes disponibles et leur description.")
 async def aide(ctx, cmd_name=None):
     if cmd_name:
-        # Aide pour une commande spécifique
         cmd = bot.get_command(cmd_name)
         if cmd:
             embed = discord.Embed(
@@ -140,151 +195,44 @@ async def aide(ctx, cmd_name=None):
         else:
             await ctx.send(f"Commande `{cmd_name}` introuvable.")
     else:
-        # Aide générale
         embed = discord.Embed(
             title="Aide à l'utilisation de SensiDynies",
             description="Voici la liste des commandes disponibles par catégorie :",
             color=discord.Color.pink()
         )
 
-        # Catégorie 1 : Commandes d'aide
-        cat1 = "`!aide [commande]` : Affiche la commande et sa description.\n"
-        cat1 += "`!dico` : Recheche les définitions en lien avec le médical.\n"
-        cat1 += "`!perdu` : Perdu ? Voici la liste pour te repérer dans ce serveur.\n"
-        embed.add_field(name="Assistance", value=cat1, inline=False)
+        # --- Assistance ---
+        cat1 = "**Assistance**\n"
+        cat1 += "`!aide [commande]` : Affiche la commande et sa description.\n"
+        cat1 += "`!dico` : Recherche les définitions médicales.\n"
+        cat1 += "`!perdu` : Liste des salons pour se repérer.\n"
+        embed.add_field(name="\u200b", value=cat1, inline=False)
 
-        # Catégorie 2 : Utilitaires
-        cat2 = "`!astuce` : Guide des astuces pour bien utiliser Discord.\n"
-        cat2 += "`!info` : Afficher les informations relatives au bot.\n"
-        cat2 += "`!ping` : Vérifie si le bot est réactif et affiche la latence en ms.\n"
-        
-        embed.add_field(name="Utilitaire", value=cat2, inline=False)
+        # --- Modération ---
+        cat2 = "**Modération**\n"
+        cat2 += "`!effacer [chiffre]` : Efface un nombre de messages (Admin).\n"
+        cat2 += "`!reglement` : Affiche le règlement du serveur.\n"
+        embed.add_field(name="\u200b", value=cat2, inline=False)
 
-        # Catégorie 3 : Messages amicaux / fun
-        cat3 = "`!choix` : Le bot choisit pour toi.\n"
-        cat3 += "`!blague` : Raconte une blague aléatoire.\n"
+        # --- Utilitaire ---
+        cat3 = "**Utilitaire**\n"
+        cat3 += "`!info` : Affiche les informations du bot.\n"
+        cat3 += "`!ping` : Vérifie la latence du bot.\n"
+        cat3 += "`!astuce` : Guide des astuces Discord.\n"
+        embed.add_field(name="\u200b", value=cat3, inline=False)
 
-        embed.add_field(name="Amusement", value=cat3, inline=False)
+        # --- Amusement ---
+        cat4 = "**Amusement**\n"
+        cat4 += "`!choix` : Le bot choisit pour toi.\n"
+        cat4 += "`!blague` : Raconte une blague aléatoire.\n"
+        embed.add_field(name="\u200b", value=cat4, inline=False)
 
-        # Catégorie 4 : Administration
-        cat4 = "`!effacer [chiffre]` : Efface le nombre de messages indiqué (Admin).\n"
-        cat4 += "`!reglement` : Affiche la charte du serveur.\n"
-
-        embed.add_field(name="Modération", value=cat4, inline=False)
-
-        # Footer
-        embed.add_field(
-            name="\u200b",  # champ sans titre
-            value="Bot SensiDynies et Discord créés par Joguy, CEO Trisked : 'https://www.trisked.fr'",
-            inline=False
-        )
+        embed.set_footer(text="Bot SensiDynies et Discord créés par Joguy, CEO Trisked : 'https://www.trisked.fr/'")
         await ctx.send(embed=embed)
 
-# Commande !aide entièrement personnalisée 3 catégories avec backticks
 # ----------------------------------------
-# EVENEMENTS
+# COMMANDE !astuce
 # ----------------------------------------
-# Quand le bot est connecté au serveur
-@bot.event
-async def on_ready():  
-    if bot.user is None:
-        return
-    print(f"Bot connecté en tant que {bot.user}")
-    print(f"Bot ID: {bot.user.id}")
-    print(f"Connecté à {len(bot.guilds)} serveur(s)")
-
-# Définir le statut du bot 
-    await bot.change_presence(
-        activity=discord.Activity(
-            type=discord.ActivityType.watching,
-            name="!aide pour les commandes."
-        ),
-        status=discord.Status.online
-    )
-    print("Statut du bot défini avec succès !")
-
-# À chaque message reçu, le bot réagit automatiquement
-@bot.event
-async def on_message(message): 
-    if message.author == bot.user:
-
-# Ignorer ses propres messages
-        return  
-
-# Réactions automatiques selon mots-clés
-    if "sensidynies" in message.content.lower():
-        await message.add_reaction("🛸")
-    if "fibromyalgie" in message.content.lower():
-        await message.add_reaction("🫂")
-
-# Traiter les commandes
-    await bot.process_commands(message)  
-
-# Quand un nouveau membre rejoint
-@bot.event
-async def on_member_join(member): 
-
-# ID du channel de bienvenue 🏠┆sensidynies
-    channel = member.guild.get_channel(1440448854347616290)  
-    if channel:
-
-        # Numéro du membre dans le serveur
-        member_number = len(member.guild.members)
-        
-# Mention du membre
-        await channel.send(f"{member.mention}")
-
-        embed = discord.Embed(
-            title=f"🌿 Bienvenue {member.display_name} 🌿",
-            description=(
-                f"**Tu es le {member_number}ème membre à rejoindre le serveur !**\n\n"
-                "Ici, tu trouveras un espace sûr pour échanger et partager.\n\n"
-            ),
-            color=discord.Color.pink()
-        )
-# Caractère invisible pour créer un espace
-        "\u200b\n"
-        
-# Ajouter un footer
-        embed.set_footer(text="Bot SensiDynies et Discord créés par Joguy, CEO Trisked : "
-                "https://www.trisked.fr")
-
-        # Envoi dans le canal
-        await channel.send(embed=embed)
-# ----------------------------------------
-# COMMANDES DU BOT
-# ----------------------------------------
-#COMMANDE : !perdu
-@bot.command(name="perdu")
-async def perdu_cmd(ctx):
-    # Embed : Catégories du serveur
-    embed = discord.Embed(
-        title="🆘 Perdu ? Voici les catégories principales pour utiliser Discord facilement dès le début.",
-        description=(
-            "\u200b\n"
-            "🔴➖ INFORMATIONS ➖🔴\n"
-            "→ Toutes les infos essentielles : règles, annonces et conseils pour utiliser Discord.\n\n"
-
-            "🟢➖ COMMUNICATION ➖🟢\n"
-            "→ Échanges entre membres : discussions, partages et suggestions pour le serveur.\n\n"
-
-            "🟠➖ SALONS VOCAUX ➖🟠\n"
-            "→ Connecte-toi, parle ou écoute en direct avec les membres pour discuter ou se détendre.\n\n"
-
-            "🟡➖ FORUM QUESTIONS ➖🟡\n"
-            "→ Forum ou tu poses tes questions et partage tes expériences sur santé, vie quotidienne, conseils.\n\n"
-
-            "🔵➖ VOTRE RÉGION ➖🔵\n"
-            "→ Forum où se retrouvent les membres près de chez toi pour entraide et partages locaux.\n\n"
-
-            "🟣➖ GUICHET ➖🟣\n"
-            "→ Zone modération : suivi, gestion du serveur et configuration des bots.\n"
-        ),
-        color=discord.Color.pink()
-    )
-    await ctx.send(embed=embed)
-    
-#COMMANDE : !astuces
 @bot.command(name="astuce")
 async def astuce_cmd(ctx):
     embed = discord.Embed(
@@ -319,7 +267,111 @@ async def astuce_cmd(ctx):
     )
     await ctx.send(embed=embed)
     
-# COMMANDE : !reglement
+# ----------------------------------------
+# COMMANDE !blague
+# ----------------------------------------
+@bot.command(name="blague", help="Envoie une blague aléatoire 😄")
+async def blague(ctx):
+    await ctx.send(random.choice(blagues))
+    
+# ----------------------------------------
+# COMMANDE !choix
+# ----------------------------------------
+@bot.command(name="choix", help="Fais un choix entre plusieurs options. Sépare-les par une virgule.")
+async def choix(ctx, *, options=None):
+    if not options:
+        await ctx.send("Veuillez me donner des options séparées par des virgules.")
+        return
+    option_list = [opt.strip() for opt in options.split(",") if opt.strip()]
+    if len(option_list) < 2:
+        await ctx.send("Il faut au moins deux options.")
+        return
+    await ctx.send(f"🎯 Je choisis : **{random.choice(option_list)}**")
+    
+# ----------------------------------------
+# COMMANDE !dico
+# ----------------------------------------
+@bot.command(name="dico", help="Donne la définition d'un mot médical. Exemple: !dico fibromyalgie")
+async def dico(ctx, *, word: str):
+    definition = medical_dict.get(word.lower())
+    if definition:
+        await ctx.send(f"**{word}** : {definition}")
+    else:
+        await ctx.send(f"Désolé, je n'ai pas trouvé la définition pour le mot **{word}**.")
+
+# ----------------------------------------
+# COMMANDE !effacer
+# ----------------------------------------
+ADMIN_ROLE_ID = 1443251737803751484
+
+@bot.command(name="effacer")
+async def effacer(ctx, amount: int):
+    if ADMIN_ROLE_ID not in [role.id for role in ctx.author.roles]:
+        await ctx.send("🚫 Cette commande est réservée aux administrateurs.", delete_after=30)
+        return
+    await ctx.channel.purge(limit=amount)
+    await ctx.send(f"💊 Messages effacés x{amount} !", delete_after=30)
+    await send_log_embed(title="**!effacer**", description=f"{ctx.author} a effacé {amount} messages dans <#{ctx.channel.id}>")
+
+# ----------------------------------------
+# COMMANDE !info
+# ----------------------------------------
+@bot.command(name="info")
+async def info(ctx):
+    human_count = len([member for member in ctx.guild.members if not member.bot])
+    embed = discord.Embed(
+        title="SensiDynies Bot",
+        description="Bot SensiDynies et Discord créés par Joguy",
+        color=discord.Color.pink()
+    )
+    embed.add_field(name="Préfixe", value="!", inline=True)
+    embed.add_field(name="Latence", value=f"{round(bot.latency * 1000)}ms", inline=True)
+    embed.add_field(name="Membres", value=str(human_count), inline=True)
+    embed.set_footer(text="Tapez !aide pour obtenir la liste des commandes.")
+    await ctx.send(embed=embed)
+
+# ----------------------------------------
+# COMMANDE !perdu
+# ----------------------------------------
+@bot.command(name="perdu")
+async def perdu_cmd(ctx):
+    embed = discord.Embed(
+        title="🆘 Perdu ? Voici les catégories principales",
+        description=(
+            "\u200b\n"
+            "🔴➖ INFORMATIONS ➖🔴\n"
+            "→ Toutes les infos essentielles : règles, annonces et conseils pour utiliser Discord.\n\n"
+
+            "🟢➖ COMMUNICATION ➖🟢\n"
+            "→ Échanges entre membres : discussions, partages et suggestions pour le serveur.\n\n"
+
+            "🟠➖ SALONS VOCAUX ➖🟠\n"
+            "→ Connecte-toi, parle ou écoute en direct avec les membres pour discuter ou se détendre.\n\n"
+
+            "🟡➖ FORUM QUESTIONS ➖🟡\n"
+            "→ Forum ou tu poses tes questions et partage tes expériences sur santé, vie quotidienne, conseils.\n\n"
+
+            "🔵➖ VOTRE RÉGION ➖🔵\n"
+            "→ Forum où se retrouvent les membres près de chez toi pour entraide et partages locaux.\n\n"
+
+            "🟣➖ GUICHET ➖🟣\n"
+            "→ Zone modération : suivi, gestion du serveur et configuration des bots.\n"
+        ),
+        color=discord.Color.pink()
+    )
+    await ctx.send(embed=embed)
+
+# ----------------------------------------
+# COMMANDE !ping
+# ----------------------------------------
+@bot.command(name="ping")
+async def ping(ctx):
+    latency = round(bot.latency * 1000)
+    await ctx.send(f"Pong! Latence: {latency}ms")
+    
+# ----------------------------------------
+# COMMANDE !reglement
+# ----------------------------------------
 @bot.command(name="reglement")
 async def reglement_cmd(ctx):
     embed = discord.Embed(
@@ -370,140 +422,24 @@ async def reglement_cmd(ctx):
         color=discord.Color.pink()
     )
     await ctx.send(embed=embed)
-    
-# Commande !choix” – le bot choisit pour toi
-@bot.command(name="choix", help="Fais un choix entre plusieurs options. Sépare-les par une virgule.")
-async def choix(ctx, *, options=None):
-
-        # Si aucune option n'est fournie
-        if options is None:
-            await ctx.send("Veuillez me donner des options séparées par des virgules.\nExemple : `!choix rouge, bleu, vert`")
-            return
-        option_list = [opt.strip() for opt in options.split(',')]
-        # Sécurité si l'utilisateur envoie juste des virgules
-        if len(option_list) < 2:
-            await ctx.send("Il faut au moins **deux options** pour faire un choix 😉")
-            return
-        await ctx.send(f"🎯 Je choisis : **{random.choice(option_list)}**")
-
-# Debut - Commande “!blague” – renvoie une blague aléatoire
-def load_blagues():
-    with open("blagues.txt", "r", encoding="utf-8") as f:
-        return [line.strip() for line in f if line.strip()]
-
-# Charge les blagues au lancement du bot
-blagues = load_blagues()
-
-@bot.command(name="blague", help="Envoie une blague aléatoire 😄")
-async def blague(ctx):
-    await ctx.send(random.choice(blagues))
-# Debut - Commande “!blague” – renvoie une blague aléatoire
-    
-
-# Début - Commande !dico
-def load_dico():
-    dico = {}
-    with open("dico.txt", "r", encoding="utf-8") as f:
-        for line in f:
-            if line.strip():
-                key, value = line.strip().split(":", 1)  # Sépare mot et définition par ':'
-                dico[key.lower()] = value.strip()        # Supprime espaces inutiles
-    return dico
-
-# Charger dès le lancement du bot
-medical_dict = load_dico()
-
-@bot.command(name="dico", help="Donne la définition d'un mot médical. Exemple: !dico fibromyalgie")
-async def dico(ctx, *, word: str):
-    word_lower = word.lower()
-    definition = medical_dict.get(word_lower)
-    if definition:
-        await ctx.send(f"**{word}** : {definition}")
-    else:
-        await ctx.send(f"Désolé, je n'ai pas trouvé la définition pour le mot **{word}**.")
-# Fin - Commande !dico
-
-# Commande !ping
-@bot.command(name="ping")  
-async def ping(ctx):
-    """Vérifie si le bot est réactif et affiche la latence en ms."""
-    latency = round(bot.latency * 1000)
-    await ctx.send(f"Pong! Latence: {latency}ms")
-
-# Début : Commande !info
-@bot.command(name="info")  
-async def info(ctx):
-    """Afficher les informations relatives au bot."""
-# Nombre de membres humains dans le serveur
-    human_count = len([member for member in ctx.guild.members if not member.bot])
-# Création de l'embed
-    embed = discord.Embed(
-        title="SensiDynies Bot",
-        description="-# Bot SensiDynies et Discord créés par Joguy, CEO Trisked : 'https://www.trisked.fr'",
-# Couleur de l'embed
-        color=discord.Color.pink()
-    )
-# Champ "Préfixe" indiquant le préfixe des commandes
-    embed.add_field(name="**Préfixe :**", value="!", inline=True)  
-# Champ "Latence" avec la latence du bot en ms
-    embed.add_field(name="**Latence :**", value=f"{round(bot.latency * 1000)}ms", inline=True)
-# Champ avec membres humains sur le serveur
-    embed.add_field(name="**Membres**", value=str(human_count), inline=True)
-# Pied de page avec un petit rappel pour l'utilisateur
-    embed.set_footer(text="Tapez !aide pour obtenir la liste des commandes.")
-# Envoie l'embed dans le canal où la commande a été utilisée
-    await ctx.send(embed=embed)
-# Fin commande !info
-
-# DEBUT - Suppression des messages
-ADMIN_ROLE_ID = 1443251737803751484
-
-@bot.command(name="effacer")
-async def effacer(ctx, amount: int):
-        # Vérifie si l'utilisateur possède le rôle Admin
-        if ADMIN_ROLE_ID not in [role.id for role in ctx.author.roles]:
-            await ctx.send("🚫 Cette commande est réservée aux administrateurs.", delete_after=30)
-            return
-
-        # Suppression des messages
-        await ctx.channel.purge(limit=amount)
-        await ctx.send(f"💊 **Posologie :** Messages effacés x{amount} ! Le canal est maintenant totalement indemne, aucun antidouleur requis!", delete_after=30)
-
-    # --- AJOUT DU LOG ---
-        await send_log_embed(
-            title="**!effacer **",
-            description=f"⚠️ {ctx.author} a effacé {amount} messages dans <#{ctx.channel.id}>",
-            color=discord.Color.pink()
-         )
-# FIN - Suppression des messages
 
 # ----------------------------------------
 # GESTION DES ERREURS
 # ----------------------------------------
-# Quand une commande échoue
 @bot.event
 async def on_command_error(ctx, error):
     if isinstance(error, commands.CommandNotFound):
-        await ctx.send(
-            "Commande introuvable. Tapez !aide pour voir les commandes disponibles."
-        )
-# Quand utilisateur essaie d’exécuter une commande mais qu’il n’a pas les permissions nécessaires.
+        await ctx.send("Commande introuvable. Tapez !aide pour voir les commandes disponibles.")
     elif isinstance(error, commands.MissingPermissions):
         await ctx.send("Vous n'avez pas l'autorisation d'utiliser cette commande.")
-
-# Attrape toutes les autres erreurs
     else:
         await ctx.send(f"Une erreur s'est produite: {str(error)}")
 
 # ----------------------------------------
 # LANCEMENT DU BOT
 # ----------------------------------------
-if __name__ == "__main__": 
-    # Récupère le token depuis Render (Environment Variable)
-    TOKEN = os.environ.get("DISCORD_BOT_TOKEN")  # <--- nom exact utilisé sur Render
-
+if __name__ == "__main__":
     if not TOKEN:
-        print("Erreur : DISCORD_BOT_TOKEN introuvable dans les variables d'environnement.")
-        print("Veuillez définir votre jeton Discord bot comme variable d'environnement.")
+        print("Erreur : DISCORD_BOT_TOKEN introuvable.")
     else:
         bot.run(TOKEN)
