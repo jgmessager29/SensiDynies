@@ -74,7 +74,7 @@ recent_bans = set()
 # ----------------------------------------
 async def send_embed_to_channels(title, description, color=discord.Color.pink(), channels=None):
  # Envoie un embed dans un salon donné. Si channel_id n'est pas précisé, utilise LOG_CHANNEL_ID par défaut.
- if channels is None:
+    if channels is None:
         channels = [LOG_CHANNEL_ID]
     for cid in channels:
         channel = bot.get_channel(cid)
