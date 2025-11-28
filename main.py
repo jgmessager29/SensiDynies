@@ -41,8 +41,6 @@ bot.remove_command("help")
 # ----------------------------------------
 @bot.event
 async def on_message(message):
-    if messa@bot.event
-async def on_message(message):
     # Ignorer les messages du bot lui-même
     if message.author == bot.user:
         return
