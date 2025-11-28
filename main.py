@@ -4,7 +4,7 @@
 import os
 from datetime import datetime, timezone, timedelta
 import random
-
+import asyncio
 # ----------------------------------------
 # IMPORTS DISCORD
 # ----------------------------------------
@@ -90,18 +90,16 @@ async def send_log_embed(title, description, color=discord.Color.pink()):
 
 recent_kicks = set()
 recent_bans = set()
-recent_entry = set()
 
 @bot.event
 async def on_member_join(member):
     if member.id in recent_entry:
-        return  # On ignore les doublons
+        return  # Ignore les doublons
     recent_entry.add(member.id)
-
     channel = member.guild.get_channel(LOG_CHANNEL_ID)
     if channel:
-        await send_log_embed("**Arrivée**", f"🛬 **{member}** a rejoint le serveur !", color=discord.Color.pink())
-
+        await send_log_embed("**Arrivée**", f"🛬 {member.name}#{member.discriminator} a rejoint le serveur !"
+        )
     # On peut retirer l'ID après un certain délai si besoin
     await asyncio.sleep(60)  # 60 secondes par exemple
     recent_entry.discard(member.id)
@@ -329,7 +327,7 @@ async def effacer(ctx, amount: int):
         return
     await ctx.channel.purge(limit=amount)
     await ctx.send(f"💊 **Posologie :** Messages effacés x{amount} ! Le canal est maintenant totalement indemne, aucun antidouleur requis!", delete_after=30)
-    await send_log_embed(title="**!effacer**", description=f"{ctx.author} a effacé {amount} messages dans <#{ctx.channel.id}>")
+    await send_log_embed(title="**!effacer**", description=f"{str(ctx.author)} a effacé {amount} messages dans <#{ctx.channel.id}>")
 
 # ----------------------------------------
 # COMMANDE !info
