@@ -41,24 +41,29 @@ bot.remove_command("help")
 # ----------------------------------------
 @bot.event
 async def on_message(message):
+    if messa@bot.event
+async def on_message(message):
+    # Ignorer les messages du bot lui-même
     if message.author == bot.user:
         return
 
-    # Bloquer les messages commençant par "/"
-    if message.content.startswith("/"):
-        await message.channel.send("❌ Les commandes avec ce préfixe sont désactivées.")
-        return  # Stop ici pour ne pas traiter comme commande
+    content = message.content
+    content_lower = content.lower()
 
-    # Reactions automatiques (uniquement si ce n’est pas un "/")
-    lower_content = message.content.lower()
-    if "sensidynies" in lower_content:
+    # Bloquer les messages commençant par "/"
+    if content.startswith("/"):
+        await message.channel.send("❌ Les commandes avec ce préfixe sont désactivées.")
+        return  # On stop ici, pas besoin d'appeler process_commands
+
+    # Ajouter des réactions automatiques
+    if "sensidynies" in content_lower:
         await message.add_reaction("🛸")
-    if "fibromyalgie" in lower_content:
+    if "fibromyalgie" in content_lower:
         await message.add_reaction("🫂")
 
-    # Traiter les commandes normales (préfixe "!")
+    # Traiter les commandes classiques (préfixe "!")
     await bot.process_commands(message)
-
+    
 # ----------------------------------------
 # STATUT DU BOT AU LANCEMENT + Task de reconnexion
 # ----------------------------------------
