@@ -10,6 +10,7 @@ import random
 import discord
 from discord.ui import View, Button
 from discord.ext import commands
+from discord.ext import tasks
 
 # ----------------------------------------
 # HÉBERGEMENT
@@ -80,7 +81,29 @@ async def on_ready():
         color=discord.Color.pink(),
         channels=[LOG_CHANNEL_ID]
     )
+# ----------------------------------------
+# TASK : Vérifie si le bot est connecté
+# ----------------------------------------
+@tasks.loop(seconds=30)  # vérifie toutes les 30 secondes
+async def check_bot_connection():
+    if bot.is_closed():  # Discord.py détecte si le bot est fermé
+        print("⚠️ Bot déconnecté, tentative de reconnexion...")
+        try:
+            await bot.login(TOKEN)
+            await bot.connect()
+            print("✅ Bot reconnecté avec succès !")
+        except Exception as e:
+            print(f"Erreur lors de la reconnexion : {e}")
 
+# Démarrer la task quand le bot est prêt
+@bot.event
+async def on_ready():
+    print(f"Bot connecté en tant que {bot.user}")
+    print(f"Connecté à {len(bot.guilds)} serveur(s)")
+    
+    if not check_bot_connection.is_running():
+        check_bot_connection.start()
+        
 # ----------------------------------------
 # CONFIGURATION DES SALON DE LOGS
 # ----------------------------------------
