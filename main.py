@@ -312,37 +312,37 @@ async def reglement_cmd(ctx):
 # Caractère invisible pour créer un espace
             "\u200b\n"
         
-            "**1. Bienveillance avant tout**"
+            "**1. Bienveillance avant tout**\n"
             "💛    Respect obligatoire : pas de moqueries ni jugements. Chacun est différent.\n\n"
 
-            "**2. Un serveur pour avancer ensemble**"
+            "**2. Un serveur pour avancer ensemble**\n"
                 "📈 Participation douce, empathie et écoute. Chacun progresse à son rythme.\n\n"
 
-            "**3. Espace sécurisé**"
+            "**3. Espace sécurisé**\n"
             "🚫    Pas de propos discriminatoires ni contenus choquants, violents ou explicites.\n\n"
 
-            "**4. Confidentialité**"
+            "**4. Confidentialité**\n"
             "🔒    Ne partage jamais d’infos privées. Ce qui est ici reste confidentiel.\n\n"
 
-            "**5. Santé : prudence**"
+            "**5. Santé : prudence**\n"
             "🩺    Partage d’expérience ok, mais pas de conseils médicaux dangereux. Consulte un professionnel.\n\n"
 
-            "**6. Sécurité émotionnelle**"
+            "**6. Sécurité émotionnelle**\n"
             "🥺    Pas de propos alarmistes ou déclencheurs sans contexte. Partage avec respect.\n\n"
 
-            "**7. Canaux et organisation**"
+            "**7. Canaux et organisation**\n"
             "📌    Utilise les bons salons et lis les descriptions pour garder le serveur clair.\n\n"
 
-            "**8. Publicités et liens**"
+            "**8. Publicités et liens**\n"
             "📢    Pas de promo ou liens commerciaux sans accord. Partage de ressources fiable ok.\n\n"
 
-            "**9. Modération**"
+            "**9. Modération**\n"
             "🚸    Les modérateurs veillent au bien-être de tous. Respecte leurs décisions.\n\n"
 
-            "**10. Partage du serveur**"
+            "**10. Partage du serveur**\n"
             "🔗    Merci de partager le lien : 'https://discord.gg/az9MUPYSEk'\n\n"
 
-            "**11. Acceptation du règlement**"
+            "**11. Acceptation du règlement**\n"
             "✅    En rejoignant, tu acceptes ces règles. Non-respect = avertissements ou exclusion."
         ),
         color=discord.Color.pink()
