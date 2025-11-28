@@ -380,7 +380,7 @@ async def effacer(ctx, amount: int):
         return
     await ctx.channel.purge(limit=amount)
     await ctx.send(f"💊 **Posologie :** Messages effacés x{amount} ! Le canal est maintenant totalement indemne, aucun antidouleur requis!", delete_after=30)
-    await send_log_embed(title="**!effacer**", description=f"{str(ctx.author)} a effacé {amount} messages dans <#{ctx.channel.id}>")
+    await send_embed_to_channels(title="**!effacer**", description=f"{str(ctx.author)} a effacé {amount} messages dans <#{ctx.channel.id}>")
 
 # ----------------------------------------
 # COMMANDE !info
