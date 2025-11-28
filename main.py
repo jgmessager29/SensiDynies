@@ -227,7 +227,7 @@ async def aide(ctx, cmd_name=None):
         cat4 += "`!blague` : Raconte une blague aléatoire.\n"
         embed.add_field(name="\u200b", value=cat4, inline=False)
 
-        embed.set_footer(text="Bot SensiDynies et Discord créés par Joguy, CEO Trisked : 'https://www.trisked.fr/'")
+        embed.set_footer(text="\n\n-#Bot SensiDynies et Discord créés par Joguy, CEO Trisked : 'https://www.trisked.fr/'")
         await ctx.send(embed=embed)
 
 # ----------------------------------------
