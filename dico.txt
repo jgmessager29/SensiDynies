@@ -4042,3 +4042,497 @@ rétroactif: Qui agit sur le passé.
 rétroactivité: Caractère rétroactif.
 rétrocéder: Céder en retour.
 rétrocession: Action de rétrocéder.
+rétrécissement mitral: Diminution de l'orifice de la valve mitrale.
+rétro: Préfixe signifiant en arrière.
+rétroaction: Mécanisme régulateur où l'effet modifie la cause.
+rétrograde: Qui va en arrière, qui régresse.
+rétrograder: Aller en arrière, régresser.
+rétropéritoine: Espace situé derrière le péritoine.
+rétropéritonéal: Situé derrière le péritoine.
+rétrospectif: Qui regarde vers le passé, étude rétrospective.
+rétrosternal: Situé derrière le sternum.
+rétroversion: Bascule en arrière d'un organe, notamment utérus.
+rétrovirus: Virus à ARN comme le VIH se multipliant via l'ADN.
+réunion: Assemblée, ou jonction de structures anatomiques.
+réussir: Obtenir le succès thérapeutique désiré.
+réussite: Succès du traitement.
+revaccination: Nouvelle vaccination de rappel.
+revacciner: Vacciner de nouveau pour renforcer l'immunité.
+revalidation: Rééducation, réadaptation fonctionnelle.
+revalider: Rééduquer, réadapter.
+revascularisation: Rétablissement de la circulation sanguine.
+revasculariser: Restaurer l'irrigation sanguine d'un tissu.
+rêve: Suite d'images mentales pendant le sommeil.
+réveil: Sortie du sommeil ou de l'anesthésie.
+réveiller: Faire sortir du sommeil ou du coma.
+révélateur: Qui révèle, notamment symptôme révélateur.
+révélation: Apparition d'un symptôme révélant une maladie.
+révéler: Faire apparaître, notamment une maladie latente.
+revendication: Réclamation, demande de droits.
+revenu: Ressources financières régulières.
+réverbération: Réflexion du son ou de la lumière.
+réversibilité: Caractère de ce qui peut revenir à l'état initial.
+réversible: Qui peut revenir à l'état antérieur.
+revêtement: Couche protectrice recouvrant une surface.
+revigorer: Redonner de la vigueur et des forces.
+révision: Nouvel examen de contrôle.
+révision chirurgicale: Nouvelle intervention pour corriger ou vérifier.
+revitalisation: Action de redonner de la vitalité.
+revitaliser: Redonner de la vitalité et de l'énergie.
+revivre: Retrouver la vie, l'énergie vitale.
+révocation: Annulation, retrait d'une autorisation.
+révolu: Terminé, accompli.
+révulsé: Retourné anormalement, notamment les yeux.
+révulsif: Médicament provoquant une irritation cutanée locale.
+révulsion: Dérivation d'un processus pathologique vers la peau.
+rhabdomyolyse: Destruction massive du tissu musculaire strié.
+rhabdomyome: Tumeur bénigne du muscle strié.
+rhabdomyosarcome: Tumeur maligne du muscle strié.
+rhésus: Système de groupes sanguins, facteur Rh positif ou négatif.
+rhésus négatif: Absence de l'antigène D sur les globules rouges.
+rhésus positif: Présence de l'antigène D sur les globules rouges.
+rhinencéphale: Partie du cerveau impliquée dans l'olfaction.
+rhinite: Inflammation de la muqueuse nasale.
+rhinite allergique: Inflammation nasale causée par un allergène.
+rhinite chronique: Inflammation persistante de la muqueuse nasale.
+rhinite vasomotrice: Rhinite sans cause allergique ni infectieuse.
+rhinologie: Spécialité médicale du nez et des sinus.
+rhinologue: Médecin spécialisé dans les maladies du nez.
+rhinopharyngé: Relatif au nez et au pharynx.
+rhinopharyngite: Inflammation simultanée du nez et du pharynx.
+rhinopharynx: Partie supérieure du pharynx derrière le nez.
+rhinophyma: Hypertrophie nodulaire du nez par rosacée sévère.
+rhinoplastie: Chirurgie esthétique ou réparatrice du nez.
+rhinorrhée: Écoulement nasal, nez qui coule.
+rhinoscope: Instrument pour examiner l'intérieur du nez.
+rhinoscopie: Examen endoscopique des fosses nasales.
+rhinosinusite: Inflammation simultanée du nez et des sinus.
+rhinovirus: Virus principal responsable du rhume commun.
+rhizarthrose: Arthrose de la base du pouce.
+rhizotomie: Section chirurgicale d'une racine nerveuse rachidienne.
+rhodopsine: Pigment photosensible de la rétine.
+rhomboïde: Muscle du dos en forme de losange.
+rhubarbe: Plante à propriétés laxatives.
+rhumatisant: Personne atteinte de rhumatisme.
+rhumatismal: Relatif aux rhumatismes.
+rhumatisme: Terme générique pour affections douloureuses ostéo-articulaires.
+rhumatisme articulaire: Affection inflammatoire des articulations.
+rhumatisme articulaire aigu: Maladie inflammatoire post-streptococcique.
+rhumatisme psoriasique: Arthrite associée au psoriasis.
+rhumatologie: Spécialité médicale des maladies ostéo-articulaires et musculaires.
+rhumatologue: Médecin spécialisé en rhumatologie.
+rhumatoïde: Qui ressemble au rhumatisme, notamment arthrite rhumatoïde.
+rhume: Infection virale bénigne des voies respiratoires supérieures.
+rhume de cerveau: Ancien terme désignant la rhinite aiguë.
+rhume des foins: Rhinite allergique saisonnière due au pollen.
+rhuméro: Familièrement, rhume.
+riboflavine: Vitamine B2 essentielle au métabolisme énergétique.
+ribonucléase: Enzyme dégradant l'ARN.
+ribonucléique: Relatif à l'acide ribonucléique, ARN.
+ribose: Sucre à cinq carbones constituant l'ARN.
+ribosome: Organite cellulaire assurant la synthèse des protéines.
+ribosomique: Relatif aux ribosomes.
+ricin: Plante dont l'huile extraite des graines est purgative.
+rickets: Terme anglais pour rachitisme.
+rictus: Contraction involontaire des muscles faciaux, grimace figée.
+ride: Pli cutané dû au vieillissement ou déshydratation.
+ridé: Marqué de rides, plissé.
+rider: Former des rides sur la peau.
+rifampicine: Antibiotique utilisé notamment contre la tuberculose.
+rigide: Raide, qui manque de souplesse.
+rigidité: Raideur, manque de souplesse.
+rigidité articulaire: Raideur d'une articulation limitant les mouvements.
+rigidité cadavérique: Raideur musculaire post-mortem, rigor mortis.
+rigidité musculaire: Augmentation excessive du tonus musculaire.
+rigidité nucale: Raideur douloureuse de la nuque, signe de méningite.
+rigor mortis: Rigidité cadavérique après la mort.
+rigueur: Frissonnement intense avec horripilation précédant la fièvre.
+rilpivirine: Médicament antirétroviral contre le VIH.
+rinçage: Action de rincer, lavage à l'eau claire.
+rince-bouche: Solution pour se rincer la bouche, bain de bouche.
+rincer: Nettoyer à l'eau claire après lavage.
+ringard: Obsolète, démodé.
+riposte: Réponse rapide, réaction immunitaire.
+riposte immunitaire: Réaction de défense du système immunitaire.
+risédronate: Médicament bisphosphonate contre l'ostéoporose.
+risibilité: Capacité à rire.
+risible: Qui prête à rire.
+rispéridone: Médicament antipsychotique neuroleptique.
+risque: Danger potentiel, probabilité d'événement néfaste.
+risque cardiovasculaire: Probabilité de développer une maladie cardiaque.
+risque hémorragique: Probabilité de saignement.
+risque infectieux: Probabilité de contracter une infection.
+risque nosocomial: Probabilité d'infection contractée à l'hôpital.
+risque opératoire: Dangers liés à une intervention chirurgicale.
+risque relatif: Rapport entre risques dans deux groupes comparés.
+risque thromboembolique: Probabilité de formation de caillots.
+risqué: Dangereux, comportant des risques.
+risquer: S'exposer à un danger.
+ritodrine: Médicament tocolytique inhibant les contractions utérines.
+rituel: Ensemble d'actes répétés selon des règles précises.
+rituel obsessionnel: Comportement répétitif compulsif.
+rituximab: Anticorps monoclonal utilisé en immunologie.
+rivaroxaban: Anticoagulant oral direct.
+rivastigmine: Médicament contre la maladie d'Alzheimer.
+rivotril: Nom commercial du clonazépam, antiépileptique.
+RMN: Résonance magnétique nucléaire, technique d'imagerie.
+RMO: Références médicales opposables, bonnes pratiques.
+RN: Route nationale.
+RNA: Acide ribonucléique, ARN en anglais.
+robe: Vêtement féminin, ou terme vétérinaire pour pelage.
+robinet: Dispositif de contrôle d'écoulement de liquide.
+robot: Machine automatisée programmable.
+robot chirurgical: Système robotisé assisté pour chirurgie de précision.
+robotique: Science des robots et de leur utilisation.
+robotique chirurgicale: Utilisation de robots en chirurgie.
+robuste: Fort, résistant, vigoureux.
+robustesse: Caractère robuste, solidité.
+rocéphine: Nom commercial de la ceftriaxone, antibiotique.
+roche: Pierre, matière minérale dure.
+rocher: Os temporal contenant l'oreille interne.
+rocheux: Relatif au rocher, partie de l'os temporal.
+rocuronium: Curare utilisé en anesthésie pour relaxation musculaire.
+rôdage: Période d'adaptation initiale.
+roder: Faire fonctionner progressivement en début d'utilisation.
+rôder: Errer sans but précis.
+rôdeur: Qui rôde de façon suspecte.
+rogne: Gale, ou colère.
+rognon: Rein d'animal de boucherie.
+rogner: Couper les bords, réduire.
+rognure: Fragment coupé sur les bords.
+roi: Souverain masculin d'un royaume.
+roide: Variante ancienne de raide.
+roideur: Variante ancienne de raideur.
+roidir: Variante ancienne de raidir.
+rôle: Fonction, mission attribuée.
+rôle propre: Actes infirmiers réalisés sans prescription médicale.
+rôle sur prescription: Actes infirmiers nécessitant une ordonnance.
+romarin: Plante aromatique aux propriétés digestives.
+rompre: Casser, briser.
+rompu: Cassé, brisé, ou très fatigué.
+ronce: Arbuste épineux.
+rond: De forme circulaire.
+rondelle: Pièce circulaire plate.
+rondeur: Forme arrondie, embonpoint.
+rondin: Morceau de bois cylindrique.
+rondo: Forme musicale.
+ronflement: Bruit respiratoire sonore pendant le sommeil.
+ronfler: Produire un ronflement en dormant.
+ronfleur: Qui ronfle habituellement.
+ronfleuse: Qui ronfle habituellement.
+ronger: User progressivement, ou tourmenter moralement.
+rongeur: Animal comme rat, souris, écureuil.
+ronron: Bruit émis par le chat satisfait.
+ronronnement: Action de ronronner.
+ronronner: Émettre un ronron.
+röntgen: Unité d'exposition aux rayons X.
+roséole: Éruption cutanée rosée de petites taches.
+roséole infantile: Exanthème subit du nourrisson, sixième maladie.
+rosette: Motif en forme de rose.
+rosir: Devenir rose, rougir légèrement.
+rosse: Méchant, malveillant.
+rossée: Correction violente, raclée.
+rosser: Frapper violemment.
+rossignol: Oiseau chanteur.
+rot: Éructation, renvoi gazeux par la bouche.
+rotacé: En forme de roue.
+rotateur: Muscle provoquant une rotation.
+rotatif: Qui tourne sur lui-même.
+rotation: Mouvement circulaire autour d'un axe.
+rotation externe: Mouvement tournant vers l'extérieur.
+rotation interne: Mouvement tournant vers l'intérieur.
+rotatoire: Relatif à la rotation, qui tourne.
+roter: Émettre un rot, éructer.
+rotifère: Petit invertébré aquatique.
+rôtir: Cuire à chaleur vive.
+rôtisserie: Commerce ou lieu de cuisson des viandes.
+rôtissoire: Appareil pour rôtir.
+rotule: Os plat triangulaire devant l'articulation du genou, patella.
+rotulien: Relatif à la rotule.
+roture: Condition de non-noble.
+roturier: Non noble, commun.
+rouage: Mécanisme d'engrenages.
+roue: Pièce circulaire tournant sur un axe.
+rouennerie: Étoffe imprimée.
+rouer: Frapper violemment.
+rouet: Ancien appareil à filer.
+rouge: Couleur du sang, ou fard.
+rougeaud: Qui a le visage rouge.
+rougeole: Maladie virale éruptive contagieuse de l'enfance.
+rougeoleux: Relatif à la rougeole ou qui en est atteint.
+rouget: Poisson de mer, ou érysipèle du porc.
+rougeur: Coloration rouge de la peau, érythème.
+rougir: Devenir rouge, notamment la peau.
+rouille: Oxydation du fer, ou champignon parasitaire.
+rouillé: Couvert de rouille, ou ankylosé.
+rouiller: Couvrir de rouille, ou perdre sa souplesse.
+rouir: Faire macérer des plantes textiles.
+roulade: Mouvement de rotation du corps.
+roulant: Qui roule, mobile.
+rouleau: Objet cylindrique servant à rouler.
+rouleau compresseur: Engin de compactage.
+roulement: Action de rouler, ou rotation.
+rouler: Avancer en tournant sur soi-même.
+roulette: Petite roue.
+rouleur: Qui roule beaucoup, notamment cycliste.
+rouleuse: Qui roule beaucoup.
+roulis: Mouvement de balancement latéral.
+roulotte: Maison mobile tractée.
+roumain: Relatif à la Roumanie.
+round: Reprise dans un combat de boxe.
+roupie: Monnaie indienne, ou familièrement morve.
+roupiller: Dormir, somnoler.
+roupillon: Petit somme.
+rouquin: Qui a les cheveux roux.
+rouquine: Qui a les cheveux roux.
+rouspétance: Protestation, récrimination.
+rouspéter: Protester, récriminer.
+rouspéteur: Qui rouspète habituellement.
+rouspéteuse: Qui rouspète habituellement.
+roussâtre: Tirant sur le roux.
+rousse: Féminin de roux.
+rousseur: Couleur rousse, ou tache de rousseur.
+roussi: Légèrement brûlé en surface.
+roussir: Brûler légèrement en surface.
+route: Voie de communication terrestre.
+router: Acheminer selon un itinéraire.
+routeur: Dispositif d'acheminement de données.
+routier: Relatif aux routes, ou conducteur de poids lourd.
+routine: Habitude, protocole établi.
+routine de soins: Protocole habituel de soins quotidiens.
+routinier: Qui suit la routine sans initiative.
+routinière: Qui suit la routine sans initiative.
+rouvrir: Ouvrir de nouveau.
+roux: De couleur orange-brun tirant sur le rouge.
+royal: Relatif au roi, magnifique.
+royalement: De façon royale, magnifiquement.
+royalisme: Attachement à la monarchie.
+royaliste: Partisan de la monarchie.
+royalties: Redevances versées pour l'usage d'un brevet.
+royaume: État gouverné par un roi.
+royauté: Dignité de roi, régime monarchique.
+RQTH: Reconnaissance de la qualité de travailleur handicapé.
+RU486: Mifépristone, pilule abortive.
+ruade: Coup de pied d'un équidé.
+ruban: Bande étroite de tissu.
+rubané: En forme de ruban.
+rubéfaction: Rougeur cutanée provoquée par irritation.
+rubéfiant: Qui provoque une rougeur cutanée.
+rubéole: Maladie virale éruptive bénigne sauf pendant la grossesse.
+rubéoleux: Relatif à la rubéole ou qui en est atteint.
+rubescent: Qui devient rouge.
+rubicond: Très rouge, notamment le visage.
+rubidium: Élément chimique alcalin.
+rubigine: Qui a la couleur de la rouille.
+rubigineux: De couleur rouille.
+rubis: Pierre précieuse rouge.
+rubrique: Catégorie, section.
+ruche: Habitation des abeilles.
+rucher: Ensemble de ruches.
+rude: Rugueux, difficile, sévère.
+rudement: De façon rude, fortement.
+rudesse: Caractère rude, dureté.
+rudiment: Élément de base, organe atrophié.
+rudimentaire: Élémentaire, peu développé.
+rudoiement: Action de rudoyer.
+rudoyer: Traiter durement, malmener.
+rue: Voie de circulation urbaine.
+ruelle: Petite rue étroite.
+ruer: Lancer les pieds en arrière, pour un équidé.
+rugby: Sport collectif de ballon ovale.
+rugbyman: Joueur de rugby.
+rugir: Pousser un rugissement.
+rugissement: Cri puissant du lion.
+rugosité: Caractère rugueux, aspérité.
+rugueux: Rude au toucher, irrégulier.
+ruine: Destruction, effondrement.
+ruiner: Détruire, causer la perte.
+ruineux: Qui cause la ruine, très coûteux.
+ruisseau: Petit cours d'eau.
+ruisselant: Qui ruisselle.
+ruisseler: Couler abondamment.
+ruissellement: Écoulement abondant d'eau.
+rumeur: Nouvelle non vérifiée se propageant.
+ruminant: Animal qui rumine, comme le bœuf.
+rumination: Action de ruminer, ou ressassement mental.
+ruminer: Remâcher les aliments, ou ressasser mentalement.
+rupestre: Relatif aux rochers.
+rupt
+
+ure: Cassure, brisure soudaine.
+rupture d'anévrisme: Déchirure de la paroi d'un anévrisme avec hémorragie.
+rupture de coiffe: Déchirure des tendons de l'épaule.
+rupture de la rate: Déchirure de la rate par traumatisme.
+rupture des eaux: Écoulement du liquide amniotique avant l'accouchement.
+rupture tendineuse: Déchirure complète d'un tendon.
+rupture utérine: Déchirure de l'utérus pendant l'accouchement.
+rural: Relatif à la campagne.
+ruse: Stratagème pour tromper.
+rusé: Qui fait preuve de ruse, malin.
+ruser: Employer la ruse.
+russe: Relatif à la Russie.
+rustaud: Grossier, peu raffiné.
+rusticité: Caractère rustique, robustesse.
+rustine: Pièce pour réparer une chambre à air.
+rustique: Simple, robuste, campagnard.
+rustre: Grossier personnage sans éducation.
+rut: Période d'activité sexuelle chez les animaux.
+rutabaga: Légume racine jaune de la famille du chou.
+ruthénium: Élément chimique métallique.
+rutilant: Brillant d'un vif éclat rouge.
+rutiler: Briller d'un éclat rouge.
+rythme: Retour régulier d'un phénomène.
+rythme cardiaque: Fréquence des battements du cœur.
+rythme circadien: Cycle biologique d'environ 24 heures.
+rythme respiratoire: Fréquence des mouvements respiratoires.
+rythme sinusal: Rythme cardiaque normal commandé par le nœud sinusal.
+rythmé: Qui a un rythme régulier.
+rythmer: Donner un rythme, cadencer.
+rythmicité: Caractère rythmique, régularité.
+rythmique: Relatif au rythme, régulier.
+SA: Semaine d'aménorrhée, unité de datation de la grossesse.
+sabbat: Repos hebdomadaire dans les religions juive et chrétienne.
+sabbatique: Relatif au sabbat, ou année de congé.
+sable: Roche sédimentaire meuble à grains fins.
+sabler: Couvrir de sable, ou boire rapidement.
+sableux: Qui contient du sable.
+sablier: Instrument mesurant le temps par écoulement de sable.
+sablière: Carrière de sable.
+sablon: Sable fin.
+sablonneux: Qui contient du sable.
+sabord: Ouverture dans la coque d'un navire.
+saborder: Couler volontairement un navire, ou ruiner.
+sabot: Ongle corné des ongulés, ou chaussure de bois.
+sabotage: Action de saboter, destruction.
+saboter: Détériorer volontairement, mal exécuter.
+saboteur: Qui sabote.
+saboteuse: Qui sabote.
+sabotier: Fabricant de sabots.
+sabotière: Fabricante de sabots.
+sabre: Arme blanche à lame courbe.
+sabrer: Frapper avec un sabre, ou bâcler.
+sabreur: Qui manie le sabre.
+sac: Contenant souple ouvert en haut.
+sac amniotique: Membrane contenant le liquide amniotique et le fœtus.
+sac conjonctival: Espace entre la conjonctive palpébrale et bulbaire.
+sac lacrymal: Réservoir collectant les larmes avant le canal lacrymal.
+sac vitellin: Annexe embryonnaire nutritive.
+saccade: Mouvement brusque et irrégulier.
+saccadé: Marqué de saccades, irrégulier.
+saccager: Dévaster, mettre à sac.
+saccharine: Édulcorant artificiel intense.
+saccharose: Sucre de table, disaccharide glucose-fructose.
+saccharose: Glucose + fructose, sucre ordinaire.
+sacciforme: En forme de sac.
+saccoché: Pourvu de sacoches.
+sacculaire: En forme de petit sac.
+saccule: Petit sac, notamment dans l'oreille interne.
+sacerdoce: Fonction de prêtre, ou mission dévouée.
+sacerdotal: Relatif au prêtre.
+sachet: Petit sac fermé.
+sacoche: Sac porté en bandoulière ou fixé.
+sacquer: Renvoyer brutalement, familier.
+sacral: Relatif au sacrum.
+sacralisation: Fusion de la dernière vertèbre lombaire au sacrum.
+sacralisé: Rendu sacré.
+sacraliser: Rendre sacré.
+sacré: Saint, religieux, ou relatif au sacrum.
+sacrement: Rite religieux.
+sacrer: Consacrer solennellement.
+sacrifice: Renoncement, privation.
+sacrificiel: Relatif au sacrifice.
+sacrifier: Renoncer à quelque chose.
+sacrilège: Profanation de ce qui est sacré.
+sacristain: Préposé à l'entretien d'une église.
+sacristie: Annexe d'église où sont gardés objets du culte.
+sacro-iliaque: Articulation entre sacrum et os iliaque.
+sacro-lombaire: Relatif au sacrum et aux lombes.
+sacrum: Os triangulaire formé par fusion de vertèbres sacrées.
+sadique: Qui éprouve du plaisir à faire souffrir.
+sadisme: Perversion trouvant du plaisir dans la souffrance d'autrui.
+sadomasochisme: Association de sadisme et masochisme.
+safari: Expédition de chasse ou d'observation en Afrique.
+safran: Épice et colorant jaune orangé.
+safrane: Coloré au safran.
+saga: Récit légendaire scandinave, ou histoire familiale.
+sagace: Perspicace, qui a du discernement.
+sagacité: Finesse d'esprit, perspicacité.
+sage: Raisonnable, modéré, ou personne de grande sagesse.
+sage-femme: Professionnel accompagnant la grossesse et l'accouchement.
+sagement: De façon sage et raisonnable.
+sagesse: Qualité de celui qui est sage, prudence.
+sagittal: Plan vertical médian divisant le corps en deux moitiés.
+saignant: Qui saigne, ou viande peu cuite.
+saignée: Incision pour faire couler le sang, ou phlébotomie.
+saignement: Écoulement de sang hors des vaisseaux.
+saignement de nez: Épistaxis, hémorragie nasale.
+saigner: Perdre du sang, avoir une hémorragie.
+saigneur: Qui pratique les saignées.
+saillie: Ce qui dépasse, proéminence.
+saillir: Faire saillie, dépasser.
+sain: En bonne santé, non malade.
+saindoux: Graisse de porc fondue.
+sainement: De façon saine.
+saisie: Action de saisir, ou confiscation.
+saisine: Action de saisir une juridiction.
+saisir: Prendre vivement, ou comprendre.
+saisissant: Qui saisit, impressionnant.
+saisissement: Émotion brutale et intense.
+saison: Division de l'année selon le climat.
+saisonnier: Relatif aux saisons, périodique.
+saisonnière: Relatif aux saisons, périodique.
+sal: Sel, notamment en chimie.
+salace: Licencieux, lubrique.
+salacité: Caractère salace, lubricité.
+salade: Plante potagère, ou mets froid.
+saladier: Récipient creux pour servir la salade.
+salage: Action de saler pour conserver.
+salaire: Rémunération d'un travail.
+salaison: Conservation par le sel, ou produit salé.
+salamandre: Amphibien urodèle.
+salami: Saucisson sec italien.
+salant: Qui produit du sel.
+salar
+
+iat: Ensemble des salariés.
+salarié: Qui reçoit un salaire pour son travail.
+salariée: Qui reçoit un salaire pour son travail.
+salarier: Rémunérer par un salaire.
+salaud: Individu méprisable, injure.
+sale: Malpropre, souillé.
+salé: Qui contient du sel, ou grivois.
+salement: De façon sale, ou très.
+saler: Assaisonner de sel, ou conserver au sel.
+saleté: Caractère de ce qui est sale, ou ordure.
+saleur: Ouvrier préparant les salaisons.
+saleuse: Ouvrière préparant les salaisons.
+salicorne: Plante des marais salés comestible.
+salicylate: Sel de l'acide salicylique.
+salicylé: Contenant de l'acide salicylique.
+salicylique: Acide utilisé comme antiseptique et kératolytique.
+salière: Petit récipient pour le sel de table.
+salifère: Qui contient du sel.
+salification: Formation d'un sel chimique.
+salifier: Transformer en sel.
+salin: Qui contient du sel.
+saline: Marais salant, ou solution saline.
+salinité: Teneur en sel dissous.
+salir: Rendre sale, souiller.
+salissant: Qui salit facilement.
+salissure: Tache, souillure.
+salivaire: Relatif à la salive.
+salivant: Qui stimule la sécrétion de salive.
+salivation: Sécrétion de salive.
+salive: Liquide sécrété par les glandes salivaires.
+saliver: Sécréter de la salive.
+salle: Pièce d'un bâtiment.
+salle blanche: Environnement à contamination maîtrisée.
+salle d'accouchement: Pièce équipée pour les accouchements.
+salle d'attente: Lieu où les patients attendent leur consultation.
+salle d'opération: Bloc opératoire stérile pour interventions chirurgicales.
+salle de garde: Local de repos pour le personnel de garde.
+salle de réveil: Service de surveillance post-anesthésique immédiate.
+salle de soins: Pièce dédiée aux actes de soins.
+salle de travail: Pièce où la parturiente passe le travail d'accouchement.
+salmis: Ragoût de gibier.
+salmonelle: Bactérie causant salmonellose et fièvre typhoïde.
