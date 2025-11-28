@@ -54,6 +54,42 @@ def run():
 Thread(target=run).start()
 
 # ----------------------------------------
+# CONFIGURATION DU SALON DE LOGS
+# ----------------------------------------
+LOG_CHANNEL_ID = 1443209968865116271  # Remplace par l'ID réel du salon #bot-logs
+
+async def send_log_embed(title, description, color=discord.Color.blue()):
+    channel = bot.get_channel(LOG_CHANNEL_ID)
+    if channel:
+        embed = discord.Embed(title=title, description=description, color=discord.Color.pink())
+        await channel.send(embed=embed)
+        
+# Arrivée d’un membre
+@bot.event
+async def on_member_join(member):
+    await send_embed(f"🛬 {member} a rejoint le serveur !")
+# Départ d’un membre
+@bot.event
+async def on_member_remove(member):
+    await send_embed(f"🛫 {member} a quitté le serveur.")
+
+# Exclusion d’un membre
+@bot.event
+async def on_member_ban(guild, user):
+    await send_embed(f"⛔ {user} a été banni du serveur {guild.name}.")
+
+# Changement de pseudo
+@bot.event
+async def on_member_update(before, after):
+    if before.display_name != after.display_name:
+        await send_embed(f"✏️ {before} a changé de pseudo → {after.display_name}")
+
+
+# ----------------------------------------
+# FIN CONFIGURATION DU SALON DE LOGS
+# ----------------------------------------
+
+# ----------------------------------------
 # HELP PERSONNALISE EN FRANCAIS (!aide)
 # ----------------------------------------
 # Commande !aide entièrement personnalisée 3 catégories avec backticks
