@@ -3490,3 +3490,555 @@ régiment: Unité militaire.
 région: Zone géographique ou anatomique.
 région abdominale: Zone spécifique de l'abdomen.
 région anatomique: Territoire défini du corps.
+remise: Action de remettre, ou local de rangement.
+remise en état: Restauration des fonctions normales.
+remise en forme: Programme visant à améliorer la condition physique.
+rémission: Diminution ou disparition temporaire des symptômes d'une maladie.
+rémittent: Se dit d'une fièvre qui diminue sans disparaître complètement.
+remobilisation: Reprise progressive de la mobilité.
+remobiliser: Remettre en mouvement, mobiliser de nouveau.
+remodeler: Modifier la forme, notamment en chirurgie.
+remodelage: Modification de la forme d'un tissu ou organe.
+remodelage osseux: Renouvellement permanent du tissu osseux.
+remontant: Qui redonne des forces, tonifiant.
+remontée: Mouvement vers le haut, retour.
+remontée acide: Sensation de brûlure par reflux gastrique.
+remonter: Aller vers le haut, ou redonner du courage.
+remords: Sentiment douloureux après une faute.
+remorquage: Action de remorquer.
+remorque: Véhicule tracté.
+remorquer: Tirer un véhicule.
+remorqueur: Véhicule servant à remorquer.
+rémoulade: Sauce mayonnaise relevée.
+rémouleur: Artisan affûtant les outils.
+remous: Mouvement tourbillonnaire de l'eau ou de l'air.
+rempaillage: Action de rempailler.
+rempailler: Refaire le siège d'une chaise.
+rempailleur: Artisan qui rempaille.
+rempart: Fortification, protection.
+remplaçable: Qui peut être remplacé.
+remplaçant: Personne qui remplace temporairement.
+remplaçante: Personne qui remplace temporairement.
+remplacement: Action de remplacer, substitution.
+remplacer: Mettre à la place de, substituer.
+rempli: Plein, comblé.
+remplir: Rendre plein, compléter.
+remplissage: Action de remplir.
+remploi: Nouvelle utilisation.
+remployer: Employer de nouveau.
+remplumer: Reprendre du poids et des forces.
+rempocher: Remettre dans sa poche.
+rempoissonnement: Introduction de poissons dans un cours d'eau.
+rempoissonner: Introduire des poissons.
+remporter: Obtenir, gagner.
+rempoter: Changer de pot une plante.
+remprunter: Emprunter de nouveau.
+remuant: Qui bouge beaucoup, agité.
+remue-ménage: Agitation, dérangement.
+remue-méninges: Séance de réflexion collective, brainstorming.
+remuement: Action de remuer.
+remuer: Bouger, déplacer.
+rémunérateur: Qui rémunère bien, profitable.
+rémunération: Paiement pour un travail, salaire.
+rémunérer: Payer pour un travail.
+renâcler: Montrer de la répugnance, rechigner.
+renaissance: Nouvelle naissance, renouveau.
+renaissant: Qui renaît.
+renaître: Naître de nouveau, reprendre vie.
+rénal: Relatif aux reins.
+renard: Animal carnivore, ou personne rusée.
+renardeau: Jeune renard.
+renardière: Terrier de renard.
+renâtre: Naître de nouveau.
+rencaisser: Encaisser de nouveau.
+rencard: Rendez-vous, information.
+rencarder: Donner rendez-vous ou information.
+renchéri: Devenu plus cher.
+renchérir: Devenir plus cher, ou surpasser.
+renchérissement: Augmentation du prix.
+rencogner: Pousser dans un coin.
+rencontre: Action de rencontrer, entrevue.
+rencontrer: Trouver sur son chemin, voir.
+rendement: Production, efficacité.
+rendez-vous: Rencontre fixée à l'avance.
+rendez-vous médical: Consultation planifiée avec un professionnel de santé.
+rendormir: Endormir de nouveau.
+rendre: Restituer, ou faire devenir.
+rendu: Restitué, ou arrivé.
+rêne: Courroie pour diriger un cheval.
+renégat: Qui a renié sa foi ou ses principes.
+renégociation: Nouvelle négociation.
+renégocier: Négocier de nouveau.
+rénette: Variété de pomme.
+renfermé: Qui contient à l'intérieur, ou replié sur soi.
+renfermer: Contenir, enfermer.
+renflement: Partie renflée, gonflement.
+renflouer: Remettre à flot financièrement.
+renflouage: Action de renflouer.
+renfoncement: Partie en retrait, creux.
+renfoncer: Enfoncer davantage.
+renforçateur: Qui renforce.
+renforcement: Action de renforcer, consolidation.
+renforcer: Rendre plus fort, consolider.
+renfort: Aide supplémentaire, soutien.
+renfrogné: Qui manifeste du mécontentement par son air.
+renfrogner: Manifester du mécontentement.
+rengagé: Qui s'est engagé de nouveau.
+rengagement: Nouvel engagement.
+rengager: Engager de nouveau.
+rengaine: Refrain répétitif, propos ressassé.
+rengainer: Remettre dans le fourreau.
+rengorger: Prendre un air avantageux.
+reniement: Action de renier, désaveu.
+renier: Désavouer, rejeter.
+reniflard: Orifice de ventilation.
+reniflement: Action de renifler.
+renifler: Aspirer bruyamment par le nez.
+renifleur: Qui renifle.
+renifleuse: Qui renifle.
+renne: Cervidé des régions arctiques.
+renom: Réputation, notoriété.
+renommé: Célèbre, réputé.
+renommée: Réputation, célébrité.
+renommer: Nommer de nouveau.
+renoncement: Action de renoncer, sacrifice.
+renoncer: Abandonner volontairement, se priver.
+renonciation: Action de renoncer officiellement.
+renoncule: Plante à fleurs jaunes.
+renouer: Nouer de nouveau, reprendre.
+renouveau: Renaissance, régénération.
+renouvelable: Qui peut être renouvelé.
+renouveler: Remplacer par du neuf, recommencer.
+renouvellement: Action de renouveler.
+rénovateur: Qui rénove, restaure.
+rénovation: Action de rénover, remise à neuf.
+rénover: Remettre à neuf, restaurer.
+renseignement: Information communiquée.
+renseigner: Fournir des informations.
+rentabilisation: Action de rendre rentable.
+rentabiliser: Rendre rentable.
+rentabilité: Capacité à produire un bénéfice.
+rentable: Qui produit un bénéfice.
+rente: Revenu périodique.
+rentier: Personne vivant de ses rentes.
+rentière: Personne vivant de ses rentes.
+rentoiler: Remplacer la toile d'un tableau.
+rentraire: Raccommoder à l'aiguille.
+rentrant: Qui rentre, angle rentrant.
+rentré: Qui est revenu, ou contenu.
+rentrée: Retour, reprise d'activité.
+rentrée scolaire: Reprise des cours après vacances.
+rentrer: Entrer de nouveau, revenir.
+renversant: Stupéfiant, extraordinaire.
+renverse: Action de renverser, à la renverse.
+renversé: Mis sens dessus dessous, stupéfait.
+renversement: Action de renverser, inversion.
+renverser: Mettre à l'envers, faire tomber.
+renvoi: Action de renvoyer, ou éructation.
+renvoyer: Faire retourner, congédier.
+réoccupation: Nouvelle occupation.
+réoccuper: Occuper de nouveau.
+réopération: Nouvelle intervention chirurgicale.
+réopérer: Opérer chirurgicalement de nouveau.
+réorganisation: Nouvelle organisation.
+réorganiser: Organiser de nouveau.
+réorientation: Changement d'orientation.
+réorienter: Orienter différemment.
+réouverture: Action de rouvrir.
+rouvrir: Ouvrir de nouveau.
+repaire: Refuge, lieu de retraite.
+repaître: Nourrir, rassasier.
+répandre: Étendre, diffuser largement.
+répandu: Étendu, très fréquent.
+réparable: Qui peut être réparé.
+réparateur: Qui répare, restaurant.
+réparation: Action de réparer, remise en état.
+réparation tissulaire: Processus de cicatrisation d'un tissu lésé.
+réparer: Remettre en état, corriger.
+reparler: Parler de nouveau.
+repartager: Partager de nouveau.
+repartie: Réponse vive et spirituelle.
+repartir: Partir de nouveau, ou répartir.
+répartir: Distribuer, partager.
+répartiteur: Qui répartit.
+répartition: Action de répartir, distribution.
+repas: Nourriture prise à heure fixe.
+repassage: Action de repasser le linge.
+repasser: Passer de nouveau, ou défroisser.
+repasseuse: Femme qui repasse le linge, ou machine.
+repavage: Action de repaver.
+repaver: Paver de nouveau.
+repayer: Payer de nouveau.
+repêchage: Action de repêcher.
+repêcher: Retirer de l'eau, ou rattraper.
+repeindre: Peindre de nouveau.
+repenser: Penser de nouveau, réfléchir encore.
+repentance: Regret d'avoir mal agi.
+repentant: Qui se repent.
+repenti: Qui regrette ses fautes.
+repentir: Regret d'une faute, remords.
+repérable: Qui peut être repéré.
+repérage: Action de repérer, localisation.
+répercussion: Conséquence indirecte d'un événement.
+répercuter: Avoir des conséquences indirectes.
+reperdre: Perdre de nouveau.
+repère: Point de référence, marque.
+repérer: Localiser, identifier.
+répertoire: Liste classée, catalogue.
+répertorier: Classer dans un répertoire.
+répéter: Dire ou faire de nouveau, redire.
+répéteur: Appareil amplifiant un signal.
+répétiteur: Enseignant donnant des leçons particulières.
+répétitif: Qui se répète de façon monotone.
+répétition: Action de répéter, redite.
+répétitivité: Caractère répétitif.
+repeupler: Peupler de nouveau.
+repeuplement: Action de repeupler.
+repiquage: Action de repiquer.
+repiquer: Planter de nouveau.
+répit: Interruption momentanée, pause.
+repiquer: Piquer de nouveau.
+replacement: Action de replacer.
+replacer: Placer de nouveau.
+replanter: Planter de nouveau.
+replantation: Action de replanter.
+replâtrage: Réparation sommaire.
+replâtrer: Réparer sommairement.
+replet: Grassouillet, bien en chair.
+réplétion: État de satiété complète.
+repli: Action de replier, ou retraite.
+repliement: Action de replier.
+replier: Plier de nouveau, ou se retirer.
+réplique: Réponse vive, ou copie.
+répliquer: Répondre vivement.
+replonger: Plonger de nouveau.
+repolir: Polir de nouveau.
+repolissage: Action de repolir.
+répondant: Qui répond, garant.
+répondeur: Appareil enregistrant les messages.
+répondre: Faire une réponse, répliquer.
+réponse: Ce qu'on dit ou écrit en retour.
+réponse immunitaire: Réaction du système immunitaire à un antigène.
+réponse inflammatoire: Réaction de défense locale à une agression.
+repopulation: Nouvelle augmentation de la population.
+report: Action de reporter, renvoi.
+reportage: Enquête journalistique sur le terrain.
+reporter: Renvoyer à plus tard, ou journaliste.
+repos: Cessation d'activité, détente.
+repos au lit: Alitement prescrit pour raison médicale.
+reposant: Qui procure du repos.
+reposé: Qui a pris du repos, délassé.
+reposer: Mettre de nouveau, ou se détendre.
+reposoir: Autel provisoire lors de procession.
+repoussage: Technique de travail du métal.
+repoussant: Qui repousse, répugnant.
+repousser: Pousser en arrière, ou croître de nouveau.
+repoussoir: Ce qui met en valeur par contraste.
+répréhensible: Qui mérite d'être blâmé.
+répréhension: Blâme, reproche.
+reprendre: Prendre de nouveau, ou recommencer.
+repreneur: Qui reprend une entreprise.
+représailles: Actes de vengeance en réponse.
+représentant: Personne agissant au nom d'une autre.
+représentatif: Qui représente, typique.
+représentation: Action de représenter, image mentale.
+représenter: Tenir la place de, figurer.
+répressif: Qui réprime, punitif.
+répression: Action de réprimer, punition.
+réprimande: Blâme, remontrance.
+réprimander: Faire des reproches sévères.
+réprimer: Empêcher de se manifester, punir.
+repris: Pris de nouveau, ou raccommodé.
+repris de justice: Personne déjà condamnée.
+reprise: Action de reprendre, nouvelle tentative.
+reprise d'activité: Retour au travail après arrêt.
+repriser: Raccommoder en refaisant les mailles.
+réprobateur: Qui désapprouve fortement.
+réprobation: Désapprobation sévère.
+reproche: Blâme adressé à quelqu'un.
+reprocher: Faire des reproches, blâmer.
+reproducteur: Qui sert à la reproduction.
+reproductible: Qui peut être reproduit.
+reproductif: Relatif à la reproduction.
+reproduction: Action de reproduire, procréation.
+reproduction assistée: Techniques médicales aidant à la procréation.
+reproduire: Produire de nouveau, ou procréer.
+reprogrammation: Nouvelle programmation.
+reprogrammer: Programmer de nouveau.
+reprographie: Technique de reproduction de documents.
+reprographier: Reproduire par reprographie.
+réprouvé: Condamné, rejeté.
+réprouver: Condamner, désapprouver.
+reps: Tissu d'ameublement côtelé.
+reptation: Mode de déplacement en rampant.
+reptile: Animal vertébré rampant ou marchant.
+reptilien: Relatif aux reptiles, ou cerveau primitif.
+repu: Rassasié, qui a bien mangé.
+républicain: Relatif à la république.
+républicanisme: Attachement au régime républicain.
+république: Forme de gouvernement où le pouvoir n'est pas héréditaire.
+répudiation: Action de répudier, rejet.
+répudier: Rejeter, renier.
+répugnance: Dégoût, aversion.
+répugnant: Qui inspire le dégoût.
+répugner: Inspirer du dégoût, répugner.
+répulsif: Qui repousse, repoussant.
+répulsion: Dégoût profond, aversion.
+réputation: Opinion générale sur quelqu'un.
+réputé: Qui a une bonne réputation, célèbre.
+réputer: Considérer comme, estimer.
+requérant: Qui fait une demande officielle.
+requérante: Qui fait une demande officielle.
+requérir: Demander avec autorité, réclamer.
+requête: Demande instante, pétition.
+requiem: Messe pour les morts.
+requin: Poisson cartilagineux marin carnivore.
+requis: Nécessaire, exigé.
+réquisition: Demande autoritaire de biens ou services.
+réquisitionner: S'approprier par autorité.
+réquisitoire: Acte d'accusation du ministère public.
+rescapé: Survivant d'un accident ou catastrophe.
+rescapée: Survivante d'un accident ou catastrophe.
+rescinder: Annuler un acte juridique.
+rescision: Annulation d'un acte juridique.
+rescousse: Secours, aide.
+rescrit: Décision écrite d'une autorité.
+réseau: Ensemble de lignes ou personnes interconnectées.
+réseau de soins: Organisation coordonnée de professionnels de santé.
+réseau sanguin: Ensemble des vaisseaux sanguins.
+réseau veineux: Ensemble des veines d'une région.
+réséquer: Enlever chirurgicalement une partie d'organe.
+résection: Ablation chirurgicale d'une partie d'organe ou tissu.
+résection intestinale: Ablation d'un segment d'intestin.
+résection tumorale: Exérèse chirurgicale d'une tumeur.
+réséda: Plante à fleurs odorantes.
+réservataire: Qui a droit à une réserve héréditaire.
+réservation: Action de réserver.
+réserve: Ce qui est mis de côté, prudence ou restriction.
+réserve ovarienne: Nombre d'ovocytes disponibles dans les ovaires.
+réservé: Mis de côté, ou discret.
+réserver: Mettre de côté, retenir.
+réserviste: Militaire de la réserve.
+réservoir: Contenant pour stocker un liquide.
+réservoir vésical: Capacité de stockage de la vessie.
+résidanat: Formation médicale spécialisée après l'internat.
+résidence: Lieu où l'on réside habituellement.
+résidence médicalisée: Établissement avec personnel médical permanent.
+résident: Qui réside habituellement en un lieu.
+résidente: Qui réside habituellement en un lieu.
+résidentiel: Relatif à la résidence.
+résider: Avoir sa demeure habituelle.
+résidu: Reste, ce qui subsiste.
+résidu post-mictionnel: Urine restant dans la vessie après miction.
+résiduel: Qui subsiste comme résidu.
+résignation: Acceptation passive d'une situation pénible.
+résigné: Qui accepte passivement son sort.
+résigner: Accepter avec résignation.
+résiliable: Qui peut être résilié.
+résilience: Capacité à surmonter les traumatismes et rebondir.
+résilient: Qui fait preuve de résilience.
+résiliation: Annulation d'un contrat.
+résilier: Annuler un contrat.
+résille: Filet à mailles fines.
+résine: Substance visqueuse végétale ou synthétique.
+résiner: Enduire de résine.
+résineux: Arbre produisant de la résine.
+résinifère: Qui produit de la résine.
+résipiscence: Reconnaissance de sa faute, repentir.
+résistance: Opposition à une force, ou capacité à supporter.
+résistance aux antibiotiques: Capacité bactérienne à survivre malgré antibiotiques.
+résistance immunitaire: Capacité du système immunitaire à combattre infections.
+résistant: Qui résiste, solide.
+résister: S'opposer, supporter.
+résistivité: Résistance électrique spécifique d'un matériau.
+résolu: Déterminé, décidé.
+résoluble: Qui peut être résolu ou annulé.
+résolument: De façon résolue, fermement.
+résolution: Décision ferme, ou solution d'un problème.
+résolutoire: Qui entraîne résolution d'un contrat.
+résonance: Phénomène d'amplification par vibration.
+résonance magnétique: Technique d'imagerie médicale par IRM.
+résonateur: Dispositif amplifiant par résonance.
+résonner: Produire un son prolongé par résonance.
+résorber: Faire disparaître progressivement.
+résorbable: Qui peut être résorbé par l'organisme.
+résorption: Disparition progressive par absorption.
+résorption osseuse: Destruction du tissu osseux.
+résoudre: Trouver la solution, ou décider.
+respect: Considération, égard envers quelqu'un.
+respectabilité: Caractère respectable.
+respectable: Digne de respect.
+respecter: Avoir du respect pour, observer.
+respectif: Qui concerne chacun en particulier.
+respectivement: Chacun en ce qui le concerne.
+respectueux: Qui témoigne du respect.
+respectueuse: Qui témoigne du respect.
+respirable: Qui peut être respiré.
+respirateur: Appareil assistant ou remplaçant la respiration.
+respiration: Fonction d'absorption d'oxygène et rejet de CO2.
+respiration artificielle: Ventilation mécanique des poumons.
+respiration cellulaire: Processus de production d'énergie dans les cellules.
+respiratoire: Relatif à la respiration.
+respirer: Absorber de l'air et le rejeter, ou vivre.
+resplendir: Briller d'un vif éclat.
+resplendissant: Qui resplendit, éclatant.
+resplendissement: Éclat brillant.
+responsabilisation: Action de rendre responsable.
+responsabiliser: Rendre responsable.
+responsabilité: Obligation de répondre de ses actes.
+responsabilité médicale: Obligation du médecin de répondre de ses actes.
+responsable: Qui doit répondre de ses actes.
+resquille: Action de frauder pour éviter de payer.
+resquiller: Frauder pour éviter de payer.
+resquilleur: Qui resquille.
+resquilleuse: Qui resquille.
+ressac: Retour violent des vagues.
+ressaisir: Saisir de nouveau.
+ressasser: Répéter sans cesse, ruminer.
+ressaut: Saillie, changement brusque de niveau.
+ressauter: Sauter de nouveau.
+ressayer: Essayer de nouveau.
+ressemblance: Caractère de ce qui se ressemble.
+ressemblant: Qui ressemble, similaire.
+ressembler: Avoir des traits communs avec.
+ressemelage: Action de ressemeler.
+ressemeler: Refaire la semelle d'une chaussure.
+ressentiment: Rancune tenace.
+ressentir: Éprouver une sensation ou sentiment.
+resserrement: Action de resserrer, rétrécissement.
+resserrer: Serrer davantage, rétrécir.
+resservir: Servir de nouveau.
+ressort: Pièce élastique, ou compétence juridique.
+ressortir: Sortir de nouveau, ou dépendre de.
+ressortissant: Qui relève d'une juridiction ou nationalité.
+ressortissante: Qui relève d'une juridiction ou nationalité.
+ressouder: Souder de nouveau.
+ressource: Moyen dont on dispose.
+ressourcer: Retrouver de l'énergie.
+ressouvenir: Souvenir vague, réminiscence.
+ressusciter: Revenir à la vie, ou faire revivre.
+ressuyage: Action de ressuyer.
+ressuyer: Sécher superficiellement.
+restant: Qui reste, résidu.
+restaurant: Établissement où l'on sert des repas.
+restaurateur: Qui restaure, ou exploitant de restaurant.
+restauration: Action de restaurer, réparation.
+restaurer: Remettre en bon état, ou nourrir.
+reste: Ce qui subsiste, résidu.
+rester: Demeurer, continuer d'être.
+restituable: Qui peut ou doit être restitué.
+restituer: Rendre ce qu'on a reçu.
+restitution: Action de restituer.
+restreindre: Limiter, réduire.
+restreint: Limité, réduit.
+restrictif: Qui restreint, limite.
+restriction: Limitation, réduction.
+restriction hydrique: Limitation des apports en eau.
+restructuration: Nouvelle organisation.
+restructurer: Organiser de nouveau.
+resucée: Répétition, redite.
+résultante: Force résultant de plusieurs forces.
+résultat: Conséquence, effet produit.
+résultat d'analyse: Donnée fournie par un examen biologique.
+résultat positif: Présence de ce qui est recherché dans un test.
+résulter: Être la conséquence de.
+résumé: Exposé abrégé de l'essentiel.
+résumer: Présenter en abrégé.
+résurgence: Réapparition, retour.
+résurgent: Qui réapparaît.
+résurrection: Retour de la mort à la vie.
+rétable: Panneau décoratif derrière un autel.
+rétablir: Remettre en bon état, guérir.
+rétablissement: Action de rétablir, guérison.
+rétablissement fonctionnel: Récupération des capacités après maladie.
+retaille: Chute, déchet de découpe.
+retailler: Tailler de nouveau.
+rétamer: Étamer de nouveau.
+retaper: Remettre en état, réparer.
+retard: Fait d'arriver après l'heure prévue.
+retard de croissance: Développement insuffisant par rapport à l'âge.
+retard mental: Déficience intellectuelle, terme ancien.
+retard psychomoteur: Développement plus lent des acquisitions motrices et mentales.
+retardataire: Qui est en retard.
+retardateur: Qui retarde.
+retardement: Action de retarder.
+retarder: Arriver après l'heure, ou différer.
+retâter: Tâter de nouveau.
+reteindre: Teindre de nouveau.
+retendre: Tendre de nouveau.
+retenir: Garder, maintenir.
+rétention: Action de retenir, conservation.
+rétention d'eau: Accumulation excessive d'eau dans les tissus.
+rétention urinaire: Impossibilité d'évacuer l'urine de la vessie.
+retentir: Résonner fortement.
+retentissant: Qui retentit, ou sensationnel.
+retentissement: Effet, conséquence.
+retentissement cardiaque: Répercussion d'une maladie sur le cœur.
+retenue: Action de retenir, ou modération.
+réticence: Hésitation à dire ou faire.
+réticent: Qui manifeste de la réticence.
+réticul: Relatif à un réseau.
+réticulaire: En forme de réseau.
+réticule: Petit sac, ou réseau de fils dans un instrument.
+réticulum: Réseau, notamment endoplasmique dans les cellules.
+rétif: Qui résiste obstinément, rebelle.
+rétine: Membrane sensible à la lumière au fond de l'œil.
+rétinien: Relatif à la rétine.
+rétinite: Inflammation de la rétine.
+rétinoblastome: Tumeur maligne de la rétine chez l'enfant.
+rétinoïde: Dérivé de la vitamine A utilisé en dermatologie.
+rétinol: Vitamine A, essentielle à la vision.
+rétinopathie: Maladie de la rétine.
+rétinopathie diabétique: Atteinte rétinienne due au diabète.
+retirage: Nouveau tirage.
+retiré: Éloigné, isolé.
+retirer: Enlever, ôter.
+retombée: Conséquence, répercussion.
+retomber: Tomber de nouveau.
+retordage: Action de retordre.
+retordre: Tordre de nouveau.
+rétorquer: Répondre en retournant un argument.
+retors: Tordu, ou rusé.
+retorsion: Mesure de représailles.
+retouche: Correction, amélioration.
+retoucher: Corriger, améliorer.
+retoucheur: Qui retouche.
+retoucheuse: Qui retouche.
+retour: Action de revenir.
+retour veineux: Circulation du sang des veines vers le cœur.
+retournement: Action de retourner, changement.
+retourner: Tourner dans l'autre sens, revenir.
+retracer: Tracer de nouveau, raconter.
+rétractable: Qui peut se rétracter.
+rétractation: Action de se rétracter, désaveu.
+rétracter: Retirer ce qu'on a dit, ou raccourcir.
+rétractile: Qui peut se rétracter.
+rétractilité: Capacité à se rétracter.
+rétraction: Raccourcissement, diminution de volume.
+rétraction cicatricielle: Raccourcissement d'une cicatrice tirant les tissus.
+retrait: Action de retirer, ou rétrécissement.
+retraite: Cessation d'activité professionnelle, ou recul.
+retraité: Qui a pris sa retraite.
+retraitée: Qui a pris sa retraite.
+retraitement: Nouveau traitement.
+retraiter: Traiter de nouveau.
+retranchement: Action de retrancher.
+retrancher: Enlever, supprimer.
+retranscription: Action de transcrire de nouveau.
+retranscrire: Transcrire de nouveau.
+retransmettre: Transmettre de nouveau.
+retransmission: Nouvelle transmission.
+retravailler: Travailler de nouveau.
+rétrécir: Devenir plus étroit.
+rétrécissement: Diminution du calibre d'un conduit.
+rétrécissement aortique: Diminution du diamètre de la valve aortique.
+rétrécissement mitral: Diminution de l'orifice de la valve mitrale.
+retremper: Tremper de nouveau.
+rétribuer: Payer pour un travail, rémunérer.
+rétribution: Paiement, salaire.
+rétro: Qui évoque le passé, ancien style.
+rétroaction: Action en retour, feedback.
+rétroactif: Qui agit sur le passé.
+rétroactivité: Caractère rétroactif.
+rétrocéder: Céder en retour.
+rétrocession: Action de rétrocéder.
