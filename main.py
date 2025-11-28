@@ -2,7 +2,9 @@
 # IMPORTS ET CONFIGURATION
 # ----------------------------------------
 # Pour accéder aux variables d'environnement
-import os                           
+import os   
+
+from datetime import datetime, timezone, timedelta
 
 # Bibliothèque Discord
 import discord    
@@ -64,43 +66,41 @@ async def send_log_embed(title, description, color=discord.Color.pink()):
         embed = discord.Embed(title=title, description=description, color=discord.Color.pink())
         await channel.send(embed=embed)
         
-# Liste pour garder les bans récents
+recent_kicks = set()
 recent_bans = set()
 
 # Arrivée d’un membre
 @bot.event
 async def on_member_join(member):
-    await send_log_embed("**Arrivée**", f"🛬 **{member}** a rejoint le serveur !")
+    await send_log_embed("**Arrivée**", f"🛬 **{member}** a rejoint le serveur !", color=discord.Color.pink())
 
 # Départ d’un membre (volontaire ou kick)
 @bot.event
 async def on_member_remove(member):
     guild = member.guild
-    # Cherche dans les 5 dernières actions d'expulsion
+
+    # Vérifie si le membre a été kické récemment
     async for entry in guild.audit_logs(limit=5, action=discord.AuditLogAction.kick):
         if entry.target.id == member.id:
-            await send_log_embed("**Expulsion**", f"⚠️ **{member}** a été expulsé par {entry.user}.")
+            if member.id not in recent_kicks:
+                recent_kicks.add(member.id)
+                await send_log_embed("**Expulsion**", f"⚠️ **{member}** a été expulsé par {entry.user}.", color=discord.Color.pink())
             return
-    # Si pas trouvé, c'est un départ volontaire
-    await send_log_embed("**Départ**", f"🛫 **{member}** a quitté le serveur volontairement.")
 
-# Exclusion d’un membre (ban)
+    # Si pas trouvé dans les kicks, départ volontaire
+    await send_log_embed("**Départ**", f"🛫 **{member}** a quitté le serveur volontairement.", color=discord.Color.pink())
+
+# Bannissement d’un membre
 @bot.event
 async def on_member_ban(guild, user):
-    # Cherche la dernière action de ban pour ce membre
-    entry = await guild.audit_logs(limit=1, action=discord.AuditLogAction.ban).flatten()
-    if entry:
-        entry = entry[0]
-        await send_log_embed("**Bannissement**", f"⛔ **{user}** a été banni du serveur par {entry.user}")
-    else:
-        # Cas improbable mais on peut le gérer
-        await send_log_embed("**Bannissement**", f"⛔ **{user}** a été banni du serveur")
-
-# Changement de pseudo
-@bot.event
-async def on_member_update(before, after):
-    if before.display_name != after.display_name:
-        await send_log_embed("**Pseudo **", f"✏️ {before.display_name} a changé son pseudo en : {after.display_name}")
+    if user.id not in recent_bans:
+        recent_bans.add(user.id)
+        async for entry in guild.audit_logs(limit=5, action=discord.AuditLogAction.ban):
+            if entry.target.id == user.id:
+                await send_log_embed("**Bannissement**", f"⛔ **{user}** a été banni par {entry.user}.", color=discord.Color.pink())
+                return
+        # Fallback si pas trouvé
+        await send_log_embed("**Bannissement**", f"⛔ **{user}** a été banni du serveur.", color=discord.Color.pink())
 
 # Connexion / déconnexion des bots
 @bot.event
