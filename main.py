@@ -37,7 +37,7 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 bot.remove_command("help")
 
 # ----------------------------------------
-# RÉACTIONS AUX MESSAGES ET BLOQUER PREFIXE "/"
+# INTERCEPTION DES MESSAGES
 # ----------------------------------------
 @bot.event
 async def on_message(message):
@@ -51,7 +51,7 @@ async def on_message(message):
     # Bloquer les messages commençant par "/"
     if content.startswith("/"):
         await message.channel.send("❌ Les commandes avec ce préfixe sont désactivées.")
-        return  # On stop ici, pas besoin d'appeler process_commands
+        return  # Stop ici, pas besoin de process_commands
 
     # Ajouter des réactions automatiques
     if "sensidynies" in content_lower:
@@ -61,6 +61,24 @@ async def on_message(message):
 
     # Traiter les commandes classiques (préfixe "!")
     await bot.process_commands(message)
+
+
+# ----------------------------------------
+# INTERCEPTION DES SLASH COMMANDS
+# ----------------------------------------
+@bot.event
+async def on_interaction(interaction: discord.Interaction):
+    # Vérifier que c'est une commande slash
+    if interaction.type == discord.InteractionType.application_command:
+        # Liste des commandes slash à bloquer
+        blocked_commands = ["wordle"]  # ajouter d'autres si nécessaire
+
+        if interaction.data["name"].lower() in blocked_commands:
+            await interaction.response.send_message(
+                "❌ Cette commande est désactivée sur ce serveur.",
+                ephemeral=True  # message visible uniquement par l'utilisateur
+            )
+            return
     
 # ----------------------------------------
 # STATUT DU BOT AU LANCEMENT + Task de reconnexion
@@ -203,6 +221,34 @@ async def on_member_update(before, after):
             color=discord.Color.pink(),
             channels=[LOG_CHANNEL_ID]
         )
+ # Rôles suivis par ID
+    tracked_role_ids = {
+        1443251290418315294: "Référent",
+        1443250798187253800: "Modérateur",
+        1443251737803751484: "Administrateur"
+    }
+    before_roles = set(role.id for role in before.roles)
+    after_roles = set(role.id for role in after.roles)
+    # Rôles ajoutés
+    added_roles = after_roles - before_roles
+    for role_id in added_roles:
+        if role_id in tracked_role_ids:
+            await send_embed_to_channels(
+                title="**Changement de rôle**",
+                description=f"✅ {after.mention} a reçu le rôle **{tracked_role_ids[role_id]}**",
+                color=discord.Color.green(),
+                channels=[LOG_CHANNEL_ID]
+            )
+    # Rôles retirés
+    removed_roles = before_roles - after_roles
+    for role_id in removed_roles:
+        if role_id in tracked_role_ids:
+            await send_embed_to_channels(
+                title="**Changement de rôle**",
+                description=f"⚠️ {after.mention} a perdu le rôle **{tracked_role_ids[role_id]}**",
+                color=discord.Color.red(),
+                channels=[LOG_CHANNEL_ID]
+            )
 # ----------------------------------------
 # CHARGEMENT FICHIERS DES COMMANDES
 # ----------------------------------------
