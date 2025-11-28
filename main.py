@@ -72,6 +72,14 @@ async def on_ready():
         status=discord.Status.online
     )
     print("Statut du bot défini avec succès !")
+    
+    # Log dans le salon
+    await send_embed_to_channels(
+        title="Bot connecté",
+        description=f"{bot.user} est maintenant en ligne",
+        color=discord.Color.pink(),
+        channels=[LOG_CHANNEL_ID]
+    )
 
 # ----------------------------------------
 # CONFIGURATION DES SALON DE LOGS
@@ -184,28 +192,6 @@ async def on_member_update(before, after):
             color=discord.Color.pink(),
             channels=[LOG_CHANNEL_ID]
         )
-
-# ----------------------------------------
-# EVENT : Changement de présence (bot)
-# ----------------------------------------
-@bot.event
-async def on_presence_update(before, after):
-    if after.bot and before.status != after.status:
-        if str(after.status) == "online":
-            await send_embed_to_channels(
-                title="Bot connecté",
-                description=f"{after} est maintenant en ligne",
-                color=discord.Color.pink(),
-                channels=[LOG_CHANNEL_ID]
-            )
-        elif str(after.status) == "offline":
-            await send_embed_to_channels(
-                title="Bot déconnecté",
-                description=f"{after} est maintenant hors ligne",
-                color=discord.Color.pink(),
-                channels=[LOG_CHANNEL_ID]
-            )
-
 # ----------------------------------------
 # CHARGEMENT FICHIERS DES COMMANDES
 # ----------------------------------------
