@@ -64,25 +64,43 @@ async def send_log_embed(title, description, color=discord.Color.pink()):
         embed = discord.Embed(title=title, description=description, color=discord.Color.pink())
         await channel.send(embed=embed)
         
+# Liste pour garder les bans récents
+recent_bans = set()
+
 # Arrivée d’un membre
 @bot.event
 async def on_member_join(member):
-    await send_log_embed("**Arrivée **", f"🛬 **{str(member)}** a rejoint le serveur !")
-# Départ d’un membre
+    await send_log_embed("**Arrivée**", f"🛬 **{member}** a rejoint le serveur !")
+
+# Départ d’un membre (volontaire ou kick)
 @bot.event
 async def on_member_remove(member):
-    await send_log_embed("**Départ **", f"🛫 **{str(member)}** a quitté le serveur.")
+    guild = member.guild
+    # Cherche dans les 5 dernières actions d'expulsion
+    async for entry in guild.audit_logs(limit=5, action=discord.AuditLogAction.kick):
+        if entry.target.id == member.id:
+            await send_log_embed("**Expulsion**", f"⚠️ **{member}** a été expulsé par {entry.user}.")
+            return
+    # Si pas trouvé, c'est un départ volontaire
+    await send_log_embed("**Départ**", f"🛫 **{member}** a quitté le serveur volontairement.")
 
-# Exclusion d’un membre
+# Exclusion d’un membre (ban)
 @bot.event
 async def on_member_ban(guild, user):
-    await send_log_embed("**Exclusion **", f"⛔ **{str(user)}** a été banni du serveur.")
+    # Cherche la dernière action de ban pour ce membre
+    entry = await guild.audit_logs(limit=1, action=discord.AuditLogAction.ban).flatten()
+    if entry:
+        entry = entry[0]
+        await send_log_embed("**Bannissement**", f"⛔ **{user}** a été banni du serveur par {entry.user}")
+    else:
+        # Cas improbable mais on peut le gérer
+        await send_log_embed("**Bannissement**", f"⛔ **{user}** a été banni du serveur")
 
 # Changement de pseudo
 @bot.event
 async def on_member_update(before, after):
     if before.display_name != after.display_name:
-        await send_log_embed("**Pseudo **", f"✏️ {before.display_name} → {after.display_name}")
+        await send_log_embed("**Pseudo **", f"✏️ {before.display_name} a changé son pseudo en : {after.display_name}")
 
 # Connexion / déconnexion des bots
 @bot.event
