@@ -448,10 +448,10 @@ async def effacer(ctx, amount: int):
         await ctx.send(f"💊 **Posologie :** Messages effacés x{amount} ! Le canal est maintenant totalement indemne, aucun antidouleur requis!", delete_after=30)
 
     # --- AJOUT DU LOG ---
-    await send_log_embed(
-        title="**!effacer **",
-        description=f"⚠️ {ctx.author} a effacé {amount} messages dans #{ctx.channel.name}",
-        color=discord.Color.pink()
+        await send_log_embed(
+            title="**!effacer **",
+            description=f"⚠️ {ctx.author} a effacé {amount} messages dans #{ctx.channel.name}",
+            color=discord.Color.pink()
 
 # FIN - Suppression des messages
 
