@@ -67,16 +67,16 @@ async def send_log_embed(title, description, color=discord.Color.pink()):
 # Arrivée d’un membre
 @bot.event
 async def on_member_join(member):
-    await send_log_embed("**Arrivée **", f"🛬 {member} a rejoint le serveur !")
+    await send_log_embed("**Arrivée **", f"🛬 **{str(member)}** a rejoint le serveur !")
 # Départ d’un membre
 @bot.event
 async def on_member_remove(member):
-    await send_log_embed("**Départ **", f"🛫 {member} a quitté le serveur.")
+    await send_log_embed("**Départ **", f"🛫 **{str(member)}** a quitté le serveur.")
 
 # Exclusion d’un membre
 @bot.event
 async def on_member_ban(guild, user):
-    await send_log_embed("**Exclusion **", f"⛔ {user} a été banni du serveur {guild.name}.")
+    await send_log_embed("**Exclusion **", f"⛔ **{str(user)}** a été banni du serveur.")
 
 # Changement de pseudo
 @bot.event
