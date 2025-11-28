@@ -426,11 +426,11 @@ async def on_command_error(ctx, error):
 # ----------------------------------------
 if __name__ == "__main__": 
 
-    # Récupère le token depuis Render (Environment Variable)
-    token = os.getenv("DISCORD_BOT_TOKEN")  # <--- nom exact utilisé sur Render
+# Récupérer le token depuis Render
+TOKEN = os.environ.get("DISCORD_BOT_TOKEN")
 
-    if not token:
-        print("Erreur : DISCORD_BOT_TOKEN introuvable dans les variables d'environnement.")
-        print("Veuillez définir votre jeton Discord bot comme variable d'environnement.")
-    else:
-        bot.run(TOKEN)
+if not TOKEN:
+    print("Erreur : DISCORD_BOT_TOKEN introuvable dans les variables d'environnement.")
+    print("Veuillez définir votre jeton Discord bot comme variable d'environnement.")
+else:
+    bot.run(TOKEN)
