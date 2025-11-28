@@ -197,7 +197,7 @@ async def on_ready():
     await bot.change_presence(
         activity=discord.Activity(
             type=discord.ActivityType.watching,
-            name="pour les commandes !ping"
+            name="!aide pour les commandes."
         ),
         status=discord.Status.online
     )
