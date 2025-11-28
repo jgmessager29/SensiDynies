@@ -36,7 +36,7 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 bot.remove_command("help")
 
 # ----------------------------------------
-# Bloquer le préfixe "!"
+# Bloquer le préfixe "/"
 # ----------------------------------------
 @bot.check
 async def block_prefix(ctx):
@@ -45,25 +45,6 @@ async def block_prefix(ctx):
         return False  # Bloque l'exécution
     return True
     
-# ----------------------------------------
-# MINI SERVEUR FLASK POUR RENDER
-# ----------------------------------------
-app = Flask('')
-
-@app.route('/')
-def home():
-    return "SensiDynies en ligne !"
-
-@app.route('/healthz')
-def health():
-    return "OK"
-
-def run():
-    app.run(host="0.0.0.0", port=10000)
-
-# Thread Flask en daemon pour ne pas bloquer le bot
-Thread(target=run, daemon=True).start()
-
 # ----------------------------------------
 # STATUT DU BOT AU LANCEMENT
 # ----------------------------------------
@@ -504,6 +485,28 @@ async def on_command_error(ctx, error):
         await ctx.send("Vous n'avez pas l'autorisation d'utiliser cette commande.")
     else:
         await ctx.send(f"Une erreur s'est produite: {str(error)}")
+        
+# ----------------------------------------
+# FLASK POUR RENDER
+# ----------------------------------------
+import os
+
+app = Flask("SensiDynies")
+
+@app.route("/")
+def home():
+    return "SensiDynies en ligne !"
+
+@app.route("/healthz")
+def health():
+    return "OK"
+
+def run_flask():
+    PORT = int(os.environ.get("PORT", 10000))  # Render fournit dynamiquement le port
+    app.run(host="0.0.0.0", port=PORT)
+
+# Lancer Flask dans un thread daemon
+Thread(target=run_flask, daemon=True).start()
 
 # ----------------------------------------
 # LANCEMENT DU BOT
