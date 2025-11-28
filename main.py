@@ -84,6 +84,7 @@ async def on_ready():
 # CONFIGURATION DU SALON DE LOGS
 # ----------------------------------------
 LOG_CHANNEL_ID = 1443209968865116271
+IN_CHANNEL_ID = 1440448854347616290
 
 # ----------------------------------------
 # FONCTION D'ENVOI D'EMBED LOGS
@@ -103,15 +104,34 @@ recent_bans = set()
 
 @bot.event
 async def on_member_join(member):
-    # Salon de log
+    # ---- LOGS ----
     log_channel = member.guild.get_channel(LOG_CHANNEL_ID)
     if log_channel:
-        embed = discord.Embed(
+        embed_log = discord.Embed(
             title="Arrivée",
             description=f"🛬 {member.mention} a rejoint le serveur !",
             color=discord.Color.pink()
         )
-        await log_channel.send(embed=embed)
+        await log_channel.send(embed=embed_log)
+
+    # ---- SALON DE BIENVENUE ----
+    welcome_channel = member.guild.get_channel(IN_CHANNEL_ID)
+    if welcome_channel:
+        member_number = len(member.guild.members)
+        await welcome_channel.send(f"{member.mention}")
+
+        embed_welcome = discord.Embed(
+            title=f"🌿 Bienvenue {member.display_name} 🌿",
+            description=(
+                f"**Tu es le {member_number}ème membre à rejoindre le serveur !**\n\n"
+                "Ici, tu trouveras un espace sûr pour échanger et partager.\n\n"
+            ),
+            color=discord.Color.pink()
+        )
+        embed_welcome.set_footer(
+            text="Bot SensiDynies et Discord créés par Joguy, CEO Trisked : https://www.trisked.fr"
+        )
+        await welcome_channel.send(embed=embed_welcome)
         
 @bot.event
 async def on_member_remove(member):
