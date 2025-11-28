@@ -44,18 +44,17 @@ async def on_message(message):
     if message.author == bot.user:
         return
 
-    # Bloquer tous les messages qui commencent par "/"
+    # Bloquer "/"
     if message.content.startswith("/"):
-        await message.channel.send("❌ Les commandes avec ce préfixe sont désactivées pour le moment.")
-        return  # Stop l'exécution ici
+        await message.channel.send("❌ Les commandes avec ce préfixe sont désactivées.")
+    else:
+        # Reactions automatiques seulement si pas "/"
+        if "sensidynies" in message.content.lower():
+            await message.add_reaction("🛸")
+        if "fibromyalgie" in message.content.lower():
+            await message.add_reaction("🫂")
 
-    # Reactions automatiques (exemple)
-    if "sensidynies" in message.content.lower():
-        await message.add_reaction("🛸")
-    if "fibromyalgie" in message.content.lower():
-        await message.add_reaction("🫂")
-
-    # Traiter les commandes normales
+    # Toujours traiter les commandes
     await bot.process_commands(message)
 
 # ----------------------------------------
