@@ -4536,3 +4536,515 @@ salle de soins: Pièce dédiée aux actes de soins.
 salle de travail: Pièce où la parturiente passe le travail d'accouchement.
 salmis: Ragoût de gibier.
 salmonelle: Bactérie causant salmonellose et fièvre typhoïde.
+salmonellose: Infection digestive à salmonelle causant diarrhée et fièvre.
+salpingectomie: Ablation chirurgicale d'une trompe de Fallope.
+salpingite: Inflammation d'une trompe de Fallope, souvent infectieuse.
+salpingographie: Radiographie des trompes de Fallope avec produit de contraste.
+salpingo-ovarite: Inflammation simultanée des trompes et des ovaires.
+salpingoplastie: Chirurgie réparatrice d'une trompe de Fallope.
+salpingostomie: Ouverture chirurgicale d'une trompe de Fallope.
+salpinx: Trompe de Fallope, conduit reliant ovaire et utérus.
+salsepareille: Plante médicinale dépurative.
+salubre: Favorable à la santé, sain.
+salubrité: Caractère de ce qui est salubre.
+salubrité publique: Ensemble des mesures d'hygiène collective.
+saluer: Faire un geste de politesse ou respect.
+salutaire: Qui est bon pour la santé, bénéfique.
+salutation: Action de saluer.
+salut: Geste de politesse, ou préservation d'un danger.
+salve: Décharge simultanée, ou série rapide.
+samarium: Élément chimique des terres rares.
+samu: Service d'aide médicale urgente, urgences préhospitalières.
+samurien: Relatif au SAMU.
+sanatorium: Établissement de soins pour maladies chroniques, notamment tuberculose.
+sanctification: Action de sanctifier, rendre saint.
+sanctifier: Rendre saint, consacrer.
+sanction: Punition, mesure répressive.
+sanctionner: Infliger une sanction, ou approuver.
+sanctuaire: Lieu saint, ou refuge protégé.
+sandale: Chaussure légère ouverte.
+sandalette: Petite sandale.
+sandre: Poisson d'eau douce.
+sandwich: Aliment entre deux tranches de pain.
+sang: Liquide rouge circulant dans les vaisseaux transportant oxygène et nutriments.
+sang artériel: Sang oxygéné rouge vif circulant dans les artères.
+sang occulte: Sang non visible à l'œil nu dans les selles.
+sang veineux: Sang désoxygéné rouge sombre dans les veines.
+sang-froid: Maîtrise de soi, calme.
+sanglant: Taché de sang, ou cruel.
+sangle: Bande pour serrer ou attacher.
+sangler: Serrer avec une sangle.
+sanglier: Porc sauvage.
+sanglot: Spasme respiratoire convulsif lors de pleurs.
+sangloter: Pleurer avec des sanglots.
+sangsue: Ver aquatique hématophage utilisé autrefois en médecine.
+sanguin: Relatif au sang, ou tempérament vif.
+sanguinaire: Cruel, qui verse le sang.
+sanguine: Dessin rouge, ou orange sanguine.
+sanguinolent: Taché ou mêlé de sang.
+sanie: Pus liquide fétide d'une plaie infectée.
+sanieux: Qui contient de la sanie.
+sanitaire: Relatif à la santé publique et à l'hygiène.
+santé: État de complet bien-être physique, mental et social.
+santé mentale: État de bien-être psychologique et émotionnel.
+santé publique: Discipline visant à protéger et améliorer la santé des populations.
+santon: Figurine de crèche provençale.
+saoul: Ivre, variant de soûl.
+saouler: Enivrer, variant de soûler.
+sape: Action de miner, ou habits familièrement.
+saper: Miner, détruire progressivement.
+sapeur: Soldat du génie, ou pompier.
+saphène: Veine superficielle de la jambe.
+sapide: Qui a de la saveur.
+sapidité: Qualité de ce qui a de la saveur.
+sapin: Arbre résineux à feuilles persistantes.
+sapinière: Forêt de sapins.
+saponacé: Qui a les propriétés du savon.
+saponaire: Plante contenant de la saponine.
+saponification: Transformation en savon.
+saponifier: Transformer en savon.
+saponine: Glucoside végétal moussant comme du savon.
+sapotille: Fruit tropical comestible.
+sarbacane: Tube pour lancer des projectiles par le souffle.
+sarcasme: Moquerie blessante, ironie mordante.
+sarcastique: Qui contient du sarcasme.
+sarcelle: Petit canard sauvage.
+sarcine: Bactérie en groupe de quatre.
+sarclage: Action d'enlever les mauvaises herbes.
+sarcler: Enlever les mauvaises herbes.
+sarcloir: Outil pour sarcler.
+sarcocèle: Tumeur du testicule.
+sarcoïdose: Maladie inflammatoire multi-systémique avec granulomes.
+sarcolemme: Membrane plasmique de la cellule musculaire.
+sarcomateux: Relatif au sarcome, de nature sarcomateuse.
+sarcome: Tumeur maligne du tissu conjonctif ou des os.
+sarcophage: Cercueil de pierre.
+sarcopte: Acarien parasite responsable de la gale.
+sarcoptes scabiei: Agent de la gale humaine.
+sarcoptose: Infestation par le sarcopte, gale.
+sarde: Relatif à la Sardaigne.
+sardine: Petit poisson de mer comestible.
+sardinerie: Conserverie de sardines.
+sardinier: Pêcheur ou bateau de pêche à la sardine.
+sardonique: Qui exprime une moquerie amère, rire sardonique.
+sari: Vêtement traditionnel indien féminin.
+sarigue: Petit marsupial américain, opossum.
+sarment: Rameau ligneux de la vigne.
+sarrasin: Céréale sans gluten, blé noir.
+sarrau: Blouse de protection ample.
+sarriette: Plante aromatique condimentaire.
+sas: Espace de transition entre deux milieux.
+sas de décontamination: Zone de passage pour éliminer contaminants.
+sas d'entrée: Zone tampon avant accès à espace stérile.
+satané: Maudit, détestable.
+satanique: Relatif à Satan, diabolique.
+satanisme: Culte de Satan.
+satellite: Corps céleste en orbite, ou structure dépendante.
+satiété: État de pleine satisfaction alimentaire.
+satin: Tissu brillant et lisse.
+satiné: Qui a l'aspect du satin.
+satiner: Donner l'aspect du satin.
+satire: Critique moqueuse.
+satirique: Qui relève de la satire.
+satiriser: Faire la satire de.
+satisfaction: Contentement, plaisir.
+satisfaire: Contenter, combler un besoin.
+satisfaisant: Qui satisfait, acceptable.
+satisfait: Content, comblé.
+satisfecit: Attestation de satisfaction.
+saturation: État de ce qui est saturé, remplissage maximal.
+saturation en oxygène: Pourcentage d'hémoglobine oxygénée dans le sang.
+saturé: Rempli au maximum, ou acide gras sans double liaison.
+saturer: Remplir complètement jusqu'à la limite.
+saturne: Planète, ou plomb en alchimie.
+saturnien: Relatif à Saturne.
+saturnin: Relatif au plomb, ou sombre.
+saturnisme: Intoxication chronique par le plomb.
+satyre: Être mythologique, ou individu lubrique.
+satyriasis: Hypersexualité masculine pathologique.
+sauce: Liquide assaisonnant un mets.
+saucer: Tremper dans la sauce.
+saucière: Récipient pour servir la sauce.
+saucisse: Préparation de viande hachée en boyau.
+saucisson: Grosse saucisse séchée ou cuite.
+sauf: Excepté, à moins que.
+sauf-conduit: Autorisation de passage.
+sauge: Plante aromatique aux propriétés médicinales.
+saugrenu: Absurde, ridicule.
+saulaie: Lieu planté de saules.
+saule: Arbre des lieux humides dont l'écorce contient salicylates.
+saumâtre: Légèrement salé, ou désagréable.
+saumon: Poisson migrateur à chair rose.
+saumoneau: Jeune saumon.
+saumoné: De couleur rose comme le saumon.
+saumonette: Petite roussette, requin comestible.
+saumure: Eau fortement salée pour conservation.
+saumurer: Conserver dans la saumure.
+sauna: Bain de vapeur sèche à haute température.
+saupoudrage: Action de saupoudrer.
+saupoudrer: Répandre une poudre en fine couche.
+saupoudreuse: Récipient pour saupoudrer.
+saur: Fumé et séché, hareng saur.
+saurien: Reptile du sous-ordre des lézards.
+saurin: Hareng saur.
+saut: Action de sauter, bond.
+saute: Changement brusque.
+saute d'humeur: Changement brusque d'état émotionnel.
+sauté: Cuit rapidement à feu vif.
+saute-mouton: Jeu où l'on saute par-dessus quelqu'un.
+sauter: S'élever par détente musculaire.
+sauterelle: Insecte orthoptère sauteur.
+sauterie: Petite fête dansante.
+sauteur: Qui saute, athlète spécialisé.
+sauteuse: Qui saute, ou casserole.
+sautillement: Petits sauts répétés.
+sautiller: Faire de petits sauts.
+sautoir: Chaîne portée autour du cou.
+sauvage: Non domestiqué, qui vit dans la nature.
+sauvagerie: Caractère sauvage, cruauté.
+sauvageonne: Fille ou jeune femme sauvage.
+sauvagesse: Femme de peuple autochtone.
+sauvegarde: Protection, mesure de sécurité.
+sauvegarder: Protéger, préserver.
+sauve-qui-peut: Fuite désordonnée.
+sauver: Tirer d'un danger, préserver la vie.
+sauvetage: Action de sauver quelqu'un en danger.
+sauveteur: Personne qui sauve quelqu'un.
+sauveur: Qui sauve.
+savamment: De façon savante, avec savoir.
+savane: Prairie tropicale.
+savant: Qui a beaucoup de connaissances, érudit.
+savate: Vieille chaussure, ou sport de boxe française.
+saveur: Sensation gustative perçue par le goût.
+savoir: Ensemble de connaissances, ou verbe connaître.
+savoir-faire: Compétence pratique, habileté.
+savoir-vivre: Connaissance des règles de politesse.
+savon: Produit de nettoyage obtenu par saponification.
+savonnage: Action de savonner, lavage au savon.
+savonner: Nettoyer avec du savon.
+savonnerie: Fabrique de savon.
+savonnette: Petit pain de savon parfumé.
+savonneux: Qui contient du savon, ou glissant.
+savourer: Goûter avec plaisir, apprécier.
+savoureux: Qui a une saveur agréable, délicieux.
+savoyard: Relatif à la Savoie.
+saxhorn: Instrument de musique à vent.
+saxophone: Instrument de musique à vent en cuivre.
+saxophoniste: Musicien jouant du saxophone.
+saynète: Courte pièce comique.
+sbire: Agent de police brutal, homme de main.
+scabieuse: Plante herbacée, ou relatif à la gale.
+scabieux: Relatif à la gale, galeux.
+scabreux: Choquant, inconvenant, ou difficile.
+scalène: Muscle du cou, ou triangle aux côtés inégaux.
+scalp: Cuir chevelu détaché, ou action de scalper.
+scalpel: Petit couteau chirurgical à lame fine et tranchante.
+scalper: Enlever le cuir chevelu.
+scanner: Appareil d'imagerie par tomodensitométrie, ou examiner.
+scanographie: Examen d'imagerie par scanner, tomodensitométrie.
+scaphoïde: Os du carpe en forme de barque.
+scapula: Omoplate, os plat triangulaire du dos.
+scapulaire: Relatif à l'omoplate.
+scapulo-huméral: Relatif à l'omoplate et à l'humérus.
+scarification: Incision superficielle multiple de la peau.
+scarifier: Pratiquer des scarifications.
+scarlatine: Maladie infectieuse éruptive due au streptocoque.
+scarlatin
+
+iforme: Qui ressemble à la scarlatine.
+scatologie: Étude des excréments, ou propos obscènes.
+scatologique: Relatif aux excréments.
+scatophage: Qui se nourrit d'excréments.
+sceau: Cachet officiel, ou plante médicinale.
+scélérat: Criminel, malfaiteur.
+scélératesse: Acte criminel, méchanceté.
+sceller: Fermer hermétiquement, ou fixer solidement.
+scellés: Cachet officiel apposé sur une fermeture.
+scellement: Action de sceller, fixation.
+scénario: Plan détaillé d'un film, ou déroulement prévu.
+scénariste: Auteur de scénarios.
+scène: Lieu d'action théâtrale, ou événement.
+scénique: Relatif à la scène théâtrale.
+scénographie: Art de l'aménagement scénique.
+scénographe: Concepteur de décors de scène.
+scepticisme: Attitude de doute systématique.
+sceptique: Qui doute, qui ne croit pas facilement.
+sceptre: Bâton de commandement royal.
+schéma: Représentation simplifiée, dessin.
+schéma corporel: Représentation mentale de son propre corps.
+schématique: Simplifié, réduit à l'essentiel.
+schématiquement: De façon schématique.
+schématisation: Action de schématiser.
+schématiser: Réduire à un schéma simple.
+schème: Structure mentale organisatrice.
+scherzo: Mouvement musical vif et léger.
+schilling: Ancienne monnaie autrichienne.
+schisme: Séparation, division.
+schiste: Roche sédimentaire feuilletée.
+schistosomiase: Maladie parasitaire tropicale par vers plats.
+schistosome: Ver parasite causant la schistosomiase.
+schizogonie: Mode de reproduction de certains parasites.
+schizomycète: Ancienne appellation des bactéries.
+schizophrénie: Psychose chronique avec dissociation mentale.
+schizophrène: Atteint de schizophrénie.
+schizophrénique: Relatif à la schizophrénie.
+schlass: Ivre, familier.
+schlitte: Traîneau des Vosges.
+schmilblick: Objet fictif, ou solution.
+schnaps: Eau-de-vie forte.
+schnock: Vieux, péjoratif familier.
+schnouffe: Drogue, familier.
+schooner: Voilier à deux mâts.
+schuss: Descente à ski en ligne droite.
+sciage: Action de scier.
+sciatalgique: Relatif à la sciatique ou qui en souffre.
+sciatique: Nerf le plus long du corps, ou douleur le long de ce nerf.
+scie: Outil à lame dentée pour couper.
+sciemment: En toute connaissance de cause.
+science: Ensemble organisé de connaissances.
+science infirmière: Discipline scientifique des soins infirmiers.
+sciences médicales: Ensemble des disciplines scientifiques liées à la médecine.
+scientificité: Caractère scientifique.
+scientifique: Relatif à la science, ou personne pratiquant la science.
+scientifiquement: De façon scientifique.
+scientisme: Confiance excessive en la science.
+scientiste: Partisan du scientisme.
+scier: Couper avec une scie.
+scierie: Usine où l'on scie le bois.
+scieur: Qui scie professionnellement.
+scieuse: Qui scie professionnellement.
+scinder: Diviser, séparer.
+scindement: Action de scinder, division.
+scintigraphie: Examen d'imagerie par détection de rayonnements émis.
+scintigraphique: Relatif à la scintigraphie.
+scintigramme: Image obtenue par scintigraphie.
+scintillement: Éclat intermittent de lumière.
+scintiller: Briller par éclats intermittents.
+scintillomètre: Appareil détectant les rayonnements radioactifs.
+scion: Jeune pousse, ou descendant.
+sciotte: Petite scie.
+sciure: Poudre produite par le sciage du bois.
+scléral: Relatif à la sclérotique de l'œil.
+sclère: Sclérotique, membrane blanche de l'œil.
+sclérodermie: Maladie auto-immune durcissant la peau.
+sclérogène: Qui provoque une sclérose.
+scléromètre: Appareil mesurant la dureté.
+sclérosant: Qui provoque une sclérose.
+sclérose: Durcissement pathologique d'un tissu ou organe.
+sclérose en plaques: Maladie neurologique démyélinisante chronique.
+sclérose latérale amyotrophique: Maladie neurodégénérative motrice, SLA.
+sclérosé: Atteint de sclérose, durci.
+scléroser: Provoquer une sclérose, durcir.
+sclérothérapie: Traitement par injection sclérosante.
+sclérotique: Membrane externe blanche du globe oculaire.
+scolaire: Relatif à l'école.
+scolarisation: Action de scolariser.
+scolariser: Mettre à l'école, instruire.
+scolarité: Durée des études, fréquentation scolaire.
+scolastique: Relatif à l'enseignement médiéval.
+scoliose: Déviation latérale de la colonne vertébrale.
+scoliotique: Atteint de scoliose.
+scolopendre: Mille-pattes venimeux.
+scoop: Information exclusive.
+scooter: Véhicule à deux roues motorisé.
+scorbut: Maladie par carence en vitamine C.
+scorbutique: Relatif au scorbut ou qui en est atteint.
+score: Résultat chiffré, notation.
+score d'Apgar: Évaluation de l'état du nouveau-né à la naissance.
+score de Glasgow: Échelle d'évaluation de la conscience.
+scorie: Déchet de fusion métallurgique, ou résidu.
+scorpion: Arthropode à queue venimeuse.
+scotch: Ruban adhésif, ou whisky écossais.
+scotome: Zone de perte du champ visuel.
+scotomisation: Mécanisme psychique d'occultation.
+scout: Éclaireur, ou mouvement de jeunesse.
+scoutisme: Mouvement éducatif scout.
+scrabble: Jeu de lettres sur grille.
+scratch: Surface auto-agrippante, ou départ en course.
+scratcher: Abandonner une course.
+screener: Dépister, examiner systématiquement.
+screening: Dépistage systématique d'une maladie.
+scribe: Copiste de l'Antiquité.
+scribouillard: Employé de bureau, péjoratif.
+script: Écriture cursive simple, ou scénario.
+scripteur: Qui écrit.
+scripte: Assistant notant les prises au cinéma.
+scripteur: Personne qui écrit.
+scrofulaire: Plante médicinale.
+scrofule: Adénopathie tuberculeuse cervicale, écrouelles.
+scrofuleux: Atteint de scrofules.
+scrotal: Relatif au scrotum.
+scrotum: Enveloppe cutanée contenant les testicules.
+scrupule: Hésitation morale, ou ancienne unité de masse.
+scrupuleusement: Avec scrupule, minutieusement.
+scrupuleux: Qui a des scrupules, méticuleux.
+scrutateur: Qui scrute attentivement.
+scruter: Examiner attentivement.
+scrutin: Vote, élection.
+sculptage: Action de sculpter.
+sculpter: Tailler une matière pour créer une forme.
+sculpteur: Artiste qui sculpte.
+sculptrice: Artiste qui sculpte.
+sculptural: Relatif à la sculpture.
+sculpture: Art de sculpter, ou œuvre sculptée.
+scybale: Matière fécale dure et desséchée.
+SDC: Soins de courte durée.
+SDF: Sans domicile fixe, personne sans logement.
+se: Pronom réfléchi de la troisième personne.
+séance: Durée consacrée à une activité.
+séance de rééducation: Session de kinésithérapie ou réadaptation.
+séant: Postérieur, fesses, ou convenable.
+seau: Récipient cylindrique avec anse.
+sébacé: Relatif au sébum.
+sébile: Petite coupe pour mendier.
+séborrhée: Sécrétion excessive de sébum.
+séborrhéique: Relatif à la séborrhée.
+sébum: Substance grasse sécrétée par les glandes sébacées.
+sec: Sans humidité, desséché.
+sécable: Qui peut être coupé ou divisé.
+sécant: Qui coupe, qui divise.
+sécateur: Outil de coupe à deux lames.
+sécession: Séparation politique.
+sécessionniste: Partisan de la sécession.
+séchage: Action de sécher.
+sèche: Cigarette, familier, ou seiche.
+séché: Dont l'humidité a été enlevée.
+sèchement: De façon sèche, durement.
+sécher: Rendre sec, enlever l'humidité.
+sécheresse: Absence d'humidité, aridité.
+sécheresse cutanée: Peau déshydratée manquant de sébum.
+sécheresse oculaire: Manque de larmes, kératoconjonctivite sèche.
+sécheur: Appareil pour sécher.
+sécheuse: Appareil pour sécher.
+séchoir: Lieu ou appareil pour faire sécher.
+second: Qui vient après le premier, deuxième.
+secondaire: Qui vient en second, accessoire.
+seconde: Unité de temps, ou deuxième.
+seconder: Aider, assister.
+secondipare: Femme accouchant pour la deuxième fois.
+secondiparité: État de secondipare.
+secouement: Action de secouer.
+secouer: Agiter vivement.
+secourable: Qui aide volontiers.
+secourir: Porter secours, aider.
+secourisme: Ensemble des techniques de premiers secours.
+secouriste: Personne formée aux gestes de premiers secours.
+secours: Aide apportée à personne en danger.
+secousse: Mouvement brusque et violent.
+secret: Qui n'est pas divulgué, caché.
+secret médical: Obligation de confidentialité du médecin.
+secret professionnel: Obligation de ne pas divulguer les informations confidentielles.
+secrétage: Sécrétion, production de substance.
+secrétaire: Employé chargé du travail administratif.
+secrétariat: Service administratif, ou fonction de secrétaire.
+secrétariat médical: Service gérant les aspects administratifs médicaux.
+secrète: Féminin de secret.
+secrètement: De façon secrète, en cachette.
+secréter: Produire et libérer une substance.
+sécrétion: Substance produite et libérée par une cellule ou glande.
+sécrétion gastrique: Production de suc gastrique par l'estomac.
+sécrétion hormonale: Production d'hormones par une glande endocrine.
+sécrétion lactée: Production de lait par les glandes mammaires.
+sécrétoire: Qui sécrète, relatif à la sécrétion.
+sectaire: Intolérant, dogmatique.
+sectarisme: Intolérance, fanatisme.
+sectateur: Partisan d'une doctrine.
+secte: Groupe religieux dissident.
+secteur: Partie d'un ensemble, zone d'activité.
+secteur privé: Établissements de santé privés.
+secteur public: Établissements de santé publics.
+secteur sanitaire: Zone géographique de planification sanitaire.
+section: Division, partie, ou action de couper.
+sectionnement: Action de sectionner.
+sectionner: Couper, diviser en sections.
+sectoriel: Relatif à un secteur spécifique.
+sectorisation: Division en secteurs.
+sectoriser: Diviser en secteurs.
+sécu: Abréviation familière de sécurité sociale.
+séculaire: Qui dure depuis des siècles.
+séculier: Laïc, non religieux.
+sécularisation: Passage au domaine laïc.
+séculariser: Rendre laïc, soustraire à l'autorité religieuse.
+sécule: Variété locale, race.
+sécurisant: Qui rassure, qui apporte la sécurité.
+sécurisation: Action de sécuriser, de rendre sûr.
+sécuriser: Rendre sûr, rassurer.
+sécuritaire: Relatif à la sécurité.
+sécurité: État de ce qui est sûr, absence de danger.
+sécurité sociale: Système de protection sociale.
+sédatif: Médicament calmant le système nerveux, anxiolytique.
+sédation: Apaisement, diminution de l'agitation ou douleur.
+sédation palliative: Sommeil induit en phase terminale.
+sédation profonde: État d'inconscience induit médicalement.
+sédentaire: Qui reste assis, peu actif physiquement.
+sédentarisation: Action de devenir sédentaire.
+sédentariser: Rendre sédentaire.
+sédentarité: Mode de vie peu actif physiquement.
+sédiment: Dépôt au fond d'un liquide.
+sédimentaire: Formé par sédimentation.
+sédimentation: Formation de dépôt par décantation.
+sédimentation érythrocytaire: Vitesse de chute des globules rouges, VS.
+séditieux: Qui incite à la révolte.
+sédition: Révolte, insurrection.
+séducteur: Qui séduit, charmeur.
+séduction: Action de séduire, charme.
+séduire: Charmer, plaire.
+séduisant: Qui séduit, attirant.
+segment: Partie délimitée d'un tout.
+segmentaire: Relatif à un segment.
+segmentation: Division en segments.
+segmenter: Diviser en segments.
+ségrégation: Séparation, mise à l'écart.
+ségrégationniste: Partisan de la ségrégation.
+ségréguer: Séparer, isoler.
+seiche: Mollusque céphalopode marin.
+seigle: Céréale cultivée pour son grain.
+seigneur: Maître féodal, ou Dieu.
+seigneurial: Relatif au seigneur.
+seigneurie: Domaine d'un seigneur.
+sein: Mamelle, glande mammaire.
+seine: Grand filet de pêche.
+séisme: Tremblement de terre.
+seize: Nombre 16.
+seizième: Qui occupe le rang numéro seize.
+séjour: Temps passé dans un lieu.
+séjour hospitalier: Durée d'hospitalisation.
+séjourner: Rester dans un lieu temporairement.
+sel: Chlorure de sodium, substance minérale.
+sel de régime: Substitut du sel à teneur réduite en sodium.
+sel minéral: Élément minéral sous forme ionique.
+sélacien: Poisson cartilagineux comme requin ou raie.
+sélect: Choisi, distingué.
+sélecteur: Dispositif permettant de choisir.
+sélectif: Qui opère une sélection.
+sélection: Action de choisir, tri.
+sélection naturelle: Mécanisme évolutif favorisant les plus adaptés.
+sélectionné: Choisi parmi d'autres.
+sélectionner: Choisir parmi plusieurs.
+sélectionneur: Qui sélectionne.
+sélective: Qui opère une sélection.
+sélectivement: De façon sélective.
+sélectivité: Caractère sélectif.
+sélénium: Oligo-élément antioxydant essentiel.
+séléniteux: Relatif à l'acide sélénieux.
+séléniure: Composé du sélénium.
+self: Restaurant en libre-service, ou soi-même.
+self-control: Maîtrise de soi.
+self-service: Libre-service.
+selle: Siège, ou matière fécale évacuée.
+seller: Mettre une selle.
+sellerie: Atelier ou commerce de sellier.
+sellette: Petit siège, ou sur la sellette.
+sellier: Artisan fabriquant selles et harnais.
+selon: Conformément à, suivant.
+semailles: Action de semer, époque des semis.
+semaine: Période de sept jours.
+sémantique: Science du sens des mots.
+sémaphore: Poste de signalisation maritime.
+semblable: Qui ressemble, similaire.
+semblablement: De façon semblable.
+semblant: Apparence, faire semblant.
+sembler: Paraître, avoir l'air.
+semelle: Dessous d'une chaussure.
+semence: Graine pour reproduire, ou sperme.
+semer: Mettre en terre des graines.
