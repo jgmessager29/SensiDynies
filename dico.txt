@@ -5026,25 +5026,479 @@ sélective: Qui opère une sélection.
 sélectivement: De façon sélective.
 sélectivité: Caractère sélectif.
 sélénium: Oligo-élément antioxydant essentiel.
-séléniteux: Relatif à l'acide sélénieux.
-séléniure: Composé du sélénium.
-self: Restaurant en libre-service, ou soi-même.
-self-control: Maîtrise de soi.
-self-service: Libre-service.
-selle: Siège, ou matière fécale évacuée.
-seller: Mettre une selle.
-sellerie: Atelier ou commerce de sellier.
-sellette: Petit siège, ou sur la sellette.
-sellier: Artisan fabriquant selles et harnais.
-selon: Conformément à, suivant.
-semailles: Action de semer, époque des semis.
-semaine: Période de sept jours.
-sémantique: Science du sens des mots.
-sémaphore: Poste de signalisation maritime.
-semblable: Qui ressemble, similaire.
-semblablement: De façon semblable.
-semblant: Apparence, faire semblant.
-sembler: Paraître, avoir l'air.
-semelle: Dessous d'une chaussure.
-semence: Graine pour reproduire, ou sperme.
-semer: Mettre en terre des graines.
+sélénium: Oligo-élément antioxydant essentiel à la fonction thyroïdienne.
+selle: Matière fécale évacuée lors de la défécation.
+selles: Matières fécales, excrements solides.
+selles glaireuses: Selles contenant du mucus.
+selles liquides: Diarrhée, selles non formées.
+selles noires: Méléna, selles contenant du sang digéré.
+selles sanglantes: Présence de sang rouge dans les selles.
+sellette: Petit siège, ou être sur la sellette médicalement.
+selon: Conformément aux recommandations médicales.
+semaine: Période de sept jours, unité de datation de grossesse.
+semaine d'aménorrhée: Unité de mesure de l'âge gestationnel.
+semaine de grossesse: Âge du fœtus depuis la conception.
+semestriel: Examen ou traitement tous les six mois.
+semi-circulaire: Canal de l'oreille interne contrôlant l'équilibre.
+semi-lunaire: Valve cardiaque en forme de demi-lune.
+séminal: Relatif au sperme.
+séminome: Tumeur maligne germinale du testicule.
+sémiologie: Étude des signes et symptômes des maladies.
+sémiologie médicale: Discipline étudiant les signes cliniques.
+sémiologique: Relatif aux signes cliniques.
+sémiologue: Spécialiste de l'interprétation des signes cliniques.
+sémiotique: Relatif aux signes et à leur interprétation.
+sénat: Institution dont dépendent certaines décisions de santé publique.
+sénescence: Processus de vieillissement biologique cellulaire.
+sénescent: En cours de vieillissement.
+sénile: Relatif au grand âge avec altérations.
+sénilisme: Vieillissement prématuré pathologique.
+sénilité: Affaiblissement des facultés mentales lié à l'âge avancé.
+séné: Plante laxative stimulant le transit intestinal.
+sens: Faculté de perception comme la vue, l'ouïe, le toucher.
+sens clinique: Capacité intuitive d'évaluation médicale.
+sensation: Perception d'un stimulus par les récepteurs sensoriels.
+sensation de soif: Besoin physiologique de boire.
+sensation douloureuse: Perception de la douleur.
+sensation vertigineuse: Impression de tournoiement ou instabilité.
+sensibilisation: Processus rendant allergique à une substance.
+sensibilisation allergique: Développement d'une allergie à un allergène.
+sensibiliser: Rendre sensible à un allergène.
+sensibilité: Capacité à percevoir des stimuli sensoriels.
+sensibilité cutanée: Perception tactile par la peau.
+sensibilité profonde: Proprioception, sens de la position du corps.
+sensibilité superficielle: Perception du toucher, température, douleur.
+sensible: Qui réagit facilement aux stimuli ou traitements.
+sensitif: Relatif aux sensations, nerf sensitif.
+sensoriel: Relatif aux organes des sens.
+sensori-moteur: Intégrant sensations et mouvements.
+sensorium: Ensemble des centres nerveux de perception.
+sentinelle: Ganglion sentinelle, premier relais lymphatique.
+sentir: Percevoir par l'odorat ou ressentir une sensation.
+séparable: Qui peut être séparé chirurgicalement.
+séparateur: Dispositif séparant des éléments.
+séparation: Division, notamment de jumeaux conjoints chirurgicalement.
+séparer: Diviser, isoler chirurgicalement.
+sepsis: État infectieux généralisé grave, septicémie.
+sept: Nombre 7.
+septal: Relatif à un septum, cloison.
+septembre: Neuvième mois de l'année.
+septicémie: Infection généralisée du sang par des bactéries.
+septicémique: Relatif à la septicémie.
+septième: Qui occupe le rang numéro sept.
+septique: Infecté, contaminé par des germes.
+septo-: Préfixe relatif aux cloisons.
+septoplastie: Chirurgie réparatrice de la cloison nasale.
+septum: Cloison séparant deux cavités.
+septum interventriculaire: Paroi séparant les ventricules cardiaques.
+septum nasal: Cloison séparant les deux fosses nasales.
+septuagénaire: Personne âgée de 70 à 79 ans.
+séquelles: Troubles persistant après guérison d'une maladie.
+séquence: Succession ordonnée d'événements ou de bases.
+séquentiel: Qui se succède dans un ordre déterminé.
+séquestration: Isolement, ou nécrose osseuse avec séquestre.
+séquestre: Fragment d'os nécrosé détaché.
+séquestrer: Isoler complètement, ou former un séquestre osseux.
+séquoia: Grand arbre conifère.
+sera: Futur du verbe être, ou pluriel de sérum.
+séraphin: Ange, ou personne très pure.
+serein: Calme, paisible, sans anxiété.
+sereinement: Avec sérénité.
+sérénade: Musique donnée la nuit.
+sérénité: État de calme et de paix intérieure.
+séreux: Relatif au sérum, liquide séreux.
+séreuse: Membrane tapissant les cavités et organes.
+serf: Paysan attaché à une terre au Moyen Âge.
+serfouir: Biner légèrement.
+serge: Tissu de laine croisé.
+sergent: Grade militaire.
+série: Suite, succession d'éléments similaires.
+sériel: Qui forme une série, en série.
+sériellement: De façon sérielle.
+sérier: Classer par séries.
+sérieusement: De façon sérieuse, gravement.
+sérieux: Grave, important, qui mérite attention.
+sérieux: Gravité d'une pathologie ou situation médicale.
+sérigraphie: Technique d'impression.
+serin: Petit oiseau chanteur jaune.
+seringue: Instrument d'injection ou de prélèvement de liquides.
+seringue hypodermique: Seringue avec aiguille pour injections.
+serment: Engagement solennel.
+serment d'Hippocrate: Engagement éthique des médecins.
+sermon: Discours religieux ou moralisateur.
+sermonner: Faire la morale.
+sérologie: Étude des sérums sanguins et anticorps.
+sérologique: Relatif à la sérologie.
+sérologiste: Spécialiste de sérologie.
+séronégatif: Dont le sérum ne contient pas d'anticorps recherchés.
+séronégativité: État séronégatif, absence d'anticorps.
+séropositif: Dont le sérum contient les anticorps recherchés.
+séropositivité: État séropositif, présence d'anticorps spécifiques.
+séroprévalence: Proportion de séropositifs dans une population.
+séroprophylaxie: Prévention par injection de sérum immun.
+séroréaction: Réaction immunologique dans le sérum.
+sérosité: Liquide séreux physiologique ou pathologique.
+sérotonine: Neurotransmetteur régulant humeur, sommeil, appétit.
+sérotoninergique: Relatif à la sérotonine.
+sérothérapie: Traitement par injection de sérum immun.
+sérotonine: Hormone et neurotransmetteur du système nerveux.
+sérotypage: Identification du type d'un micro-organisme par sérum.
+sérotype: Variété d'un micro-organisme selon ses antigènes.
+sérovaccination: Injection simultanée de sérum et vaccin.
+serpent: Reptile sans pattes, certains venimeux.
+serpentaire: Plante médicinale ou constellation.
+serpentin: En forme de serpent, sinueux.
+serpette: Petite serpe de jardinier.
+serpigineux: Qui progresse en forme sinueuse, lésion serpigineuse.
+serpolet: Plante aromatique médicinale, thym sauvage.
+serre: Abri vitré pour cultures, ou griffe d'oiseau.
+serré: Étroit, comprimé, ou douleur serrée.
+serrement: Action de serrer, compression.
+serrement de cœur: Angoisse, sensation d'oppression.
+serrer: Comprimer, tenir fermement.
+serre-tête: Bandeau maintenant les cheveux.
+serrure: Mécanisme de fermeture.
+serrurier: Artisan fabriquant serrures et clés.
+sérum: Partie liquide du sang après coagulation.
+sérum physiologique: Solution saline isotonique pour lavages et injections.
+sérum salé: Solution de chlorure de sodium injectable.
+sérum sanguin: Plasma sanguin sans facteurs de coagulation.
+sérum thérapeutique: Sérum contenant des anticorps pour traitement.
+servage: Condition de serf.
+servant: Qui sert, assistant.
+servante: Qui sert, domestique.
+serveur: Qui sert, employé de restaurant.
+serveuse: Qui sert, employée de restaurant.
+serviabilité: Qualité de serviable.
+serviable: Qui aime rendre service.
+service: Action de servir, ou département hospitalier.
+service d'urgences: Département hospitalier recevant les urgences.
+service de réanimation: Unité de soins intensifs.
+service hospitalier: Département spécialisé d'un hôpital.
+service médical: Département de soins médicaux.
+serviette: Linge pour s'essuyer.
+serviette hygiénique: Protection périodique absorbante externe.
+servile: Soumis excessivement.
+servilité: Soumission excessive.
+servir: Rendre service, être utile.
+serviteur: Qui sert, domestique.
+servitude: État de dépendance, contrainte.
+ses: Adjectif possessif pluriel.
+sésame: Plante oléagineuse, ou formule magique.
+session: Période de travail, réunion.
+set: Ensemble, série.
+sétacé: En forme de soie, poil sétacé.
+setter: Race de chien de chasse.
+seuil: Limite, point de départ.
+seuil de douleur: Intensité minimale perçue comme douloureuse.
+seuil de perception: Intensité minimale détectable d'un stimulus.
+seuil épileptogène: Niveau d'excitabilité déclenchant une crise.
+seuil rénal: Concentration au-delà de laquelle une substance passe dans l'urine.
+seul: Unique, isolé, sans compagnie.
+seulement: Uniquement, simplement.
+sève: Liquide nourricier des plantes.
+sévère: Grave, rigoureux, strict.
+sévèrement: De façon sévère.
+sévérité: Gravité, rigueur.
+sévérité d'une maladie: Degré de gravité pathologique.
+sévices: Mauvais traitements, violences.
+sevrage: Arrêt progressif d'une dépendance.
+sevrage alcoolique: Arrêt de la consommation d'alcool.
+sevrage médicamenteux: Arrêt progressif d'un médicament.
+sevrage tabagique: Arrêt de la consommation de tabac.
+sevrer: Arrêter l'allaitement, ou supprimer une dépendance.
+sexagénaire: Personne âgée de 60 à 69 ans.
+sexe: Caractère biologique mâle ou femelle, ou organes génitaux.
+sexisme: Discrimination fondée sur le sexe.
+sexiste: Qui manifeste du sexisme.
+sexologie: Étude scientifique de la sexualité humaine.
+sexologue: Spécialiste des troubles de la sexualité.
+sextuplé: Multiplié par six.
+sextuplés: Six enfants nés d'une même grossesse.
+sexualité: Ensemble des caractères et comportements sexuels.
+sexué: Qui possède un sexe, reproduction sexuée.
+sexuel: Relatif au sexe et à la sexualité.
+sexuellement: De façon sexuelle.
+sexy: Séduisant, attirant sexuellement.
+seyant: Qui va bien, qui sied.
+SFDRMG: Société française de documentation et recherche en médecine générale.
+SFMU: Société française de médecine d'urgence.
+shampooing: Produit lavant pour cheveux.
+shampouiner: Laver avec du shampooing.
+shampouineur: Qui fait des shampooings.
+shampouineuse: Qui fait des shampooings.
+shigelle: Bactérie causant la dysenterie bacillaire.
+shigellose: Infection intestinale à shigelle.
+shunt: Dérivation chirurgicale du flux sanguin.
+shunter: Créer une dérivation, ou contourner.
+si: Conjonction conditionnelle.
+sialaden: Relatif aux glandes salivaires.
+sialadénite: Inflammation d'une glande salivaire.
+sialagogue: Qui stimule la sécrétion salivaire.
+sialique: Acide organique présent dans glycoprotéines.
+sialorrhée: Hypersalivation, excès de salive.
+sialographie: Radiographie des glandes salivaires avec produit de contraste.
+siamois: Jumeaux conjoints reliés physiquement.
+sibérien: Relatif à la Sibérie.
+sibilance: Sifflement respiratoire.
+sibilant: Qui siffle, râle sibilant.
+sibylle: Prophétesse de l'Antiquité.
+sibyllin: Obscur, énigmatique.
+sic: Ainsi, indique une citation textuelle même surprenante.
+sicatif: Qui fait sécher.
+siccité: Sécheresse.
+sidatique: Ancien terme pour séropositif au VIH.
+side-car: Véhicule latéral attaché à une moto.
+sidéen: Ancien terme pour personne atteinte du SIDA.
+sidéral: Relatif aux astres.
+sidérant: Stupéfiant, qui sidère.
+sidération: Stupéfaction, ou arrêt brutal des fonctions.
+sidéré: Stupéfait, frappé de stupeur.
+sidérer: Stupéfier, frapper de stupeur.
+sidéroblaste: Globule rouge immature contenant du fer.
+sidéropénie: Carence en fer de l'organisme.
+sidérose: Pneumoconiose par inhalation de poussières de fer.
+SIDA: Syndrome d'immunodéficience acquise causé par le VIH.
+siderosis: Dépôt de fer dans les tissus.
+sidérurgie: Métallurgie du fer et de l'acier.
+siècle: Période de cent ans.
+siège: Meuble pour s'asseoir, ou position du fœtus.
+siège par le: Présentation du fœtus fesses ou pieds en premier.
+siéger: Avoir son siège, être localisé.
+sien: Pronom possessif.
+sieste: Repos pris après le déjeuner.
+sieur: Titre ancien équivalent à monsieur.
+sifflement: Son aigu produit en soufflant.
+sifflement respiratoire: Bruit aigu lors de la respiration.
+siffler: Produire un son aigu.
+sifflet: Instrument produisant un son aigu.
+siffleur: Qui siffle.
+siffleuse: Qui siffle.
+sigle: Abréviation formée des initiales.
+sigma: Lettre grecque, ou côlon sigmoïde.
+sigmate: En forme de S.
+sigmoïde: Portion terminale du côlon en forme de S.
+sigmoïdectomie: Ablation chirurgicale du côlon sigmoïde.
+sigmoïdite: Inflammation du côlon sigmoïde.
+sigmoïdoscopie: Examen endoscopique du sigmoïde.
+signal: Signe convenu, information transmise.
+signal d'alarme: Indicateur de danger nécessitant intervention.
+signalement: Description physique d'une personne.
+signaler: Faire connaître, attirer l'attention sur.
+signalétique: Relatif au signalement, descriptif.
+signalisation: Ensemble de signaux.
+signataire: Qui a signé un document.
+signature: Nom écrit de sa main pour authentifier.
+signe: Manifestation objective observable d'une maladie.
+signe clinique: Manifestation pathologique objectivée par l'examen.
+signe de Babinski: Réflexe plantaire pathologique.
+signe de Kernig: Signe de méningite par raideur.
+signe fonctionnel: Symptôme ressenti subjectivement par le patient.
+signe pathognomonique: Signe caractéristique spécifique d'une maladie.
+signe physique: Manifestation objective à l'examen clinique.
+signe vital: Paramètre physiologique essentiel comme pouls, tension.
+signer: Apposer sa signature.
+signet: Marque-page.
+significatif: Qui a du sens, important statistiquement.
+signification: Sens, importance.
+significativement: De façon significative.
+signifier: Avoir pour sens, vouloir dire.
+silence: Absence de bruit ou de parole.
+silencieux: Qui ne fait pas de bruit, asymptomatique.
+silex: Pierre dure utilisée autrefois.
+silhouette: Contour du corps, profil.
+silicate: Sel de l'acide silicique.
+silice: Dioxyde de silicium, minéral.
+siliceux: Qui contient de la silice.
+siliciure: Composé du silicium.
+silicium: Élément chimique semi-conducteur.
+silicone: Polymère de silicium utilisé en prothèses.
+silicose: Pneumoconiose par inhalation de poussières de silice.
+silicotique: Atteint de silicose.
+sillage: Trace laissée derrière, ou parfum persistant.
+sillon: Dépression allongée, pli cutané.
+sillon naso-génien: Pli allant du nez au coin de la bouche.
+silo: Réservoir pour stocker.
+silure: Grand poisson d'eau douce.
+simien: Relatif aux singes.
+simiesque: Qui ressemble au singe.
+similaire: Semblable, analogue.
+similarité: Ressemblance, analogie.
+simili: Imitation, faux.
+similitude: Ressemblance, analogie.
+simple: Non composé, facile, ou plante médicinale.
+simplement: De façon simple, seulement.
+simplet: Un peu simple d'esprit.
+simplette: Un peu simple d'esprit.
+simplexe: Simple, non complexe.
+simplifiable: Qui peut être simplifié.
+simplificateur: Qui simplifie.
+simplification: Action de simplifier.
+simplifier: Rendre plus simple.
+simpliste: Trop simple, qui simplifie excessivement.
+simulacre: Imitation, apparence trompeuse.
+simulateur: Qui simule, ou appareil de simulation.
+simulation: Action de simuler, feinte.
+simulation de maladie: Feinte de symptômes sans pathologie réelle.
+simulé: Feint, imité.
+simuler: Feindre, imiter une maladie.
+simulie: Petit insecte piqueur vecteur de maladies.
+simultané: Qui se produit en même temps.
+simultanéité: Caractère simultané.
+simultanément: En même temps.
+sinapisme: Cataplasme révulsif à la farine de moutarde.
+sinapisme: Cataplasme révulsif à la moutarde.
+sincère: Franc, authentique, vrai.
+sincèrement: De façon sincère.
+sincérité: Qualité de sincère, franchise.
+sinciput: Partie supérieure et antérieure du crâne.
+sine: Sans, en latin médical.
+sine die: Sans date fixée, indéfiniment.
+sine qua non: Condition indispensable.
+sinécure: Emploi peu fatigant et rémunérateur.
+singe: Primate, utilisé en recherche médicale.
+singer: Imiter de façon caricaturale.
+singerie: Imitation, grimace.
+single: Célibataire, ou disque.
+singulariser: Rendre singulier, distinguer.
+singularité: Caractère singulier, particularité.
+singulier: Unique, particulier, étrange.
+singulièrement: De façon singulière, particulièrement.
+sinistre: Catastrophe, ou inquiétant.
+sinistré: Victime d'un sinistre.
+sinistrée: Victime d'un sinistre.
+sinistrose: État psychologique après accident avec fixation sur séquelles.
+sinologie: Étude de la Chine.
+sinon: Autrement, ou bien, sauf.
+sinueux: Qui fait des sinuosités, courbe.
+sinus: Cavité osseuse aérienne communiquant avec les fosses nasales.
+sinus carotidien: Dilatation de la carotide contenant des barorécepteurs.
+sinus frontal: Cavité aérienne de l'os frontal.
+sinus maxillaire: Cavité aérienne de l'os maxillaire.
+sinus pilonidal: Kyste inflammatoire de la région sacro-coccygienne.
+sinusal: Relatif au sinus, notamment cardiaque.
+sinusite: Inflammation de la muqueuse d'un sinus.
+sinusoïdal: En forme de sinusoïde, oscillation régulière.
+sinusoïde: Capillaire hépatique large et sinueux.
+sionisme: Mouvement politique juif.
+sioniste: Partisan du sionisme.
+siphon: Tube coudé pour évacuation.
+siphonner: Transvaser avec un siphon.
+sire: Titre de respect pour un roi.
+sirène: Créature mythologique, ou signal d'alarme.
+sirop: Solution concentrée de sucre, forme pharmaceutique.
+sirop antitussif: Sirop calmant la toux.
+siroter: Boire à petites gorgées.
+sirupeux: De consistance de sirop, visqueux.
+sis: Situé, localisé.
+sisal: Fibre végétale textile.
+sismicité: Fréquence des séismes.
+sismique: Relatif aux séismes.
+sismographe: Appareil enregistrant les séismes.
+sismologie: Science des séismes.
+site: Lieu, emplacement.
+site d'injection: Endroit où l'on pratique une injection.
+sitôt: Aussitôt, dès que.
+situation: Emplacement, état des choses.
+situation d'urgence: État nécessitant intervention immédiate.
+situé: Qui se trouve à un endroit.
+situer: Déterminer la place, localiser.
+six: Nombre 6.
+sixième: Qui occupe le rang numéro six.
+sixième maladie: Roséole infantile, exanthème subit.
+sizerin: Petit oiseau passereau.
+skateboard: Planche à roulettes.
+skate: Planche à roulettes, ou patin.
+sketch: Courte scène comique.
+ski: Sport de glisse sur neige.
+skiable: Où l'on peut skier.
+skier: Pratiquer le ski.
+skieur: Qui pratique le ski.
+skieuse: Qui pratique le ski.
+skin: Peau en anglais.
+skipper: Capitaine d'un voilier.
+slalom: Descente à ski en zigzag.
+slalomer: Faire du slalom.
+slave: Relatif aux peuples slaves.
+slip: Sous-vêtement.
+slogan: Formule concise et frappante.
+slow: Danse lente.
+smala: Grande famille nombreuse.
+smash: Coup violent au tennis ou volley.
+smasher: Frapper violemment une balle.
+SMI: Salaire minimum interprofessionnel.
+SMIC: Salaire minimum interprofessionnel de croissance.
+SMICARD: Personne payée au SMIC.
+smilax: Plante grimpante médicinale, salsepareille.
+smoking: Costume de soirée pour homme.
+snack: Repas léger rapide, ou café-restaurant.
+snif: Onomatopée du reniflement.
+sniffer: Renifler, inhaler une drogue.
+snob: Qui affecte l'élégance et distinction.
+snober: Traiter avec mépris hautain.
+snobisme: Attitude de snob.
+snow-boot: Botte fourrée pour la neige.
+sobre: Modéré, qui ne boit pas d'alcool.
+sobrement: Avec sobriété, modérément.
+sobriété: Modération, tempérance.
+sobriquet: Surnom familier ou moqueur.
+soc: Pièce de charrue.
+sociabilité: Aptitude à vivre en société.
+sociable: Qui aime la compagnie, liant.
+social: Relatif à la société.
+socialement: Du point de vue social.
+socialisation: Processus d'apprentissage social.
+socialiser: Rendre social, intégrer socialement.
+socialisme: Doctrine politique et économique.
+socialiste: Partisan du socialisme.
+sociétaire: Membre d'une société.
+société: Ensemble d'individus vivant ensemble.
+société savante: Association de spécialistes scientifiques.
+socio-: Préfixe relatif à la société.
+socioculturel: Relatif aux aspects sociaux et culturels.
+socio-économique: Relatif aux aspects sociaux et économiques.
+sociogramme: Représentation graphique des relations sociales.
+sociologie: Science étudiant les sociétés humaines.
+sociologique: Relatif à la sociologie.
+sociologue: Spécialiste de sociologie.
+socio-professionnel: Relatif au statut social et professionnel.
+socle: Base, support.
+socque: Chaussure à semelle de bois.
+Socrate: Philosophe grec de l'Antiquité.
+socratique: Relatif à Socrate.
+soda: Boisson gazeuse sucrée.
+sodé: Qui contient du sodium.
+sodique: Relatif au sodium.
+sodium: Élément chimique, cation principal du milieu extracellulaire.
+sodomie: Rapport sexuel anal.
+sodomiser: Pratiquer la sodomie.
+sodomite: Qui pratique la sodomie.
+sœur: Fille des mêmes parents, ou religieuse.
+sœur de sang: Compatibilité sanguine.
+sofa: Canapé, divan.
+software: Logiciel informatique.
+soi: Pronom réfléchi de la troisième personne.
+soi-disant: Qui prétend être, prétendu.
+soie: Fil produit par le ver à soie, ou poil dur.
+soif: Besoin de boire, sensation de déshydratation.
+soignable: Qui peut être soigné.
+soignant: Qui prodigue des soins, professionnel de santé.
+soigné: Traité médicalement, ou fait avec soin.
+soigner: Donner des soins, traiter une maladie.
+soigneur: Qui soigne, notamment sportif.
+soigneuse: Qui soigne.
+soigneusement: Avec soin, minutieusement.
+soigneux: Qui fait les choses avec soin.
+soin: Attention portée à faire quelque chose, ou acte médical.
+soin infirmier: Acte réalisé par un infirmier.
+soin palliatif: Soin de confort en fin de vie.
+soins: Ensemble des actes thérapeutiques.
+soins ambulatoires: Soins sans hospitalisation complète.
+soins de nursing: Soins d'hygiène et confort.
+soins de support: Soins accompagnant le traitement principal.
+soins dentaires: Actes thérapeutiques sur les dents.
+soins intensifs: Surveillance et traitement des patients graves.
+soins palliatifs: Accompagnement en fin de vie privilégiant le confort.
+soins primaires: Premier niveau de soins, médecine générale.
+soir: Fin de journée, soirée.
+soirée: Partie de la journée entre après-midi et nuit.
