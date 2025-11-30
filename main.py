@@ -56,12 +56,42 @@ async def on_message(message):
     # Ajouter des réactions automatiques
     if "sensidynies" in content_lower:
         await message.add_reaction("🛸")
+
     if "fibromyalgie" in content_lower:
-        await message.add_reaction("🫂")
+        emoji = bot.get_emoji(1443982572215337043)  # Récupère l'emoji serveur ruban bleu
+        if emoji:
+            await message.add_reaction(emoji)
+
+# MODÉRATION (MOTS INTERDITS)
+    for word in bad_words:
+        if word.lower() in content_lower:
+
+            # 1️⃣ Supprimer le message interdit
+            await message.delete()
+
+            # 2️⃣ Message dans le même canal
+            await message.channel.send(
+                f"🔒 **Message masqué** — mot interdit détecté sur le message "
+                f"de **{message.author.mention}**."
+            )
+
+            # 3️⃣ Log dans le canal modération
+            log_channel = bot.get_channel(LOG_CHANNEL_ID)
+            if log_channel:
+                embed = discord.Embed(
+                    title="⚠️ Message masqué",
+                    color=0xFF0000  # rouge pour alerte
+                )
+                embed.add_field(name="Auteur", value=f"{message.author.mention}", inline=False)
+                embed.add_field(name="Mot détecté", value=f"`{word}`", inline=False)
+                embed.add_field(name="Canal", value=f"{message.channel.mention}", inline=False)
+
+                await log_channel.send(embed=embed)
+
+            return  # stop, ne pas analyser plus loin
 
     # Traiter les commandes classiques (préfixe "!")
     await bot.process_commands(message)
-
 
 # ----------------------------------------
 # INTERCEPTION DES SLASH COMMANDS
@@ -130,6 +160,23 @@ async def send_embed_to_channels(title, description, color=discord.Color.pink(),
         if channel:
             embed = discord.Embed(title=title, description=description, color=color)
             await channel.send(embed=embed)
+
+# --------------------
+# LECTURE DES MOTS INTERDITS
+# --------------------
+LOG_CHANNEL_ID = 1443209968865116271  # Ton canal de logs
+BAD_WORDS_FILE = "moderation.txt"     # Fichier contenant les mots interdits
+
+def load_bad_words():
+    try:
+        with open(BAD_WORDS_FILE, "r", encoding="utf-8") as f:
+            return [line.strip().lower() for line in f.readlines() if line.strip()]
+    except FileNotFoundError:
+        print(f"Le fichier {BAD_WORDS_FILE} est introuvable.")
+        return []
+
+bad_words = load_bad_words()
+
 
 # ----------------------------------------
 # EVENT : Membre rejoint
