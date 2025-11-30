@@ -85,33 +85,36 @@ async def on_message(message):
         if emoji:
             await message.add_reaction(emoji)
 
-# MODÉRATION (MOTS INTERDITS)
-    for word in bad_words:
-        if word.lower() in content_lower:
+# ----------------------------------------
+# MODÉRATION (MOTS INTERDITS) – version améliorée
+# ----------------------------------------
+for word in bad_words:
+    pattern = r'\b' + re.escape(word.lower()) + r'\b'
+    if re.search(pattern, content_lower):
+        # 1️⃣ Supprimer le message interdit
+        await message.delete()
 
-            # 1️⃣ Supprimer le message interdit
-            await message.delete()
+        # 2️⃣ Message dans le même canal
+        await message.channel.send(
+            f"🔒 **Message masqué** — mot interdit détecté sur le message "
+            f"de **{message.author.mention}**."
+        )
 
-            # 2️⃣ Message dans le même canal
-            await message.channel.send(
-                f"🔒 **Message masqué** — mot interdit détecté sur le message "
-                f"de **{message.author.mention}**."
+        # 3️⃣ Log dans le canal modération
+        log_channel = bot.get_channel(LOG_CHANNEL_ID)
+        if log_channel:
+            embed = discord.Embed(
+                title="⚠️ Message masqué",
+                color=0xFF0000  # rouge pour alerte
             )
+            embed.add_field(name="Auteur", value=f"{message.author.mention}", inline=False)
+            embed.add_field(name="Mot détecté", value=f"`{word}`", inline=False)
+            embed.add_field(name="Canal", value=f"{message.channel.mention}", inline=False)
 
-            # 3️⃣ Log dans le canal modération
-            log_channel = bot.get_channel(LOG_CHANNEL_ID)
-            if log_channel:
-                embed = discord.Embed(
-                    title="⚠️ Message masqué",
-                    color=0xFF0000  # rouge pour alerte
-                )
-                embed.add_field(name="Auteur", value=f"{message.author.mention}", inline=False)
-                embed.add_field(name="Mot détecté", value=f"`{word}`", inline=False)
-                embed.add_field(name="Canal", value=f"{message.channel.mention}", inline=False)
+            await log_channel.send(embed=embed)
 
-                await log_channel.send(embed=embed)
+        return  # stop, ne pas analyser plus loin
 
-            return  # stop, ne pas analyser plus loin
 
     # Vérifie si le message contient un email
     if re.search(email_regex, message.content):
