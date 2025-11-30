@@ -37,11 +37,12 @@ intents.members = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 bot.remove_command("help")
 
-# --------------------
-# LECTURE DES MOTS INTERDITS
-# --------------------
-LOG_CHANNEL_ID = 1443209968865116271  # Ton canal de logs
-BAD_WORDS_FILE = "moderation.txt"     # Fichier contenant les mots interdits
+# ----------------------------------------
+# MODÉRATION (MOTS INTERDITS)
+# ----------------------------------------
+# Charger les mots interdits depuis le fichier
+BAD_WORDS_FILE = "moderation.txt"
+LOG_CHANNEL_ID = 1443209968865116271
 
 def load_bad_words():
     try:
@@ -53,10 +54,8 @@ def load_bad_words():
 
 bad_words = load_bad_words()
 
-
-# Exemple : détecte les numéros français
+# Regex pour email et téléphone
 phone_regex = r"(?:(?:\+33|0)\s*[1-9](?:[\s.-]*\d{2}){4})"
-# Regex pour détecter une adresse email
 email_regex = r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}"
 
 # ----------------------------------------
@@ -64,35 +63,35 @@ email_regex = r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}"
 # ----------------------------------------
 @bot.event
 async def on_message(message):
-    # Ignorer les messages du bot lui-même
-    if message.author == bot.user:
+    if message.author.bot:
         return
 
     content = message.content
     content_lower = content.lower()
 
-    # Bloquer les messages commençant par "/"
+    # Bloquer les commandes slash "/"
     if content.startswith("/"):
         await message.channel.send("❌ Les commandes avec ce préfixe sont désactivées.")
-        return  # Stop ici, pas besoin de process_commands
+        return
 
-    # Ajouter des réactions automatiques
+    # ----------------------------------------
+    # RÉACTIONS AUTOMATIQUES
+    # ----------------------------------------
     if "sensidynies" in content_lower: 
-        emoji = bot.get_emoji(1443981290389897257)  # Récupère l'emoji serveur sensidynies
+        emoji = bot.get_emoji(1443981290389897257)
         if emoji:
             await message.add_reaction(emoji)
 
     if "fibromyalgie" in content_lower:
-        emoji = bot.get_emoji(1443982572215337043)  # Récupère l'emoji serveur ruban bleu
+        emoji = bot.get_emoji(1443982572215337043)
         if emoji:
             await message.add_reaction(emoji)
 
     # ----------------------------------------
     # MODÉRATION (MOTS INTERDITS)
     # ----------------------------------------
-    bad_words = ["mot1", "mot2", "mot3"]
     for word in bad_words:
-        pattern = r'\b' + re.escape(word.lower()) + r'\b'
+        pattern = rf"(^|\W){re.escape(word)}($|\W)"
         if re.search(pattern, content_lower):
             await message.delete()
             await message.channel.send(
@@ -110,7 +109,9 @@ async def on_message(message):
                 await log_channel.send(embed=embed)
             return
 
-    # Vérifie si le message contient un email
+    # ----------------------------------------
+    # Vérification des emails
+    # ----------------------------------------
     if re.search(email_regex, content):
         await message.delete()
         await message.channel.send(
@@ -128,7 +129,9 @@ async def on_message(message):
             await log_channel.send(embed=embed)
         return
 
-    # Vérifie si le message contient un numéro de téléphone
+    # ----------------------------------------
+    # Vérification des numéros de téléphone
+    # ----------------------------------------
     if re.search(phone_regex, content):
         await message.delete()
         await message.channel.send(
@@ -146,8 +149,11 @@ async def on_message(message):
             await log_channel.send(embed=embed)
         return
 
+    # ----------------------------------------
     # Traiter les commandes classiques (préfixe "!")
+    # ----------------------------------------
     await bot.process_commands(message)
+
 
 # ----------------------------------------
 # INTERCEPTION DES SLASH COMMANDS
