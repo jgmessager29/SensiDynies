@@ -2,6 +2,7 @@
 # IMPORTS STANDARD
 # ----------------------------------------
 import os
+import re
 from datetime import datetime, timezone, timedelta
 import random
 # ----------------------------------------
@@ -51,6 +52,12 @@ def load_bad_words():
         return []
 
 bad_words = load_bad_words()
+
+
+# Exemple : détecte les numéros français
+phone_regex = r"(?:(?:\+33|0)\s*[1-9](?:[\s.-]*\d{2}){4})"
+# Regex pour détecter une adresse email
+email_regex = r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}"
 
 # ----------------------------------------
 # INTERCEPTION DES MESSAGES
@@ -106,6 +113,42 @@ async def on_message(message):
 
             return  # stop, ne pas analyser plus loin
 
+    # Vérifie si le message contient un email
+    if re.search(email_regex, message.content):
+        await message.delete()
+        await message.channel.send(
+            f"🔒 **Message masqué** — les adresses email ne sont pas autorisées sur le serveur, {message.author.mention}."
+        )
+        log_channel = bot.get_channel(LOG_CHANNEL_ID)
+        if log_channel:
+            embed = discord.Embed(
+                title="⚠️ Message masqué",
+                color=0xFF0000
+            )
+            embed.add_field(name="Auteur", value=f"{message.author.mention}", inline=False)
+            embed.add_field(name="Raison", value="Adresse email détectée", inline=False)
+            embed.add_field(name="Canal", value=f"{message.channel.mention}", inline=False)
+            await log_channel.send(embed=embed)
+        return
+
+  # Vérifie si le message contient un numéro de téléphone
+    if re.search(phone_regex, message.content):
+        await message.delete()
+        await message.channel.send(
+            f"🔒 **Message masqué** — les numéros de téléphone ne sont pas autorisés sur le serveur, {message.author.mention}."
+        )
+        log_channel = bot.get_channel(LOG_CHANNEL_ID)
+        if log_channel:
+            embed = discord.Embed(
+                title="⚠️ Message masqué",
+                color=0xFF0000
+            )
+            embed.add_field(name="Auteur", value=f"{message.author.mention}", inline=False)
+            embed.add_field(name="Raison", value="Numéro de téléphone détecté", inline=False)
+            embed.add_field(name="Canal", value=f"{message.channel.mention}", inline=False)
+            await log_channel.send(embed=embed)
+        return    
+    
     # Traiter les commandes classiques (préfixe "!")
     await bot.process_commands(message)
 
