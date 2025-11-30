@@ -55,7 +55,7 @@ def load_bad_words():
 bad_words = load_bad_words()
 
 # Regex pour email et téléphone
-phone_regex = r"(?:(?:\+33|0)\s*[1-9](?:[\s.-]*\d{2}){4})"
+phone_regex = r"\b(?:0\d(?:[\s.-]?\d{2}){4}|\+33\s*[1-9](?:[\s.-]?\d{2}){4})\b"
 email_regex = r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}"
 
 # ----------------------------------------
