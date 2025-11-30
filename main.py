@@ -86,8 +86,11 @@ async def on_message(message):
             await message.add_reaction(emoji)
 
 # ----------------------------------------
-# MODÉRATION (MOTS INTERDITS) – version améliorée
+# MODÉRATION (MOTS INTERDITS) – version corrigée
 # ----------------------------------------
+bad_words = ["mot1", "mot2", "mot3"]
+content_lower = message.content.lower()  # Assure-toi que 'message.content' existe
+
 for word in bad_words:
     pattern = r'\b' + re.escape(word.lower()) + r'\b'
     if re.search(pattern, content_lower):
@@ -113,8 +116,7 @@ for word in bad_words:
 
             await log_channel.send(embed=embed)
 
-        return  # stop, ne pas analyser plus loin
-
+        return  # Stoppe la fonction après suppression et log
 
     # Vérifie si le message contient un email
     if re.search(email_regex, message.content):
