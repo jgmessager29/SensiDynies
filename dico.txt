@@ -4357,9 +4357,7 @@ ruminant: Animal qui rumine, comme le bœuf.
 rumination: Action de ruminer, ou ressassement mental.
 ruminer: Remâcher les aliments, ou ressasser mentalement.
 rupestre: Relatif aux rochers.
-rupt
-
-ure: Cassure, brisure soudaine.
+rupture: Cassure, brisure soudaine.
 rupture d'anévrisme: Déchirure de la paroi d'un anévrisme avec hémorragie.
 rupture de coiffe: Déchirure des tendons de l'épaule.
 rupture de la rate: Déchirure de la rate par traumatisme.
@@ -4492,9 +4490,7 @@ salaison: Conservation par le sel, ou produit salé.
 salamandre: Amphibien urodèle.
 salami: Saucisson sec italien.
 salant: Qui produit du sel.
-salar
-
-iat: Ensemble des salariés.
+salariat: Ensemble des salariés.
 salarié: Qui reçoit un salaire pour son travail.
 salariée: Qui reçoit un salaire pour son travail.
 salarier: Rémunérer par un salaire.
@@ -4749,9 +4745,7 @@ scapulo-huméral: Relatif à l'omoplate et à l'humérus.
 scarification: Incision superficielle multiple de la peau.
 scarifier: Pratiquer des scarifications.
 scarlatine: Maladie infectieuse éruptive due au streptocoque.
-scarlatin
-
-iforme: Qui ressemble à la scarlatine.
+scarlatiniforme: Qui ressemble à la scarlatine.
 scatologie: Étude des excréments, ou propos obscènes.
 scatologique: Relatif aux excréments.
 scatophage: Qui se nourrit d'excréments.
