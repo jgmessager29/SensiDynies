@@ -77,8 +77,10 @@ async def on_message(message):
         return  # Stop ici, pas besoin de process_commands
 
     # Ajouter des réactions automatiques
-    if "sensidynies" in content_lower:
-        await message.add_reaction("🛸")
+    if "sensidynies" in content_lower: 
+        emoji = bot.get_emoji(1443981290389897257)  # Récupère l'emoji serveur sensidynies
+        if emoji:
+            await message.add_reaction(emoji)
 
     if "fibromyalgie" in content_lower:
         emoji = bot.get_emoji(1443982572215337043)  # Récupère l'emoji serveur ruban bleu
