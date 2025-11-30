@@ -520,6 +520,9 @@ async def send_embed(ctx, *, content):
         await ctx.send("Format invalide. Utilise : Titre | Description")
         return
 
+ # Ajouter automatiquement une ligne vide après le + pour le saut de ligne
+    description = "\n\n" + description.strip()
+    
     embed = discord.Embed(
         title=title.strip(),
         description=description.strip(),
