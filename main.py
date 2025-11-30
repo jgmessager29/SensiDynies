@@ -505,6 +505,26 @@ async def effacer(ctx, amount: int):
     await send_embed_to_channels(title="**!effacer**", description=f"{str(ctx.author)} a effacé {amount} messages dans <#{ctx.channel.id}>")
 
 # ----------------------------------------
+# COMMANDE !embed
+# ----------------------------------------
+
+@bot.command(name="embed")
+async def send_embed(ctx, *, content):
+    # content peut être "Titre | Description"
+    try:
+        title, description = content.split("+", 1)
+    except ValueError:
+        await ctx.send("Format invalide. Utilise : Titre | Description")
+        return
+
+    embed = discord.Embed(
+        title=title.strip(),
+        description=description.strip(),
+        color=discord.Color.pink()
+    )
+    await ctx.send(embed=embed)
+
+# ----------------------------------------
 # COMMANDE !info
 # ----------------------------------------
 @bot.command(name="info")
