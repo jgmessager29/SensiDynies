@@ -513,6 +513,8 @@ async def effacer(ctx, amount: int):
 
 @bot.command(name="embed")
 async def send_embed(ctx, *, content):
+    # Supprimer le message qui a déclenché la commande
+    await ctx.message.delete()
     # content peut être "Titre | Description"
     try:
         title, description = content.split("+", 1)
