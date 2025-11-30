@@ -36,6 +36,22 @@ intents.members = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 bot.remove_command("help")
 
+# --------------------
+# LECTURE DES MOTS INTERDITS
+# --------------------
+LOG_CHANNEL_ID = 1443209968865116271  # Ton canal de logs
+BAD_WORDS_FILE = "moderation.txt"     # Fichier contenant les mots interdits
+
+def load_bad_words():
+    try:
+        with open(BAD_WORDS_FILE, "r", encoding="utf-8") as f:
+            return [line.strip().lower() for line in f.readlines() if line.strip()]
+    except FileNotFoundError:
+        print(f"Le fichier {BAD_WORDS_FILE} est introuvable.")
+        return []
+
+bad_words = load_bad_words()
+
 # ----------------------------------------
 # INTERCEPTION DES MESSAGES
 # ----------------------------------------
@@ -161,21 +177,6 @@ async def send_embed_to_channels(title, description, color=discord.Color.pink(),
             embed = discord.Embed(title=title, description=description, color=color)
             await channel.send(embed=embed)
 
-# --------------------
-# LECTURE DES MOTS INTERDITS
-# --------------------
-LOG_CHANNEL_ID = 1443209968865116271  # Ton canal de logs
-BAD_WORDS_FILE = "moderation.txt"     # Fichier contenant les mots interdits
-
-def load_bad_words():
-    try:
-        with open(BAD_WORDS_FILE, "r", encoding="utf-8") as f:
-            return [line.strip().lower() for line in f.readlines() if line.strip()]
-    except FileNotFoundError:
-        print(f"Le fichier {BAD_WORDS_FILE} est introuvable.")
-        return []
-
-bad_words = load_bad_words()
 
 
 # ----------------------------------------
