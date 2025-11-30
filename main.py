@@ -85,41 +85,31 @@ async def on_message(message):
         if emoji:
             await message.add_reaction(emoji)
 
-# ----------------------------------------
-# MODÉRATION (MOTS INTERDITS) – version corrigée
-# ----------------------------------------
-bad_words = ["mot1", "mot2", "mot3"]
-content_lower = message.content.lower()  # Assure-toi que 'message.content' existe
-
-for word in bad_words:
-    pattern = r'\b' + re.escape(word.lower()) + r'\b'
-    if re.search(pattern, content_lower):
-        # 1️⃣ Supprimer le message interdit
-        await message.delete()
-
-        # 2️⃣ Message dans le même canal
-        await message.channel.send(
-            f"🔒 **Message masqué** — mot interdit détecté sur le message "
-            f"de **{message.author.mention}**."
-        )
-
-        # 3️⃣ Log dans le canal modération
-        log_channel = bot.get_channel(LOG_CHANNEL_ID)
-        if log_channel:
-            embed = discord.Embed(
-                title="⚠️ Message masqué",
-                color=0xFF0000  # rouge pour alerte
+    # ----------------------------------------
+    # MODÉRATION (MOTS INTERDITS)
+    # ----------------------------------------
+    bad_words = ["mot1", "mot2", "mot3"]
+    for word in bad_words:
+        pattern = r'\b' + re.escape(word.lower()) + r'\b'
+        if re.search(pattern, content_lower):
+            await message.delete()
+            await message.channel.send(
+                f"🔒 **Message masqué** — mot interdit détecté sur le message de {message.author.mention}."
             )
-            embed.add_field(name="Auteur", value=f"{message.author.mention}", inline=False)
-            embed.add_field(name="Mot détecté", value=f"`{word}`", inline=False)
-            embed.add_field(name="Canal", value=f"{message.channel.mention}", inline=False)
-
-            await log_channel.send(embed=embed)
-
-        return  # Stoppe la fonction après suppression et log
+            log_channel = bot.get_channel(LOG_CHANNEL_ID)
+            if log_channel:
+                embed = discord.Embed(
+                    title="⚠️ Message masqué",
+                    color=0xFF0000
+                )
+                embed.add_field(name="Auteur", value=f"{message.author.mention}", inline=False)
+                embed.add_field(name="Mot détecté", value=f"`{word}`", inline=False)
+                embed.add_field(name="Canal", value=f"{message.channel.mention}", inline=False)
+                await log_channel.send(embed=embed)
+            return
 
     # Vérifie si le message contient un email
-    if re.search(email_regex, message.content):
+    if re.search(email_regex, content):
         await message.delete()
         await message.channel.send(
             f"🔒 **Message masqué** — les adresses email ne sont pas autorisées sur le serveur, {message.author.mention}."
@@ -136,8 +126,8 @@ for word in bad_words:
             await log_channel.send(embed=embed)
         return
 
-  # Vérifie si le message contient un numéro de téléphone
-    if re.search(phone_regex, message.content):
+    # Vérifie si le message contient un numéro de téléphone
+    if re.search(phone_regex, content):
         await message.delete()
         await message.channel.send(
             f"🔒 **Message masqué** — les numéros de téléphone ne sont pas autorisés sur le serveur, {message.author.mention}."
@@ -152,8 +142,8 @@ for word in bad_words:
             embed.add_field(name="Raison", value="Numéro de téléphone détecté", inline=False)
             embed.add_field(name="Canal", value=f"{message.channel.mention}", inline=False)
             await log_channel.send(embed=embed)
-        return    
-    
+        return
+
     # Traiter les commandes classiques (préfixe "!")
     await bot.process_commands(message)
 
