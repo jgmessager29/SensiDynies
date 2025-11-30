@@ -347,9 +347,14 @@ def load_dico():
     dico = {}
     with open("dico.txt", "r", encoding="utf-8") as f:
         for line in f:
-            if line.strip():
-                key, value = line.strip().split(":", 1)
-                dico[key.lower()] = value.strip()
+            line = line.strip()
+            if not line:
+                continue  # ignore les lignes vides
+            if ":" not in line:
+                print(f"Ligne ignorée (format invalide) : {line}")
+                continue
+            key, value = line.split(":", 1)
+            dico[key.lower()] = value.strip()
     return dico
 
 medical_dict = load_dico()
