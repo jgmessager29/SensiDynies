@@ -1,0 +1,37 @@
+POLITIQUE DE CONFIDENTIALITÉ (FR) - BOT SENSIDYNIES
+Version française
+
+● Informations collectées
+Le bot ne collecte aucune donnée personnelle.
+Les seules données traitées sont les informations techniques transmises automatiquement par Discord.
+
+● Finalité des informations
+Les données temporaires sont utilisées uniquement pour :
+▸ exécuter les commandes
+▸ appliquer les systèmes de modération
+▸ fournir les fonctions automatiques prévues
+Aucune analyse marketing ou profilage n’est effectué.
+
+● Partage des données
+Le bot ne transmet aucune information à des tiers.
+Aucune donnée n’est exportée hors de Discord.
+
+● Stockage
+Aucun stockage permanent n’est réalisé.
+Le bot n’utilise :
+▸ aucune base de données externe
+▸ aucun système de conservation des messages
+▸ aucun journal persistant des utilisateurs
+
+● Sécurité
+Des mesures techniques sont appliquées pour garantir un traitement sûr et minimaliste des données temporaires nécessaires au fonctionnement.
+
+● Utilisation dans des serveurs tiers
+La présente Politique s’applique de manière identique, quel que soit le serveur qui utilise le bot.
+
+● Modifications
+Le Propriétaire peut mettre à jour cette Politique à tout moment.
+L’utilisation continue du bot vaut acceptation des modifications.
+
+● Contact
+Toute demande doit être adressée au Propriétaire du bot.
