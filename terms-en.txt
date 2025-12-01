@@ -1,0 +1,40 @@
+TERMS OF SERVICE (EN) - SENSIDYNIES BOT
+English version
+
+● General Agreement
+This document constitutes an agreement between the Bot Owner, Messager Jean-Guillaume (Linkedin https://www.linkedin.com/in/jgmessager/), and the User. Any use of the bot implies full acceptance of the conditions described herein.
+
+● Authorized Use
+The User is granted a limited, non-exclusive and non-transferable license to use the bot for personal or community purposes.
+
+● Forbidden Usage
+▸ any activity that violates national or international law
+▸ harassment, harm or nuisance toward others
+▸ bypassing Discord systems or rules
+▸ commercial use without written permission
+
+● Personal Data
+The bot does not collect or store personal data. Only the technical information required for immediate operation is temporarily processed.
+
+● Bot Modifications
+The Owner may modify, update or suspend the bot at any time.
+No liability can be incurred in case of downtime or malfunction.
+
+● Liability
+The User is solely responsible for their use of the bot.
+The Owner cannot be held liable for:
+▸ data loss
+▸ indirect damages
+▸ actions resulting from server misconfiguration
+
+● Intellectual Property
+The bot’s name, codebase, structure and visual identity remain the exclusive property of the Owner.
+
+● Indemnification
+The User agrees to indemnify the Owner for any claims resulting from abusive or illegal use of the bot.
+
+● Termination
+Either party may terminate the agreement at any time without justification.
+
+● Governing Law
+This agreement is governed by French law.
