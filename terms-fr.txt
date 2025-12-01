@@ -1,0 +1,40 @@
+CONDITIONS D’UTILISATION (FR) - BOT SENSIDYNIES
+Version française
+
+● Accord général
+Le présent document constitue un accord entre le Propriétaire, Messager Jean-Guillaume (Linkedin https://www.linkedin.com/in/jgmessager/), du Bot et l’Utilisateur. Toute utilisation du bot implique l’acceptation intégrale des conditions énoncées.
+
+● Utilisation autorisée
+L’Utilisateur dispose d’une licence limitée, non exclusive et non transférable pour utiliser le bot à des fins personnelles ou communautaires.
+
+● Usage interdit
+▸ toute utilisation contraire aux lois françaises ou internationales
+▸ nuisance, harcèlement ou atteinte à autrui
+▸ contournement des règles ou systèmes de Discord
+▸ exploitation commerciale sans autorisation écrite
+
+● Données personnelles
+Le bot ne collecte ni ne stocke aucune donnée personnelle. Seules les informations techniques nécessaires à l’exécution des commandes sont traitées temporairement.
+
+● Modifications du bot
+Le Propriétaire peut modifier, mettre à jour ou suspendre le bot à tout moment.
+Aucune responsabilité ne pourra être engagée en cas d’indisponibilité ou de dysfonctionnement.
+
+● Responsabilité
+L’Utilisateur utilise le bot sous sa propre responsabilité.
+Le Propriétaire ne peut être tenu responsable :
+▸ de pertes de données
+▸ de dommages indirects
+▸ d’actions résultant d’une mauvaise configuration du serveur
+
+● Propriété intellectuelle
+Le nom, le code, les éléments visuels et la structure du bot restent la propriété exclusive du Propriétaire.
+
+● Indemnisation
+L’Utilisateur s’engage à indemniser le Propriétaire en cas de réclamation liée à un usage abusif ou illégal du bot.
+
+● Résiliation
+Chaque partie peut mettre fin à l’utilisation du bot à tout moment, sans justification.
+
+● Loi applicable
+Les présentes conditions sont régies par le droit français.
