@@ -1,0 +1,37 @@
+PRIVACY POLICY (EN) - SENSIDYNIES BOT
+English version
+
+● Data Collected
+The bot collects no personal data.
+Only temporary technical information provided automatically by Discord is processed.
+
+● Purpose of Information
+Temporary data is used only for:
+▸ executing commands
+▸ applying moderation systems
+▸ providing automated functions
+No marketing analysis or profiling is performed.
+
+● Data Sharing
+The bot does not transmit any data to third parties.
+No information is exported outside of Discord.
+
+● Storage
+The bot performs no persistent storage.
+It uses:
+▸ no external database
+▸ no message retention system
+▸ no permanent logs of users
+
+● Security
+Technical measures ensure safe handling of the temporary information required for the bot’s operation.
+
+● Use on Third-Party Servers
+This Policy applies equally on any server where the bot is installed.
+
+● Modifications
+The Owner may update this Policy at any time.
+Continued use of the bot indicates acceptance of the updated terms.
+
+● Contact
+Any request may be addressed to the Bot Owner, Messager Jean-Guillaume (Linkedin https://www.linkedin.com/in/jgmessager/).
